@@ -221,7 +221,7 @@ class ArcEagerState:
 	def recover_metadata(trans_file):
 		""" recovers the set of transitions from the trans_file """
 		transitions = []
-		with open(trans_file, 'r') as fr:
+		with open(trans_file, 'r', encoding="utf8") as fr:
 			
 			labelled = fr.readline().strip()
 			ArcEagerState.labelled = True if (labelled == 'LABELLED') else False

@@ -1,0 +1,3375 @@
+1	ओए	ओए	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	dep	_	_
+2	तुम	तुम	PRON	INJ		1	nsubj	_	_
+3	सुन	सुन	VERB	VM	Gender-Masc|Number-Sing|Person-3|Polite-Form|Voice-Act	1	root	_	_
+4	रहे	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	3	aux	_	_
+5	थे	था	AUX	VAUX	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Polite-Form|Tense-Past|VerbForm-Fin	3	aux	_	_
+6	ना	ना	PART	CC		3	dep	_	_
+7	।	।	PUNCT	SYM		1	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|PronType-Int	0	dep	_	_
+2	सुन	सुन	VERB	VM	Gender-Masc|Number-Sing|Voice-Act	1	root	_	_
+3	रहा	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	2	aux	_	_
+4	था	था	AUX	VAUX	Gender-Masc|Mood-Ind|Number-Sing|Tense-Past|VerbForm-Fin	2	aux	_	_
+5	।	।	PUNCT	SYM		1	punct	_	_
+
+1	अब	अब	PRON	PRP	Case-Nom|PronType-Prs	6	obl	_	_
+2	क्या	क्या	X	WQ	PronType-Int|Repair-Matrix_Tag	3	reparandum	_	_
+3	अपना	अपना	PRON	PRP	Case-Nom|Gender-Masc|Number-Sing|PronType-Prs	5	det	_	_
+4	सब	सब	PRON	PRPC	Case-Nom|Number-Sing|Person-3|PronType-Prs	5	nsubj	_	_
+5	रिकॉर्ड	रिकॉर्ड	NOUN	UNK	Foreign-Yes	6	compound	_	_
+6	हो	हो	VERB	VM		0	advcl	_	_
+7	के	कर	AUX	VAUX		6	aux	_	_
+8	हर	हर	DET	QF	PronType-Ind	9	det	_	_
+9	जगह	जगह	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	6	obl	_	_
+10	जाएगा	जा	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	6	root	_	_
+11	क्या	क्या	PRON	WQ	PronType-Int	10	obl	_	_
+12	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	10	dep	_	_
+13	।	।	PUNCT	SYM		6	punct	_	_
+
+1	ठीक	ठीक	ADJ	JJ		0	root	_	_
+2	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	1	cop	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	सीएनएन	सीएनएन	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	4	compound	_	_
+2	न्यूज़	न्यूज़	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	4	obl	_	_
+3	में	में	ADP	PSP	AdpType-Post	2	case	_	_
+4	आ	आ	VERB	VM	Number-Plur|Person-3|Voice-Act	0	root	_	_
+5	जाएँगे	जा	AUX	VAUX	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Polite-Form|Tense-Fut|VerbForm-Fin	4	aux	_	_
+6	हम	हम	PRON	DEM	Case-Nom|Number-Plur|Person-1|PronType-Dem	7	det	_	_
+7	लोग	लोग	NOUN	NN	Case-Nom|Gender-Masc|Number-Plur|Person-3	4	nsubj	_	_
+8	।	।	PUNCT	SYM		4	punct	_	_
+
+1	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	dep	_	_
+2	यश	यश	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	1	obl	_	_
+3	के	का	ADP	PSP	AdpType-Post	2	case	_	_
+4	बारे	बारे	ADP	PSP	AdpType-Post	2	case	_	_
+5	में	में	ADP	PSP	AdpType-Post	2	case	_	_
+6	बात	बात	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	7	compound	_	_
+7	करो	कर	VERB	VM	Mood-Sub|Number-Sing|Person-3|VerbForm-Fin|Voice-Act	1	root	_	_
+8	।	।	PUNCT	SYM		1	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	dep	_	_
+2	पब्लिक	पब्लिक	NOUN	NNC	Case-Nom|Gender-Masc|Number-Sing|Person-3	3	compound	_	_
+3	इन्फ़र्मेशन	इन्फर्मेशन	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	nsubj	_	_
+4	बनेगा	बन	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	1	root	_	_
+5	।	।	PUNCT	SYM		1	punct	_	_
+
+1	सो_आइ_गेस_दैट_दैट्स_बैड_न्यूज़	सो_आइ_गेस_दैट_दैट्स_बैड_न्यूज़	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag|Disfluency-'दैट'|NestedTag-True	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|PronType-Prs	0	dep	_	_
+2	सीएनएन	सीएनएन	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	1	root	_	_
+3	में	में	ADP	PSP	AdpType-Post	2	case	_	_
+4	[anonymized]	[anonymized]	PROPN	VM	Gender-Masc|Number-Sing|Person-3|VerbForm-Part|Voice-Act	1	obl	_	_
+5	।	।	PUNCT	SYM		1	punct	_	_
+
+1	[anonymized]_टॉकिंग_अबाउट_क्यूट_चिक्स	[anonymized]_टॉकिंग_अबाउट_क्यूट_चिक्स	X	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	नो	नो	PART	NN	Case-Nom|Gender-Masc|Number-Sing	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	तो	तो	PART	CC		0	dep	_	_
+2	एनीवे	एनीवे	ADV	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	0	root	_	_
+3	।	।	PUNCT	SYM		2	punct	_	_
+
+1	हाँ	हाँ	INTJ	INJ		0	dep	_	_
+2	तो_ये_इस_वक्त	तो_ये_इस_वक्त	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|Repair-Matrix_Tag	3	reparandum	_	_
+3	आइ_मीन	आइ_मीन	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	1	dep	_	_
+4	अ	अ	X	INJ	Hesitation-Matrix_Tag	5	dep	_	_
+5	ये	यह	DET	DEM	Case-Nom|Number-Plur|Person-3|PronType-Dem	6	det	_	_
+6	यश	यश	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	nsubj	_	_
+7	कहीं	कहीं	PRON	PRP	Case-Nom|PronType-Prs	1	det	_	_
+8	इंडी	इंडी	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|Repair-Matrix_Tag	9	reparandum	_	_
+9	यूएसए	यूएसए	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	obl	_	_
+10	आ	आ	VERB	VM	Gender-Masc|Number-Sing|Person-3|Voice-Act	1	root	_	_
+11	रहा	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	10	aux	_	_
+12	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	10	aux	_	_
+13	कि	कि	SCONJ	CC		15	cc	_	_
+14	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	15	advmod	_	_
+15	आ	आ	VERB	VM	Gender-Masc|Number-Sing|Person-3|Voice-Act	10	conj	_	_
+16	रहा	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	15	aux	_	_
+17	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	15	aux	_	_
+18	।	।	PUNCT	SYM		1	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|PronType-Int	0	dep	_	_
+2	आ	आ	VERB	VM	Gender-Masc|Number-Sing|Person-3|Voice-Act	1	root	_	_
+3	रहा	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	2	aux	_	_
+4	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	2	aux	_	_
+5	।	।	PUNCT	SYM		1	punct	_	_
+
+1	हील	हील	X	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-'हील'|NestedTag-True|Repair-Matrix_Tag	2	reparandum	_	_
+2	आ	आ	X	VM	Hesitation-Matrix_Tag	0	dep	_	_
+3	नवम्बर	नवंबर	PROPN	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	compound	_	_
+4	26	26	NUM	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	2	obl	_	_
+5	को	को	ADP	PSP	AdpType-Post	4	case	_	_
+6	आएगा	आ	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	2	root	_	_
+7	।	।	PUNCT	SYM		2	punct	_	_
+
+1	[incomprehensible]	[incomprehensible]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	root	_	_
+2	ह्म	ह्म	INTJ	VM	Gender-Masc|Number-Sing|VerbForm-Fin|Voice-Act	0	dep	_	_
+3	।	।	PUNCT	SYM		2	punct	_	_
+
+1	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	3	dep	_	_
+2	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	3	dep	_	_
+3	वो	वह	PRON	VM	Number-Sing|VerbForm-Part|Voice-Act	0	root	_	_
+4	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	3	advmod	_	_
+5	।	।	PUNCT	SYM		3	punct	_	_
+
+1	अम	अम	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|Hesitation-Matrix_Tag	2	dep	_	_
+2	कॉन्फ़्रेन्स	कॉन्फ़्रेन्स	NOUN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+3	के	का	ADP	PSP	AdpType-Post	2	case	_	_
+4	लिए	लिए	ADP	PSP	AdpType-Post	2	case	_	_
+5	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	6	advmod	_	_
+6	।	।	PUNCT	SYM		2	punct	_	_
+
+1	जॉब	जॉब	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	2	root	_	_
+2	वॉब	वॉब	NOUN	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|VerbForm-Fin|Voice-Act|Echo-Ech	0	compound	_	_
+3	।	।	PUNCT	SYM		2	punct	_	_
+
+1	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	जॉब	जॉब	NOUN	NN	Case-Acc|Gender-Fem|Number-Sing|Person-3	0	obl	_	_
+2	के	का	ADP	PSP	AdpType-Post	1	case	_	_
+3	लिए	लिए	ADP	PSP	AdpType-Post	1	case	_	_
+4	तो	तो	PART	RP		1	dep	_	_
+5	पता	पता	ADJ	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+6	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	0	advmod	_	_
+7	।	।	PUNCT	SYM		6	punct	_	_
+
+1	जॉब	जॉब	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	3	obj	_	_
+2	तो	तो	PART	RP		1	dep	_	_
+3	आ	आ	X	VM	Hesitation-Matrix_Tag	0	dep	_	_
+4	मिला	मिल	VERB	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	3	root	_	_
+5	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	3	advmod	_	_
+6	ना	ना	PART	CC		3	dep	_	_
+7	उस	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	3	nsubj	_	_
+8	को	को	ADP	PSP	AdpType-Post	7	case	_	_
+9	।	।	PUNCT	SYM		3	punct	_	_
+
+1	आ_के	आ_के	X	PRP	Case-Acc,Gen|Number-Sing|Person-3|Poss-Yes|PronType-Prs|Repair-Matrix_Tag	2	reparandum	_	_
+2	यहाँ	यहाँ	PRON	PRP	Case-Nom|PronType-Prs	3	obl	_	_
+3	आने	आ	VERB	VM	Case-Acc|Number-Sing|Person-3|VerbForm-Inf	0	advcl	_	_
+4	के	का	ADP	PSP	AdpType-Post	3	case	_	_
+5	बाद	बाद	ADV	NST	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Person-3	3	case	_	_
+6	ट्राए	ट्राए	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	3	compound	_	_
+7	करेगा	कर	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	3	root	_	_
+8	फ़िर	फ़िर	PRON	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	7	obl	_	_
+9	से	से	ADP	PSP	AdpType-Post	8	case	_	_
+10	।	।	PUNCT	SYM		3	punct	_	_
+
+1	यहाँ	यहाँ	PRON	PRP	Case-Acc|PronType-Prs	3	obl	_	_
+2	पर	पर	ADP	PSP	AdpType-Post	1	case	_	_
+3	घूमने	घूम	VERB	VM	Case-Acc|VerbForm-Inf	0	advcl	_	_
+4	के	का	ADP	PSP	AdpType-Post	3	case	_	_
+5	लिए	लिए	ADP	PSP	AdpType-Post	3	case	_	_
+6	आ	आ	VERB	VM	Gender-Masc|Number-Sing|Person-3|Voice-Act	3	root	_	_
+7	रहा	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	6	aux	_	_
+8	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	6	aux	_	_
+9	।	।	PUNCT	SYM		3	punct	_	_
+
+1	वो	वह	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	5	nsubj	_	_
+2	इस	यह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	5	obl	_	_
+3	के	का	ADP	PSP	AdpType-Post	2	case	_	_
+4	साथ	साथ	ADP	NST	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Person-3	2	case	_	_
+5	आएगा	आ	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	0	root	_	_
+6	अम_अह	अम_अह	X	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|Hesitation-Matrix_Tag	5	dep	_	_
+7	।	।	PUNCT	SYM		5	punct	_	_
+
+1	अपने	अपना	PRON	PRP	Case-Acc|Gender-Masc|PronType-Prs	5	nmod	_	_
+2	बीवी	बीवी	NOUN	NN	Case-Acc|Gender-Fem|Number-Sing|Person-3	5	obl	_	_
+3	के	का	ADP	PSP	AdpType-Post	2	case	_	_
+4	साथ	साथ	ADP	NST	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Person-3	2	case	_	_
+5	आएगा	आ	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	0	root	_	_
+6	।	।	PUNCT	SYM		5	punct	_	_
+
+1	नीलिमा	नीलिमा	PROPN	NNP	Case-Nom|Gender-Fem|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	इस	यह	DET	DEM	Case-Acc|Number-Sing|Person-3|PronType-Dem	2	det	_	_
+2	बार	बार	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	0	root	_	_
+3	।	।	PUNCT	SYM		2	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	हाँ	हाँ	INTJ	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	dep	_	_
+2	इस	यह	DET	DEM	Case-Acc|Number-Sing|Person-3|PronType-Dem	3	det	_	_
+3	बार	बार	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	10	obl	_	_
+4	बीवी	बीवी	NOUN	NN	Case-Acc|Gender-Fem|Number-Sing|Person-3	10	obl	_	_
+5	के	का	ADP	PSP	AdpType-Post	4	case	_	_
+6	साथ	साथ	ADP	NST	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Person-3	4	case	_	_
+7	यहाँ	यहाँ	PRON	PRP	Case-Acc|PronType-Prs	10	obl	_	_
+8	पर	पर	ADP	PSP	AdpType-Post	7	case	_	_
+9	थोड़ा	थोड़ा	ADJ	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	10	advmod	_	_
+10	घूमेगा	घूम	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	1	root	_	_
+11	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ग्रैंड	ग्रैंड	PROPN	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	compound	_	_
+2	कैनियन	कैनियन	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	obj	_	_
+3	सब	सब	PRON	PRP	Case-Nom|Person-3|PronType-Prs	2	conj	_	_
+4	घूमेगा	घूम	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	2	root	_	_
+5	।	।	PUNCT	SYM		2	punct	_	_
+
+1	बोल	बोल	VERB	VM	Gender-Masc|Number-Sing|Person-3|Voice-Act	0	root	_	_
+2	रहा	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	1	aux	_	_
+3	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	1	aux	_	_
+4	कि	कि	SCONJ	CC		7	mark	_	_
+5	यूएस	यूएस	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	7	obj	_	_
+6	पूरा	पूरा	ADJ	JJ	Gender-Masc|Number-Sing	7	amod	_	_
+7	घूम	घूम	VERB	VM	Gender-Masc|Number-Sing|Person-3|Voice-Act	1	advcl	_	_
+8	के	कर	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	7	aux	_	_
+9	जाएगा	जा	VERB	VAUX	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin	7	obj	_	_
+10	वापस	वापस	ADJ	JJ		1	obl	_	_
+11	।	।	PUNCT	SYM		1	punct	_	_
+
+1	[incomprehensible]	[incomprehensible]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	इस	यह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	7	nmod	_	_
+2	का	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing	1	case	_	_
+3	मतलब	मतलब	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	7	root	_	_
+4	लंबी	लंबा	ADJ	JJ	Case-Acc|Gender-Fem|Number-Sing	5	amod	_	_
+5	छुट्टी	छुट्टी	NOUN	NN	Case-Acc|Gender-Fem|Number-Sing|Person-3	7	obl	_	_
+6	पर	पर	ADP	PSP	AdpType-Post	5	case	_	_
+7	आ	आ	VERB	VM	Gender-Masc|Number-Sing|Person-3|Voice-Act	0	obj	_	_
+8	रहा	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	7	aux	_	_
+9	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	7	aux	_	_
+10	।	।	PUNCT	SYM		7	punct	_	_
+
+1	हाँ	हाँ	INTJ	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	dep	_	_
+2	15	15	NUM	QCC	NumType-Card	3	compound	_	_
+3	20	20	NUM	QC	NumType-Card	4	nummod	_	_
+4	दिन	दिन	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	0	nmod	_	_
+5	की	का	ADP	PSP	AdpType-Post|Case-Acc|Gender-Fem|Number-Sing	4	case	_	_
+6	छुट्टी	छुट्टी	NOUN	NN	Case-Acc|Gender-Fem|Number-Sing|Person-3	0	root	_	_
+7	पर	पर	ADP	PSP	AdpType-Post	6	case	_	_
+8	।	।	PUNCT	SYM		6	punct	_	_
+
+1	पर_यूएस_सब	पर_यूएस_सब	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|Repair-Matrix_Tag	2	reparandum	_	_
+2	आइ_मीन	आइ_मीन	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	3	root	_	_
+3	तब	तब	PRON	PRP	Case-Nom|PronType-Prs	7	obl	_	_
+4	तो	तो	PART	RP		3	dep	_	_
+5	इतना	इतना	DET	QF	Case-Nom|Gender-Masc|Number-Sing	6	det	_	_
+6	ठंड	ठंड	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	7	compound	_	_
+7	होगा	हो	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	0	obj	_	_
+8	।	।	PUNCT	SYM		7	punct	_	_
+
+1	आयोवा	आयोवा	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	obl	_	_
+2	जा	जा	VERB	VM		0	advcl	_	_
+3	कर	कर	AUX	VAUX		2	aux	_	_
+4	क्या	क्या	PRON	WQ	PronType-Int	2	obj	_	_
+5	करेगा	कर	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	2	root	_	_
+6	।	।	PUNCT	SYM		2	punct	_	_
+
+1	अबे	अबे	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	dep	_	_
+2	लेकिन	लेकिन	CCONJ	CC		0	cc	_	_
+3	नवम्बर	नवंबर	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	0	obl	_	_
+4	में	में	ADP	PSP	AdpType-Post	3	case	_	_
+5	कैलिफ़ोर्निया_देर_शुड_नॉट_बी_दैट_कोल्ड	कैलिफ़ोर्निया_देर_शुड_नॉट_बी_दैट_कोल्ड	X	JJ	CodeSwitch-Matrix_Tag	6	root	_	_
+6	।	।	PUNCT	SYM		3	punct	_	_
+
+1	नो	नो	PART	NNPC	Case-Nom	2	dep	_	_
+2	कैलिफ़ोर्निया	कैलिफ़ोर्निया	PROPN	NNP	Case-Nom|Gender-Fem|Number-Sing|Person-3	0	nsubj	_	_
+3	तो	तो	PART	RP		2	dep	_	_
+4	ठीक	ठीक	ADJ	JJ		2	root	_	_
+5	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	2	cop	_	_
+6	।	।	PUNCT	SYM		2	punct	_	_
+
+1	बट_ही_वॉन्ट्स_टू_गो	बट_ही_वॉन्ट्स_टू_गो	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	3	root	_	_
+2	ये	यह	DET	DEM	Case-Nom|Number-Plur|Person-3|PronType-Dem	3	det	_	_
+3	आयोवा	आयोवा	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	obl	_	_
+4	।	।	PUNCT	SYM		3	punct	_	_
+
+1	शिकागो	शिकागो	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	सब	सब	X	PRPC	Case-Nom|Number-Plur|Person-3|PronType-Prs|Repair-Matrix_Tag	2	reparandum	_	_
+2	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	root	_	_
+3	।	।	PUNCT	SYM		2	punct	_	_
+
+1	सब_जगह_जाना	सब_जगह_जाना	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|Repair-Matrix_Tag	3	reparandum	_	_
+2	सब_से	सब_से	X	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|Repair-Matrix_Tag	3	reparandum	_	_
+3	ह्म	ह्म	INTJ	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	0	root	_	_
+4	।	।	PUNCT	SYM		3	punct	_	_
+
+1	हैं	है	INTJ	VM	Mood-Ind|Number-Plur|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	अच्छा	अच्छा	ADJ	JJ	Gender-Masc|Number-Sing	0	dep	_	_
+2	ये	यह	PRON	PRP	Case-Nom|Number-Plur|Person-3|PronType-Prs	1	obj	_	_
+3	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	2	advmod	_	_
+4	बताया	बता	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act	1	root	_	_
+5	।	।	PUNCT	SYM		1	punct	_	_
+
+1	कार	कार	NOUN	NN	Case-Acc|Gender-Fem|Number-Sing|Person-3	0	root	_	_
+2	से	से	ADP	PSP	AdpType-Post	1	case	_	_
+3	कार	कार	NOUN	NN	Case-Acc|Gender-Fem|Number-Sing|Person-3	0	conj	_	_
+4	से	से	ADP	PSP	AdpType-Post	3	case	_	_
+5	।	।	PUNCT	SYM		3	punct	_	_
+
+1	कार	कार	NOUN	NN	Case-Acc|Gender-Fem|Number-Sing|Person-3	0	root	_	_
+2	से	से	ADP	PSP	AdpType-Post	1	case	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	पागल	पागल	ADJ	JJ		0	compound	_	_
+2	हो	हो	VERB	VM	Gender-Masc|Number-Sing|Person-3|Voice-Act	1	root	_	_
+3	गया	जा	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	2	aux	_	_
+4	होगा	हो	AUX	VAUX	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin	2	aux	_	_
+5	वो	वह	PRON	CC		0	nsubj	_	_
+6	।	।	PUNCT	SYM		5	punct	_	_
+
+1	रेंटल	रेंटल	X	NNC	Case-Acc|Repair-Matrix_Tag	2	reparandum	_	_
+2	मैं	मैं	PRON	PRP	Case-Nom|Number-Sing|Person-1|PronType-Prs	5	nsubj	_	_
+3	ने	ने	ADP	PSP	AdpType-Post	2	case	_	_
+4	रेंटल	रेंटल	NOUN	NNC	Case-Nom	5	obj	_	_
+5	बुक	बुक	VERB	UNK	Foreign-Yes	0	compound	_	_
+6	कर	कर	VERB	VM	Number-Sing|Voice-Act	5	root	_	_
+7	दिया	दे	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	6	aux	_	_
+8	ऑलरेडी	ऑलरेडा	ADV	JJ	Case-Nom|CodeSwitch-Matrix_Tag	6	advmod	_	_
+9	[pause]	[pause]	X	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	10	dep	_	_
+10	तो	तो	X	RP	Repair-Matrix_Tag	6	reparandum	_	_
+11	।	।	PUNCT	SYM		5	punct	_	_
+
+1	लेकिन	लेकिन	CCONJ	CC		3	cc	_	_
+2	इतना	इतना	ADJ	QF	Gender-Masc|Number-Sing	3	det	_	_
+3	चलाने	चला	VERB	VM	Case-Acc|VerbForm-Inf	0	obl	_	_
+4	में	में	ADP	PSP	AdpType-Post	3	case	_	_
+5	तो	तो	PART	RP		3	dep	_	_
+6	काफ़ी	काफ़ी	ADJ	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	3	advmod	_	_
+7	लगेगी	लग	VERB	VM	Gender-Fem|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	3	root	_	_
+8	भाई	भाई	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	7	vocative	_	_
+9	।	।	PUNCT	SYM		3	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|PronType-Prs	0	dep	_	_
+2	वो	वह	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	3	nsubj	_	_
+3	सोच	सोच	VERB	VM	Gender-Masc|Number-Sing|Person-3|Voice-Act	1	root	_	_
+4	रहा	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	3	aux	_	_
+5	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	3	aux	_	_
+6	मैं	मैं	PRON	PRP	Case-Nom|Number-Sing|Person-1|PronType-Prs	7	nsubj	_	_
+7	आ	आ	VERB	VM	Gender-Masc|Number-Sing|Person-3|Voice-Act	3	obj	_	_
+8	सकता	सक	AUX	VAUX	Aspect-Imp|Gender-Masc|Number-Sing|VerbForm-Part	7	aux	_	_
+9	हूँ	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-1|Tense-Pres|VerbForm-Fin	7	aux	_	_
+10	।	।	PUNCT	SYM		1	punct	_	_
+
+1	मेरे	मैं	PRON	PRP	Case-Acc,Gen|Gender-Masc|Number-Sing|Person-1|Poss-Yes|PronType-Prs	4	obl	_	_
+2	पास	पास	ADP	NST	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Person-3	1	case	_	_
+3	उतना	उतना	DET	QF	Case-Nom|Gender-Masc|Number-Sing	4	det	_	_
+4	छुट्टी	छुट्टी	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	11	root	_	_
+5	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	6	advmod	_	_
+6	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	4	cop	_	_
+7	कि	कि	SCONJ	CC		11	mark	_	_
+8	उस	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	11	obl	_	_
+9	के	का	ADP	PSP	AdpType-Post	8	case	_	_
+10	साथ	साथ	ADP	NST	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Person-3	8	case	_	_
+11	घूम	घूम	VERB	VM	Number-Sing|Person-3|Polite-Form|Voice-Act	0	acl	_	_
+12	सकूँ	सक	AUX	VAUX	Mood-Sub|Number-Sing|Person-3|VerbForm-Fin	11	aux	_	_
+13	।	।	PUNCT	SYM		11	punct	_	_
+
+1	इंडिया	इंडिया	PROPN	NNP	Case-Nom|Gender-Fem|Number-Sing|Person-3	2	obj	_	_
+2	जा	जा	VERB	VM	Gender-Masc|Voice-Act	0	root	_	_
+3	रहे	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Plur|VerbForm-Part	2	aux	_	_
+4	हो	हो	AUX	VAUX		2	aux	_	_
+5	।	।	PUNCT	SYM		2	punct	_	_
+
+1	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	5	dep	_	_
+2	इंडिया	इंडिया	PROPN	NNP	Case-Nom|Gender-Fem|Number-Sing|Person-3	5	obj	_	_
+3	भी	भी	PART	RP		2	dep	_	_
+4	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	5	advmod	_	_
+5	जा	जा	VERB	VM	Number-Sing|Voice-Act	0	root	_	_
+6	रहा	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	5	aux	_	_
+7	अभी	अभी	PRON	PRP	Case-Nom|PronType-Prs	5	obl	_	_
+8	।	।	PUNCT	SYM		5	punct	_	_
+
+1	क्यों	क्यों	PRON	WQ	PronType-Int	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	जाऊँगा	जाऊ	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	0	root	_	_
+2	कभी	कभी	PRON	PRP	PronType-Prs	1	obl	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	शादी	शादी	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	4	compound	_	_
+2	वादी	वादी	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3|Echo-Ech	4	compound	_	_
+3	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	4	advmod	_	_
+4	हो	हो	VERB	VM	Number-Sing|Voice-Act	0	root	_	_
+5	रही	रह	AUX	VAUX	Aspect-Perf|Gender-Fem|Number-Sing|VerbForm-Part	4	aux	_	_
+6	क्या	क्या	PRON	WQ	PronType-Int	4	obl	_	_
+7	।	।	PUNCT	SYM		4	punct	_	_
+
+1	जब	जब	PRON	PRP	Case-Nom|PronType-Prs	2	obl	_	_
+2	होगी	हो	VERB	VM	Gender-Fem|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	0	acl:relcl	_	_
+3	तब	तब	PRON	PRP	Case-Nom|PronType-Prs	2	obl	_	_
+4	जाऊँगा	जाऊ	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	2	root	_	_
+5	।	।	PUNCT	SYM		2	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	अच्छा	अच्छा	ADJ	JJ	Gender-Masc|Number-Sing	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	लड़कियाँ	लड़कियाँ	NOUN	NN	Case-Nom|Gender-Fem|Number-Plur|Person-3	3	obj	_	_
+2	वड़कियाँ	वड़कियाँ	NOUN	NN	Case-Nom|Gender-Fem|Number-Plur|Person-3|Echo-Ech	3	compound	_	_
+3	ढ़ूँढ	ढ़ूँढ	VERB	VM	Gender-Fem|Number-Sing|Person-3|Voice-Act	0	root	_	_
+4	रखी	रख	AUX	VAUX	Aspect-Perf|Gender-Fem|Number-Plur|VerbForm-Part	3	aux	_	_
+5	है	है	AUX	VAUX	Mood-Ind|Number-Plur|Person-3|Tense-Pres|VerbForm-Fin	3	aux	_	_
+6	कि	कि	SCONJ	CC		0	cc	_	_
+7	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	0	conj	_	_
+8	घर	घर	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	0	obl	_	_
+9	में	में	ADP	PSP	AdpType-Post	8	case	_	_
+10	।	।	PUNCT	SYM		8	punct	_	_
+
+1	ढ़ूँढ_के_र	ढ़ूँढ_के_र	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|Repair-Matrix_Tag	2	reparandum	_	_
+2	ढ़ूँढ	ढ़ूँढ	VERB	VM	Gender-Masc|Number-Plur|Person-3|Voice-Act	0	root	_	_
+3	रहे	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Plur|VerbForm-Part	2	aux	_	_
+4	हैं	है	AUX	VAUX	Mood-Ind|Number-Plur|Person-3|Tense-Pres|VerbForm-Fin	2	aux	_	_
+5	।	।	PUNCT	SYM		2	punct	_	_
+
+1	[noise]	[noise]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	dep	_	_
+2	अच्छा	अच्छा	ADJ	JJ	Gender-Masc|Number-Sing	0	root	_	_
+3	अच्छा	अच्छा	ADJ	JJ	Gender-Masc|Number-Sing	2	dep	_	_
+4	।	।	PUNCT	SYM		2	punct	_	_
+
+1	ऐड	ऐड	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	obj	_	_
+2	निकाल	निकाल	VERB	VM		0	advcl	_	_
+3	दो	दो	AUX	QC	NumType-Card	2	aux	_	_
+4	मिल	मिल	VERB	VM	Number-Sing|Person-3|Voice-Act	2	root	_	_
+5	ही	ही	PART	RP		4	dep	_	_
+6	जाएगी	जा	AUX	VAUX	Gender-Fem|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin	4	aux	_	_
+7	।	।	PUNCT	SYM		2	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	तो	तो	PART	CC		2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	तो	तो	PART	CC		4	dep	_	_
+2	और	और	DET	CC		3	det	_	_
+3	क्या	क्या	PRON	WQ	PronType-Int	4	nsubj	_	_
+4	हो	हो	VERB	VM	Gender-Masc|Number-Sing|Person-3|Voice-Act	0	root	_	_
+5	रहा	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	4	aux	_	_
+6	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	4	aux	_	_
+7	।	।	PUNCT	SYM		4	punct	_	_
+
+1	तो	तो	PART	CC		5	dep	_	_
+2	[incomprehensible]	[incomprehensible]	X	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	4	nmod	_	_
+3	का	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing	2	case	_	_
+4	पढ़ाई	पढ़ाई	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	5	compound	_	_
+5	हो	हो	VERB	VM	Number-Sing|Voice-Act	0	root	_	_
+6	गया	जा	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	5	aux	_	_
+7	।	।	PUNCT	SYM		5	punct	_	_
+
+1	और	और	CCONJ	CC		4	cc	_	_
+2	कुछ	कुछ	PRON	PRP	Case-Nom|Person-3|PronType-Prs	4	obj	_	_
+3	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	4	advmod	_	_
+4	[incomprehensible]	[incomprehensible]	X	VM	Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act	0	root	_	_
+5	।	।	PUNCT	SYM		4	punct	_	_
+
+1	[incomprehensible]	[incomprehensible]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	nsubj	_	_
+2	अब	अब	PRON	PRP	Case-Nom|PronType-Prs	5	obl	_	_
+3	म	म	X	NNC	Case-Nom|Gender-Masc|Number-Sing|Person-3|Hesitation-Matrix_Tag	4	dep	_	_
+4	मग्गा	मग्गा	NOUN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	5	compound	_	_
+5	मार	मार	VERB	VM	Gender-Fem|Number-Sing|Person-3|Voice-Act	0	root	_	_
+6	रही	रह	AUX	VAUX	Aspect-Perf|Gender-Fem|Number-Sing|VerbForm-Part	5	aux	_	_
+7	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	5	aux	_	_
+8	।	।	PUNCT	SYM		5	punct	_	_
+
+1	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	dep	_	_
+2	क्या	क्या	PRON	WQ	PronType-Int	1	obl	_	_
+3	प्रपोज़ल	प्रपोज़ल	NOUN	JJ		4	nsubj	_	_
+4	हो	हो	VERB	VM	Number-Sing|Voice-Act	1	root	_	_
+5	गया	जा	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	4	aux	_	_
+6	उस	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	0	nmod	_	_
+7	का	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing	6	case	_	_
+8	।	।	PUNCT	SYM		6	punct	_	_
+
+1	वो	वह	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	4	nsubj	_	_
+2	तो	तो	PART	RP		1	dep	_	_
+3	पहले	पहले	ADJ	NST	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Person-3	4	obl	_	_
+4	हो	हो	VERB	VM	Gender-Masc|Number-Sing|Person-3|Voice-Act	0	root	_	_
+5	चुका	चुक	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	4	aux	_	_
+6	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	4	aux	_	_
+7	।	।	PUNCT	SYM		4	punct	_	_
+
+1	अब	अब	PRON	PRP	Case-Nom|PronType-Prs	7	obl	_	_
+2	तो	तो	PART	RP		1	dep	_	_
+3	थीसिस	थीसिस	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	7	obj	_	_
+4	वीसिस	वीसिस	NOUN	PSP	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Echo-Ech	3	compound	_	_
+5	मतलब	मतलब	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	7	dep	_	_
+6	खतम	खतम	ADJ	JJ		7	compound	_	_
+7	करने	कर	VERB	VM	Case-Acc|Number-Sing|VerbForm-Inf	0	nmod	_	_
+8	के	का	ADP	PSP	AdpType-Post|Case-Acc|Gender-Masc|Number-Sing	7	case	_	_
+9	मूड	मूड	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	7	root	_	_
+10	में	में	ADP	PSP	AdpType-Post	9	case	_	_
+11	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	9	cop	_	_
+12	।	।	PUNCT	SYM		7	punct	_	_
+
+1	अच्छा	अच्छा	ADJ	JJ	Gender-Masc|Number-Sing	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	मतलब	मतलब	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	5	dep	_	_
+2	वो	वह	DET	DEM	Case-Nom|Number-Plur|Person-3|PronType-Dem	3	det	_	_
+3	फ़ाइनल	फाइनल	ADJ	NNC	Case-Nom|Gender-Masc|Number-Sing|Person-3	4	amod	_	_
+4	चैप्टर्ज़	चैप्टर्ज़	NOUN	NN	Case-Nom|Gender-Masc|Number-Plur|Person-3	5	nsubj:pass	_	_
+5	लिखे	लिख	VERB	VM	Aspect-Perf|Gender-Masc|Number-Plur|Person-3|VerbForm-Part|Voice-Act	0	root	_	_
+6	जा	जा	AUX	VAUX		5	aux:pass	_	_
+7	रहे	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Plur|VerbForm-Part	5	aux:pass	_	_
+8	हैं	है	AUX	VAUX	Mood-Ind|Number-Plur|Person-3|Tense-Pres|VerbForm-Fin	5	aux:pass	_	_
+9	टाइप	टाइप	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	5	dep	_	_
+10	।	।	PUNCT	SYM		5	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	ह्म	ह्म	INTJ	VM	Mood-Sub|Number-Sing|VerbForm-Fin|Voice-Act	1	dep	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	तो	तो	PART	CC		6	dep	_	_
+2	वो	वह	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	6	nsubj	_	_
+3	एटीएंडटी	एटीएंडटी	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	6	obl	_	_
+4	में	में	ADP	PSP	AdpType-Post	3	case	_	_
+5	काम	काम	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	6	obj	_	_
+6	कर	कर	VERB	VM	Gender-Fem|Number-Sing|Person-3|Voice-Act	0	root	_	_
+7	रही	रह	AUX	VAUX	Aspect-Perf|Gender-Fem|Number-Sing|VerbForm-Part	6	aux	_	_
+8	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	6	aux	_	_
+9	कि	कि	SCONJ	CC		16	cc	_	_
+10	केवल	केवल	ADV	RP		16	advmod	_	_
+11	अह	अह	X	INJ	Hesitation-Matrix_Tag	12	dep	_	_
+12	ये	यह	PRON	PRP	Case-Nom|Number-Plur|Person-3|PronType-Prs	16	det	_	_
+13	कम्प्यूटर	कम्प्यूटर	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	16	obl	_	_
+14	के	का	ADP	PSP	AdpType-Post	13	case	_	_
+15	लिए	लिए	ADP	PSP	AdpType-Post	13	case	_	_
+16	जा	जा	VERB	VM	Gender-Fem|Number-Sing|Person-3|Voice-Act	6	conj	_	_
+17	रही	रह	AUX	VAUX	Aspect-Perf|Gender-Fem|Number-Sing|VerbForm-Part	16	aux	_	_
+18	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	16	aux	_	_
+19	।	।	PUNCT	SYM		6	punct	_	_
+
+1	और	और	CCONJ	CCC		0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	एटीएंडटी	एटीएंडटी	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	6	obl	_	_
+2	में	में	ADP	PSP	AdpType-Post	1	case	_	_
+3	उस	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	6	nsubj	_	_
+4	को	को	ADP	PSP	AdpType-Post	3	case	_	_
+5	ऑनरेरि	ऑनरेरि	ADJ	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	6	amod	_	_
+6	ऑफ़िस	ऑफ़िस	NOUN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	obj	_	_
+7	मिला	मिल	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|Person-3|VerbForm-Part|Voice-Act	6	root	_	_
+8	हुआ	हो	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	7	aux	_	_
+9	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	7	aux	_	_
+10	और	और	CCONJ	CC		12	cc	_	_
+11	कम्प्यूटर	कम्प्यूटर	NOUN	NNC	Case-Nom|Gender-Masc|Number-Sing|Person-3	12	compound	_	_
+12	ऐक्सेस	ऐक्सेस	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	6	conj	_	_
+13	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	12	cop	_	_
+14	।	।	PUNCT	SYM		6	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	अरे	अर	INTJ	VM	Mood-Sub|Number-Sing|VerbForm-Fin|Voice-Act	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	काम	काम	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	root	_	_
+2	थोड़ी	थोड़ी	ADJ	VM	Aspect-Perf|Gender-Fem|Number-Sing|Person-3|VerbForm-Part|Voice-Act	0	advmod	_	_
+3	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	2	cop	_	_
+4	।	।	PUNCT	SYM		2	punct	_	_
+
+1	मतलब	मतलब	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	5	dep	_	_
+2	काम	काम	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	5	obj	_	_
+3	तो	तो	PART	RP		2	dep	_	_
+4	अपना	अपना	PRON	PRP	Case-Nom|Gender-Masc|Number-Sing|PronType-Prs	5	nmod	_	_
+5	करती	कर	VERB	VM	Aspect-Imp|Gender-Fem|Number-Sing|Person-3|VerbForm-Part|Voice-Act	0	root	_	_
+6	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	5	aux	_	_
+7	।	।	PUNCT	SYM		5	punct	_	_
+
+1	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	PronType-Int	0	root	_	_
+2	हाँ	हाँ	INTJ	VM	Mood-Sub|Number-Sing|VerbForm-Fin|Voice-Act	1	dep	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	बट	बट	CCONJ	NNC	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	cc	_	_
+2	थीसिस	थीसिस	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	0	obj	_	_
+3	लिखती	लिख	VERB	VM	Aspect-Imp|Gender-Fem|Number-Sing|Person-3|VerbForm-Part|Voice-Act	2	root	_	_
+4	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	3	aux	_	_
+5	फ़्रेममेकर	फ़्रेममेकर	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	compound	_	_
+6	4	4	NUM	QC	NumType-Card	8	obl	_	_
+7	पे	पे	ADP	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	6	case	_	_
+8	।	।	PUNCT	SYM		2	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|PronType-Prs	0	root	_	_
+2	हाँ	हाँ	INTJ	INJ		1	dep	_	_
+3	[noise]	[noise]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	dep	_	_
+4	।	।	PUNCT	SYM		1	punct	_	_
+
+1	अपना	अपना	PRON	PRP	Case-Nom|Gender-Masc|Number-Sing|PronType-Prs	7	nmod	_	_
+2	केडैंस	केडैंस	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	7	obl	_	_
+3	में	में	ADP	PSP	AdpType-Post	2	case	_	_
+4	अह	अह	X	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3|Hesitation-Matrix_Tag	5	dep	_	_
+5	इधर	इधर	ADV	NST	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Person-3	7	compound	_	_
+6	उधर	उधर	ADV	NST	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Person-3	7	obl	_	_
+7	जाने	जा	VERB	VM	Case-Acc|Number-Sing|VerbForm-Inf	0	nmod	_	_
+8	का	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing	7	case	_	_
+9	मौका	मौका	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	7	obj	_	_
+10	मिलता	मिल	VERB	VM	Aspect-Imp|Gender-Masc|Number-Sing|Person-3|VerbForm-Part|Voice-Act	7	root	_	_
+11	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	10	aux	_	_
+12	कि	कि	SCONJ	CC		0	cc	_	_
+13	वहीं	वहीं	ADV	RB		0	nmod	_	_
+14	कैलिफ़ोर्निया	कैलिफोर्नी	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	0	conj	_	_
+15	में	में	ADP	PSP	AdpType-Post	14	case	_	_
+16	ही	ही	PART	RP		14	dep	_	_
+17	।	।	PUNCT	SYM		14	punct	_	_
+
+1	कैलिफ़ोर्निया	कैलिफोर्नी	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	6	obl	_	_
+2	में	में	ADP	PSP	AdpType-Post	1	case	_	_
+3	ही	ही	PART	RP		1	dep	_	_
+4	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	1	cop	_	_
+5	मेन	मेन	ADJ	NNPC	Case-Nom	6	amod	_	_
+6	आरएंडडी	आरएंडडी	NOUN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+7	तो	तो	PART	RP		6	dep	_	_
+8	।	।	PUNCT	SYM		6	punct	_	_
+
+1	तो	तो	PART	CC		3	dep	_	_
+2	वहीं	वहाँ	PRON	PRP	Case-Nom|PronType-Prs	3	obl	_	_
+3	रहना	रह	VERB	VM	Gender-Masc|Number-Sing|Person-3|VerbForm-Inf|Voice-Act	0	root	_	_
+4	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	3	aux	_	_
+5	।	।	PUNCT	SYM		3	punct	_	_
+
+1	यहाँ	यहाँ	PRON	PRP	Case-Nom|PronType-Prs	0	root	_	_
+2	या	या	CCONJ	CC		0	cc	_	_
+3	बॉस्टन	बॉस्टन	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	conj	_	_
+4	।	।	PUNCT	SYM		3	punct	_	_
+
+1	मतलब	मतलब	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	3	dep	_	_
+2	वहीं	वहीं	ADV	RB		3	obl	_	_
+3	रहना	रह	VERB	VM	Gender-Masc|Number-Sing|Person-3|VerbForm-Inf|Voice-Act	0	root	_	_
+4	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	3	aux	_	_
+5	।	।	PUNCT	SYM		3	punct	_	_
+
+1	तो_बो	तो_बो	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|Repair-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	अच	अच	X	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs|Disfluency-Matrix_Tag	2	dep	_	_
+2	अच्छी	अच्छा	ADJ	JJ	Case-Nom|Gender-Fem|Number-Sing	0	amod	_	_
+3	लोकेशंज़	लोकेशंज	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	2	root	_	_
+4	दोनों	दो	NUM	QC	Number-Plur|NumType-Card	2	nummod	_	_
+5	हाँ	हाँ	INTJ	VM	Mood-Sub|Number-Sing|Person-3|VerbForm-Fin|Voice-Act	2	dep	_	_
+6	।	।	PUNCT	SYM		2	punct	_	_
+
+1	याह_बॉस्टन_ऐंड_[incomprehensible]	याह_बॉस्टन_ऐंड_[incomprehensible]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	और	और	CCONJ	CC		0	cc	_	_
+2	इंडिया	इंडिया	PROPN	NNP	Case-Acc|Gender-Fem|Number-Sing|Person-3	0	obl	_	_
+3	में	में	ADP	PSP	AdpType-Post	2	case	_	_
+4	भी	भी	PART	RP		2	dep	_	_
+5	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	2	cop	_	_
+6	लाइब्रेरी	लाइब्रेरी	NOUN	NNPC	Case-Nom|Gender-Fem|Number-Sing|Person-3	7	compound	_	_
+7	डेवलपमेंट	डेवलपमेंट	NOUN	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	8	compound	_	_
+8	ग्रुप	ग्रुप	NOUN	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	10	root	_	_
+9	[pause]	[pause]	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	10	dep	_	_
+10	डेली	डेली	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	0	obl	_	_
+11	में	में	ADP	PSP	AdpType-Post	10	case	_	_
+12	।	।	PUNCT	SYM		10	punct	_	_
+
+1	क्या	क्या	PRON	WQ	PronType-Int	0	obl	_	_
+2	वॉंट_डेवलपमेंट_ग्रुप	वॉंट_डेवलपमेंट_ग्रुप	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	1	root	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	तो	तो	PART	CC		2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	लाइब्रेरी	लाइब्रेरी	NOUN	NNC	Case-Nom|Gender-Fem|Number-Sing|Person-3	2	compound	_	_
+2	डेवलपमेंट	डेवलपमेंट	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+3	।	।	PUNCT	SYM		2	punct	_	_
+
+1	अबे	अबे	INTJ	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	dep	_	_
+2	लाइब्रेरी	लाइब्रेरी	NOUN	NNPC	Case-Nom|Gender-Fem|Number-Sing|Person-3	1	compound	_	_
+3	डेवलपमेंट	डेवलपमेंट	NOUN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	1	obl	_	_
+4	में	में	ADP	PSP	AdpType-Post	3	case	_	_
+5	तुम	तुम	PRON	PRP	Case-Nom|Number-Sing|Person-2|PronType-Prs	1	nsubj	_	_
+6	क्या	क्या	PRON	WQ	PronType-Int	1	obj	_	_
+7	करोगे	करो	VERB	VM	Mood-Sub|Number-Sing|Person-3|VerbForm-Fin|Voice-Act	1	root	_	_
+8	।	।	PUNCT	SYM		1	punct	_	_
+
+1	क्यों	क्यों	PRON	WQ	PronType-Int	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	लाइब्रेरी_डेवलपमेंट_मीन्स_व्हाट	लाइब्रेरी_डेवलपमेंट_मीन्स_व्हाट	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	ओह_दैट्स_वेरी_लॉन्ग_लाइब्रेरीज़_ऐंड_स्टफ़_लाइक_दैट	ओह_दैट्स_वेरी_लॉन्ग_लाइब्रेरीज़_ऐंड_स्टफ़_लाइक_दैट	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	ऑटोमेशन	ऑटोमेशन	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	लाइब्रेरी	लाइब्रेरी	NOUN	NNC	Case-Nom|Gender-Fem|Number-Sing|Person-3	3	compound	_	_
+2	ऑटोमेशन	ऑटोमेशन	NOUN	NNC	Case-Nom|Gender-Masc|Number-Sing|Person-3	3	compound	_	_
+3	सॉफ्टवेयर	सॉफ्टवेयर	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+4	।	।	PUNCT	SYM		3	punct	_	_
+
+1	यहाँ	यहाँ	PRON	PRP	Case-Acc|PronType-Prs	0	root	_	_
+2	पर	पर	ADP	PSP	AdpType-Post	1	case	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	राइट_राइट	राइट_राइट	ADJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	लेकिन	लेकिन	CCONJ	CC		3	cc	_	_
+2	केडैंस_इस_पॉप्युलर_फॉर_कैड_डिज़ाइन_राइट	केडैंस_इस_पॉप्युलर_फॉर_कैड_डिज़ाइन_राइट	X	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	3	root	_	_
+3	।	।	PUNCT	SYM		0	punct	_	_
+
+1	राइट	राइट	ADJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	दैट_वी_आर_नॉट_टॉकिंग_अबाउट_दैट_लाइब्रेरी	दैट_वी_आर_नॉट_टॉकिंग_अबाउट_दैट_लाइब्रेरी	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag|NestedTag-True|Repair-'दैट'	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	वी_आर_टॉकिंग_अबाउट_अह	वी_आर_टॉकिंग_अबाउट_अह	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag|Hesitation-'अह'|NestedTag-True	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	ये	यह	DET	DEM	Case-Nom|Number-Plur|Person-3|PronType-Dem	2	det	_	_
+2	एसिक	एसिक	NOUN	NN	Case-Nom|Gender-Masc|Number-Plur|Person-3	4	compound	_	_
+3	लाइब्रेरीज़	लाइब्रेरीज़	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	4	nsubj	_	_
+4	होते	हो	VERB	VM	Aspect-Imp|Gender-Masc|Number-Plur|Person-3|VerbForm-Part|Voice-Act	0	root	_	_
+5	है	है	AUX	VAUX	Mood-Ind|Number-Plur|Person-3|Tense-Pres|VerbForm-Fin	4	aux	_	_
+6	ना	ना	PART	PRP	PronType-Prs	4	dep	_	_
+7	।	।	PUNCT	SYM		4	punct	_	_
+
+1	उन	वह	PRON	PRP	Case-Acc|Number-Plur|Person-3|PronType-Prs	6	obl	_	_
+2	के	का	ADP	PSP	AdpType-Post	1	case	_	_
+3	बारे	बारे	ADP	PSP	AdpType-Post	1	case	_	_
+4	में	में	ADP	PSP	AdpType-Post	1	case	_	_
+5	बात	बात	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	6	compound	_	_
+6	कर	कर	VERB	VM	Gender-Masc|Number-Sing|Person-3|Polite-Form|Voice-Act	0	root	_	_
+7	रहे	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	6	aux	_	_
+8	हैं	है	AUX	VAUX	Mood-Ind|Number-Plur|Person-3|Polite-Form|Tense-Pres|VerbForm-Fin	6	aux	_	_
+9	।	।	PUNCT	SYM		6	punct	_	_
+
+1	एसिक्स_लाइब्रेरी_आइ_नो_व्हाट_एसिक्स_स्टैंड_फ़ॉर	एसिक्स_लाइब्रेरी_आइ_नो_व्हाट_एसिक्स_स्टैंड_फ़ॉर	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag|NestedTag-True|Repair-'एसिक्स_लाइब्रेरी'	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	बट_व्हाट_व्हाट_डज़_इट_मीन_बाइ_एसिक्स_लाइब्रेरी	बट_व्हाट_व्हाट_डज़_इट_मीन_बाइ_एसिक्स_लाइब्रेरी	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag|Disfluency-'व्हाट'|NestedTag-True	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	अ	अ	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|Hesitation-Matrix_Tag	2	dep	_	_
+2	नैंडगेट	नैंडगेट	PROPN	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	4	root	_	_
+3	ऐंडगेट	ऐंडगेट	PROPN	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	4	conj	_	_
+4	नौरगेट	नौरगेट	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	conj	_	_
+5	।	।	PUNCT	SYM		4	punct	_	_
+
+1	ये_सब	ये_सब	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|Repair-Matrix_Tag	2	reparandum	_	_
+2	हाँ	हाँ	INTJ	INJ		0	dep	_	_
+3	ये	यह	PRON	PRP	Case-Nom|Number-Plur|Person-3|PronType-Prs	8	nsubj	_	_
+4	इन	यह	DET	DEM	Case-Acc|Number-Plur|Person-3|PronType-Dem	5	det	_	_
+5	सब	सब	PRON	PRP	Case-Acc|Number-Plur|Person-3|PronType-Prs	8	nmod	_	_
+6	का	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing	5	case	_	_
+7	लाइब्रेरीज़	लाइब्रेरीज़	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	8	obj	_	_
+8	होता	हो	VERB	VM	Aspect-Imp|Gender-Masc|Number-Sing|Person-3|VerbForm-Part|Voice-Act	2	root	_	_
+9	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	8	aux	_	_
+10	।	।	PUNCT	SYM		2	punct	_	_
+
+1	इस	यह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	0	nmod	_	_
+2	की	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Fem|Number-Sing	1	case	_	_
+3	लाइब्रेरी	लाइब्रेरी	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	0	root	_	_
+4	।	।	PUNCT	SYM		3	punct	_	_
+
+1	व्हाट_डज़_इट_मीन_बाइ_टू_हैव_अ_लाइब्रेरी_ऑफ़_दीज़_थिंग्ज़	व्हाट_डज़_इट_मीन_बाइ_टू_हैव_अ_लाइब्रेरी_ऑफ़_दीज़_थिंग्ज़	X	JJ	CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	ऑफ़_दीज़_गेट्स	ऑफ़_दीज़_गेट्स	X	NNP	Case-Nom|Gender-Masc|Number-Plur|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	देन_वी_डू_सिन्थेसिस	देन_वी_डू_सिन्थेसिस	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	याह	याह	INTJ	VM	Number-Sing|VerbForm-Fin|Voice-Act|CodeSwitch-Matrix_Tag	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	देन_ऑट_ऑटोमैटिक्ली	देन_ऑट_ऑटोमैटिक्ली	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag|Disfluency-'ऑट'|NestedTag-True	2	advmod	_	_
+2	मैप	मैप	VERB	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	compound	_	_
+3	करेंगे	कर	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Polite-Form|Tense-Fut|VerbForm-Fin|Voice-Act	2	root	_	_
+4	इन	यह	DET	DEM	Case-Acc|Number-Plur|Person-3|PronType-Dem	5	det	_	_
+5	लाइब्रेरी	लाइब्रेरी	NOUN	NNC	Case-Nom|Gender-Fem|Number-Sing|Person-3	2	compound	_	_
+6	एलिमेंट्स	एलिमेंट	NOUN	NN	Case-Nom|Gender-Masc|Number-Plur|Person-3	2	obl	_	_
+7	पे	पे	ADP	RP		6	case	_	_
+8	।	।	PUNCT	SYM		2	punct	_	_
+
+1	सो_वील_हैव_अ_डिज़ाइन_विच_इस_फ़ुल_ऑफ़_थीज़_लाइब्रेरी_एलिमेंट्स	सो_वील_हैव_अ_डिज़ाइन_विच_इस_फ़ुल_ऑफ़_थीज़_लाइब्रेरी_एलिमेंट्स	X	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	ओह_यू_डोंट_हैव_टू_रीप्रोग्रैम_देम	ओह_यू_डोंट_हैव_टू_रीप्रोग्रैम_देम	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	नो_नो_नो	नो_नो_नो	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	याह_दिस_इस_एसिक_सो_इट्स_नॉट_प्रोग्रैमेबल_[incomprehensible]	याह_दिस_इस_एसिक_सो_इट्स_नॉट_प्रोग्रैमेबल_[incomprehensible]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	व्हाटएवर_दैट_मीन्स	व्हाटएवर_दैट_मीन्स	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	ऐप्लिकेशन_स्पेसिफ़िक_इंटीग्रेटेड_सर्किट	ऐप्लिकेशन_स्पेसिफ़िक_इंटीग्रेटेड_सर्किट	X	JJ	CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	राइट	राइट	ADJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ह्म	ह्म	INTJ	PRP	Case-Nom|PronType-Prs	0	dep	_	_
+2	ये	यह	PRON	PRP	Case-Nom|Number-Plur|Person-3|PronType-Prs	1	obj	_	_
+3	सिन्थेसिस	सिन्थेसिस	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	6	obl	_	_
+4	के	का	ADP	PSP	AdpType-Post	3	case	_	_
+5	लिए	लिए	ADP	PSP	AdpType-Post	3	case	_	_
+6	यूज़	यूज़	VERB	VM	Mood-Ind|Number-Plur|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	1	root	_	_
+7	।	।	PUNCT	SYM		1	punct	_	_
+
+1	एनीवे_हाउ_इस_द_जॉंब	एनीवे_हाउ_इस_द_जॉंब	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	बिज़ी	बिज़ी	ADJ	VM	Number-Sing|Person-3|VerbForm-Fin|Voice-Act|CodeSwitch-Matrix_Tag	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	वेरी_बिज़ी	वेरी_बिज़ी	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	तो	तो	PART	CC		2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	ह्म	ह्म	INTJ	VM	Mood-Sub|Number-Sing|VerbForm-Fin|Voice-Act	1	dep	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	हाउ_मेनी_आइ_मीन_दिस_इस_यौर_फ़र्स्ट_ईयर_इट्सेल्फ़_राइट	हाउ_मेनी_आइ_मीन_दिस_इस_यौर_फ़र्स्ट_ईयर_इट्सेल्फ़_राइट	X	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag|NestedTag-True|Repair-'हाउ_मेनी'	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	यप	यप	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	इट्स_गोना_बी_[incomprehensible]_नाउ	इट्स_गोना_बी_[incomprehensible]_नाउ	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	हाँ	हाँ	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	dep	_	_
+3	।	।	PUNCT	SYM		2	punct	_	_
+
+1	वेकेशन	वेकेशन	NOUN	NNC	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	root	_	_
+2	वेकेशेन	वेकेशेन	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|Echo-Rdp	0	compound	_	_
+3	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	2	cop	_	_
+4	।	।	PUNCT	SYM		2	punct	_	_
+
+1	वेकेशन	वेकेशन	NOUN	NN	Case-Nom|Gender-Masc|Number-Plur|Person-3	3	obj	_	_
+2	कितनी	कितना	DET	QF	Gender-Fem|Number-Sing	3	det	_	_
+3	दे	दे	VERB	VM	Gender-Masc|Number-Plur|Person-3|Voice-Act	0	root	_	_
+4	रहे	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Plur|VerbForm-Part	3	aux	_	_
+5	हैं	है	AUX	VAUX	Mood-Ind|Number-Plur|Person-3|Tense-Pres|VerbForm-Fin	3	aux	_	_
+6	।	।	PUNCT	SYM		3	punct	_	_
+
+1	अभी	अभी	PRON	PRP	Case-Nom|PronType-Prs	4	obl	_	_
+2	10	10	NUM	QC	NumType-Card	3	nummod	_	_
+3	दिन	दिन	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	4	nsubj	_	_
+4	होगा	हो	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	0	root	_	_
+5	।	।	PUNCT	SYM		4	punct	_	_
+
+1	10	10	NUM	QC	NumType-Card	2	root	_	_
+2	प्लस	प्लस	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	conj	_	_
+3	3	3	NUM	QC	NumType-Card	4	nummod	_	_
+4	फ़्लोटिंग	फ़्लोटिंग	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	0	conj	_	_
+5	।	।	PUNCT	SYM		4	punct	_	_
+
+1	सो	सो	SCONJ	VM		0	mark	_	_
+2	13	13	NUM	QCC	NumType-Card	1	compound	_	_
+3	14	14	NUM	QC	NumType-Card	4	nummod	_	_
+4	दिन	दिन	NOUN	NN	Case-Nom|Gender-Masc|Number-Plur|Person-3	1	nsubj	_	_
+5	होंगे	हो	VERB	VM	Gender-Masc|Mood-Ind|Number-Plur|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	1	root	_	_
+6	।	।	PUNCT	SYM		1	punct	_	_
+
+1	अबे	अबे	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	dep	_	_
+2	तो	तो	PART	RP		1	dep	_	_
+3	लग	लग	VERB	VM	Number-Sing|Person-3|Voice-Act	1	root	_	_
+4	लो	ले	AUX	VAUX	Mood-Sub|Number-Sing|Person-3|VerbForm-Fin	3	aux	_	_
+5	इसी	यह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	3	obl	_	_
+6	के	का	ADP	PSP	AdpType-Post	5	case	_	_
+7	संग	संग	ADP	NST	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Person-3	5	case	_	_
+8	।	।	PUNCT	SYM		1	punct	_	_
+
+1	[anonymized]	[anonymized]	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	के	का	ADP	PSP	AdpType-Post	1	case	_	_
+3	संग	संग	ADP	NST	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Person-3	1	case	_	_
+4	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	अरे	अरा	INTJ	PRP	Case-Nom|Number-Sing|PronType-Prs	0	dep	_	_
+2	उस	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	5	obl	_	_
+3	के	का	ADP	PSP	AdpType-Post	2	case	_	_
+4	साथ	साथ	ADP	NST	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Person-3	2	case	_	_
+5	लगेंगे	लग	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Polite-Form|Tense-Fut|VerbForm-Fin|Voice-Act	1	advcl	_	_
+6	तो	तो	SCONJ	CC		10	mark	_	_
+7	मेरा	मैं	PRON	PRP	Case-Acc,Gen|Gender-Masc|Number-Sing|Person-1|Poss-Yes|PronType-Prs	10	nmod	_	_
+8	शादी	शादी	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	10	compound	_	_
+9	तुम	तुम	PRON	INJ		10	nsubj	_	_
+10	करोगे	करो	VERB	VM	Mood-Imp|Number-Sing|Person-3|Polite-Infm|VerbForm-Fin|Voice-Act	5	root	_	_
+11	क्या	क्या	PRON	WQ	PronType-Int	10	obl	_	_
+12	।	।	PUNCT	SYM		1	punct	_	_
+
+1	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	तो	तो	PART	CC		6	dep	_	_
+2	छुट्टी	छुट्टी	NOUN	NN	Case-Acc|Gender-Fem|Number-Sing|Person-3	6	obl	_	_
+3	में	में	ADP	PSP	AdpType-Post	2	case	_	_
+4	तुम	तुम	PRON	PRP	Case-Nom|Number-Sing|Person-2|PronType-Prs	6	nsubj	_	_
+5	क्या	क्या	PRON	WQ	PronType-Int	6	obj	_	_
+6	करोगे	करो	VERB	VM	Mood-Sub|Number-Sing|Person-3|VerbForm-Fin|Voice-Act	0	root	_	_
+7	।	।	PUNCT	SYM		6	punct	_	_
+
+1	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	dep	_	_
+2	हाँ	हाँ	INTJ	VM	Mood-Sub|Number-Sing|VerbForm-Fin|Voice-Act	1	root	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	आइ_मीन_जस्ट_बिकॉज़_यू_हैव_वेकेशन_आइ_गेस	आइ_मीन_जस्ट_बिकॉज़_यू_हैव_वेकेशन_आइ_गेस	X	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	याह_बट_वेकेशन_आइ_कैन_अक्यूमलेट	याह_बट_वेकेशन_आइ_कैन_अक्यूमलेट	X	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	[incomprehensible]_इस_वॉर्निंग_अस_इट_हैस_टू_बी_इन_हिन्दी	[incomprehensible]_इस_वॉर्निंग_अस_इट_हैस_टू_बी_इन_हिन्दी	X	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|PronType-Prs	0	dep	_	_
+2	ठीक	ठीक	ADJ	JJ		1	root	_	_
+3	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	2	cop	_	_
+4	।	।	PUNCT	SYM		1	punct	_	_
+
+1	तो_विक	तो_विक	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|Repair-Matrix_Tag	3	reparandum	_	_
+2	तो	तो	PART	RP		1	dep	_	_
+3	कौन	कौन	PRON	WQ	PronType-Int	0	nsubj	_	_
+4	सुन	सुन	VERB	VM	Gender-Masc|Number-Sing|Person-3|Voice-Act	3	root	_	_
+5	रहा	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	4	aux	_	_
+6	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	4	aux	_	_
+7	हिन्दी	हिन्दी	NOUN	NN	Case-Acc|Gender-Fem|Number-Sing|Person-3	4	obl	_	_
+8	में	में	ADP	PSP	AdpType-Post	7	case	_	_
+9	।	।	PUNCT	SYM		3	punct	_	_
+
+1	[noise]	[noise]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	मालूम	मालूम	ADJ	JJ		0	root	_	_
+2	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	1	advmod	_	_
+3	कम्प्यूटर	कम्प्यूटर	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	nsubj	_	_
+4	रिकॉर्ड	रिकॉर्ड	VERB	UNK	Foreign-Yes	1	compound	_	_
+5	कर	कर	VERB	VM	Gender-Masc|Number-Sing|Person-3|Voice-Act	1	conj	_	_
+6	रहा	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	5	aux	_	_
+7	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	5	aux	_	_
+8	।	।	PUNCT	SYM		1	punct	_	_
+
+1	दे	दे	VERB	VM	Number-Sing|Voice-Act	0	root	_	_
+2	[incomprehensible]	[incomprehensible]	X	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	1	dep	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	तो	तो	PART	CC		10	dep	_	_
+2	उस	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	10	nsubj	_	_
+3	को	को	ADP	PSP	AdpType-Post	2	case	_	_
+4	पता	पता	ADJ	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	10	root	_	_
+5	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	4	cop	_	_
+6	कि	कि	SCONJ	CC		10	mark	_	_
+7	इंग्लिश	इंग्लिश	PROPN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	10	obl	_	_
+8	में	में	ADP	PSP	AdpType-Post	7	case	_	_
+9	बात	बात	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	10	compound	_	_
+10	करें	कर	VERB	VM	Mood-Sub|Number-Sing|Person-3|VerbForm-Fin|Voice-Act	0	obj	_	_
+11	हिन्दी	हिन्दी	NOUN	NN	Case-Acc|Gender-Fem|Number-Sing|Person-3	10	obl	_	_
+12	में	में	ADP	PSP	AdpType-Post	11	case	_	_
+13	कर	कर	VERB	VM	Gender-Masc|Number-Sing|Person-3|Polite-Form|Voice-Act	10	conj	_	_
+14	रहे	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|Person-3|Polite-Form|VerbForm-Part	13	aux	_	_
+15	हैं	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Polite-Form|Tense-Pres|VerbForm-Fin	13	aux	_	_
+16	।	।	PUNCT	SYM		10	punct	_	_
+
+1	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	3	dep	_	_
+2	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	3	dep	_	_
+3	समवन_विल_लिसन_टू_द_कन्वर्सेशन	समवन_विल_लिसन_टू_द_कन्वर्सेशन	X	VM	Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act|CodeSwitch-Matrix_Tag	0	root	_	_
+4	।	।	PUNCT	SYM		3	punct	_	_
+
+1	ओह	ओह	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	dep	_	_
+2	उस	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	6	nsubj	_	_
+3	को	को	ADP	PSP	AdpType-Post	2	case	_	_
+4	समझ	समझ	NOUN	NN	Case-Acc|Gender-Fem|Number-Sing|Person-3	6	compound	_	_
+5	में	में	ADP	PSP	AdpType-Post	4	case	_	_
+6	आ	आ	VERB	VM	Gender-Masc|Number-Sing|Person-3|Voice-Act	1	root	_	_
+7	रहा	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	6	aux	_	_
+8	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	6	aux	_	_
+9	क्या	क्या	PRON	WQ	PronType-Int	1	obl	_	_
+10	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ह	ह	X	INJ	Repair-Matrix_Tag	2	reparandum	_	_
+2	हाँ	हाँ	INTJ	VM	Mood-Sub|Number-Sing|VerbForm-Fin|Voice-Act	0	root	_	_
+3	।	।	PUNCT	SYM		2	punct	_	_
+
+1	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	dep	_	_
+2	चलो	चल	VERB	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	3	dep	_	_
+3	तेलुगु	तेलुगु	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	1	obl	_	_
+4	में	में	ADP	PSP	AdpType-Post	3	case	_	_
+5	बात	बात	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	6	compound	_	_
+6	करते	कर	VERB	VM	Aspect-Imp|Gender-Masc|Number-Plur|Person-3|VerbForm-Part|Voice-Act	1	root	_	_
+7	हैं	है	AUX	VAUX	Mood-Ind|Number-Plur|Person-3|Tense-Pres|VerbForm-Fin	6	aux	_	_
+8	[laughter]	[laughter]	X	SYM		1	dep	_	_
+9	।	।	PUNCT	SYM		1	punct	_	_
+
+1	तेलुगु	तेलुगु	PROPN	NNP	Case-Nom|Gender-Fem|Number-Sing|Person-3	5	obj	_	_
+2	तो	तो	PART	RP		1	dep	_	_
+3	हमे	हम	PRON	PRP	Case-Acc,Dat|Number-Sing|Person-3|PronType-Prs	5	nsubj	_	_
+4	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	5	advmod	_	_
+5	आती	आ	VERB	VM	Aspect-Imp|Gender-Fem|Number-Sing|VerbForm-Part|Voice-Act	0	root	_	_
+6	ना	ना	PART	NEG		5	dep	_	_
+7	।	।	PUNCT	SYM		5	punct	_	_
+
+1	तेलुगु	तेलुगु	PROPN	NNP	Case-Nom|Gender-Fem|Number-Sing|Person-3	0	nsubj	_	_
+2	भी	भी	PART	RP		1	dep	_	_
+3	उन	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	0	nmod	_	_
+4	की	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Fem|Number-Sing	3	case	_	_
+5	चॉइस	चॉइस	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	0	root	_	_
+6	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	5	cop	_	_
+7	।	।	PUNCT	SYM		5	punct	_	_
+
+1	तो	तो	PART	CC		2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	PronType-Int	0	root	_	_
+2	हाँ	हाँ	INTJ	VM	Mood-Sub|Number-Sing|VerbForm-Fin|Voice-Act	1	dep	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	दे_हैव_1_ऑप्शन_ऑफ़_तेलुगु	दे_हैव_1_ऑप्शन_ऑफ़_तेलुगु	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	अगर	अगर	SCONJ	CC		0	mark	_	_
+2	तुम्हारा	तुम्हारा	PRON	PRP	Case-Acc,Gen|Gender-Masc|Number-Sing|Person-1|Poss-Yes|PronType-Prs	0	nmod	_	_
+3	कोई	कोई	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	5	det	_	_
+4	तेलुगु	तेलुगु	PROPN	JJ	Case-Nom	5	compound	_	_
+5	दोस्त	दोस्त	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+6	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	5	cop	_	_
+7	।	।	PUNCT	SYM		5	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	तो	तो	PART	CC		3	dep	_	_
+2	आइ_कैन_गिव_यू_द_नम्बर	आइ_कैन_गिव_यू_द_नम्बर	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	3	root	_	_
+3	।	।	PUNCT	SYM		0	punct	_	_
+
+1	बट_आइ_[incomprehensible]	बट_आइ_[incomprehensible]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	क्यों	क्यों	PRON	WQ	PronType-Int	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	मेरा_मेरा	मेरा_मेरा	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|Disfluency-Matrix_Tag	2	dep	_	_
+2	मेरा	मैं	PRON	PRP	Case-Acc,Gen|Gender-Masc|Number-Sing|Person-1|Poss-Yes|PronType-Prs	6	nmod	_	_
+3	आवाज़	आवाज़	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	5	nsubj	_	_
+4	हर	हर	DET	QF	PronType-Ind	5	det	_	_
+5	जगह	जगह	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	6	obl	_	_
+6	जाएगा	जा	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	0	root	_	_
+7	तब	तब	PRON	PRP	Case-Nom|PronType-Prs	6	obl	_	_
+8	।	।	PUNCT	SYM		6	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	लेकिन	लेकिन	CCONJ	CC		0	cc	_	_
+2	15	15	NUM	QC	NumType-Card	3	nummod	_	_
+3	मिनट	मिनट	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	8	nmod	_	_
+4	कॉल	कॉल	NOUN	NN	Case-Acc|Gender-Fem|Number-Sing|Person-3	8	obl	_	_
+5	के	का	ADP	PSP	AdpType-Post	4	case	_	_
+6	लिए	लिए	ADP	PSP	AdpType-Post	4	case	_	_
+7	बहुत	बहुत	DET	QF	PronType-Ind	8	det	_	_
+8	झंझट	झंझट	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	0	root	_	_
+9	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	8	cop	_	_
+10	ये	यह	PRON	PRP	Case-Nom|Number-Plur|Person-3|PronType-Prs	0	det	_	_
+11	सब	सब	PRON	PRP	Case-Nom|Number-Plur|Person-3|PronType-Prs	0	nsubj	_	_
+12	।	।	PUNCT	SYM		11	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	दिस_इस_नॉट_वर्थ_इट	दिस_इस_नॉट_वर्थ_इट	X	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	dep	_	_
+3	।	।	PUNCT	SYM		2	punct	_	_
+
+1	यप	यप	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	तो_और	तो_और	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|Repair-Matrix_Tag	3	reparandum	_	_
+2	[pause]	[pause]	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	3	dep	_	_
+3	और_इस	और_इस	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|Disfluency-Matrix_Tag	4	dep	_	_
+4	इस	यह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	7	obl	_	_
+5	से	से	ADP	PSP	AdpType-Post	4	case	_	_
+6	क्या	क्या	DET	WQ	PronType-Int	7	det	_	_
+7	बात	बात	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	0	compound	_	_
+8	हुई	हो	VERB	VM	Aspect-Perf|Gender-Fem|Number-Sing|VerbForm-Part|Voice-Act	7	root	_	_
+9	अम	अम	X	NNC	Case-Nom|Gender-Fem|Number-Sing|Person-3|Hesitation-Matrix_Tag	11	dep	_	_
+10	[pause]	[pause]	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	11	dep	_	_
+11	सत्या	सत्या	PROPN	NNP	Case-Acc|Gender-Fem|Number-Sing|Person-3	7	obl	_	_
+12	से	से	ADP	PSP	AdpType-Post	11	case	_	_
+13	।	।	PUNCT	SYM		7	punct	_	_
+
+1	आर_यू_प्लैनिंग_टू_विज़िट_हिम_ऑर_इस_ही_कमिंग_टू_विज़िट_यू	आर_यू_प्लैनिंग_टू_विज़िट_हिम_ऑर_इस_ही_कमिंग_टू_विज़िट_यू	X	JJ	CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	याह_वी_शुड_बी_अह_प्रोबेब्ली_आइल_आस्क_हिम_टू_क॑म_ओवर_टुडे	याह_वी_शुड_बी_अह_प्रोबेब्ली_आइल_आस्क_हिम_टू_क॑म_ओवर_टुडे	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag|Hesitation-'अह'|NestedTag-True|Repair-'याह_वी_शुड_बी'	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	ही_मस्ट_बी_हार्ड्ली_विदिन_2_आवर्ज़_अवे_राइट	ही_मस्ट_बी_हार्ड्ली_विदिन_2_आवर्ज़_अवे_राइट	X	JJ	CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	[incomprehensible]	[incomprehensible]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	याह	याह	INTJ	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	0	dep	_	_
+2	पर	पर	CCONJ	PSP	AdpType-Post	1	cc	_	_
+3	अभी	अभी	PRON	PRP	Case-Nom|PronType-Prs	5	obl	_	_
+4	तो	तो	PART	RP		3	dep	_	_
+5	जॉइन	जॉइन	VERB	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	compound	_	_
+6	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	5	advmod	_	_
+7	किया	कर	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Pass	1	root	_	_
+8	ना	ना	PART	VAUX		7	dep	_	_
+9	।	।	PUNCT	SYM		1	punct	_	_
+
+1	मंडे	मंडे	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	3	obl	_	_
+2	से	से	ADP	PSP	AdpType-Post	1	case	_	_
+3	जॉइन	जॉइन	VERB	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	0	compound	_	_
+4	करेगा	कर	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	3	root	_	_
+5	।	।	PUNCT	SYM		3	punct	_	_
+
+1	अभी	अभी	PRON	PRP	Case-Nom|PronType-Prs	6	obl	_	_
+2	तो	तो	PART	RP		1	dep	_	_
+3	घर	घर	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	6	obl	_	_
+4	के	का	ADP	PSP	AdpType-Post	3	case	_	_
+5	लिए	लिए	ADP	PSP	AdpType-Post	3	case	_	_
+6	ढूँढ	ढूँढ	VERB	VM	Gender-Masc|Number-Sing|Person-3|Voice-Act	0	root	_	_
+7	रहा	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	6	aux	_	_
+8	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	6	aux	_	_
+9	।	।	PUNCT	SYM		6	punct	_	_
+
+1	[incomprehensible]	[incomprehensible]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	अच्छा	अच्छा	ADJ	JJ	Gender-Masc|Number-Sing	0	root	_	_
+2	अच्छा	अच्छा	ADJ	JJ	Gender-Masc|Number-Sing	1	dep	_	_
+3	अच्छा	अच्छा	ADJ	JJ	Gender-Masc|Number-Sing	1	dep	_	_
+4	अच्छा	अच्छा	ADJ	JJ	Gender-Masc|Number-Sing	1	dep	_	_
+5	।	।	PUNCT	SYM		1	punct	_	_
+
+1	लेकिन	लेकिन	CCONJ	CC		11	cc	_	_
+2	एरिया	एरिया	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	11	root	_	_
+3	में	में	ADP	PSP	AdpType-Post	2	case	_	_
+4	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	2	cop	_	_
+5	कि	कि	SCONJ	CC		11	cc	_	_
+6	अपनी	अपना	PRON	PRP	Case-Acc|Gender-Fem|PronType-Prs	11	nmod	_	_
+7	क	क	X	JJ	Case-Acc|Disfluency-Matrix_Tag	8	dep	_	_
+8	कन्या	कन्या	NOUN	NN	Case-Acc|Gender-Fem|Number-Sing|Person-3	11	obl	_	_
+9	के	का	ADP	PSP	AdpType-Post	8	case	_	_
+10	संग	संग	ADP	NST	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Person-3	8	case	_	_
+11	घूम	घूम	VERB	VM	Gender-Masc|Number-Sing|Person-3|Voice-Act	0	conj	_	_
+12	रहा	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	11	aux	_	_
+13	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	11	aux	_	_
+14	।	।	PUNCT	SYM		11	punct	_	_
+
+1	किस	कौन	PRON	WQ	Case-Acc|PronType-Int	0	obl	_	_
+2	के	का	ADP	PSP	AdpType-Post	1	case	_	_
+3	साथ	साथ	ADP	NST	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Person-3	1	case	_	_
+4	जाएगा	जा	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	1	root	_	_
+5	।	।	PUNCT	SYM		1	punct	_	_
+
+1	उस	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	0	nmod	_	_
+2	का	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing	1	case	_	_
+3	कन्या	कन्या	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	0	nsubj	_	_
+4	कौन	कौन	PRON	WQ	PronType-Int	0	root	_	_
+5	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	4	cop	_	_
+6	।	।	PUNCT	SYM		4	punct	_	_
+
+1	वो	वह	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	nsubj	_	_
+2	1	1	NUM	QC	NumType-Card	3	nummod	_	_
+3	चाइनीज़	चाइनीज़	PROPN	JJ	Case-Nom	4	compound	_	_
+4	कन्या	कन्या	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	0	root	_	_
+5	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	4	cop	_	_
+6	कैनी	कैनी	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	nmod	_	_
+7	।	।	PUNCT	SYM		6	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	PronType-Int	0	root	_	_
+2	हाँ	हाँ	INTJ	VM	Mood-Sub|Number-Sing|VerbForm-Fin|Voice-Act	1	dep	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	वो	वह	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	nsubj	_	_
+2	यहाँ	यहाँ	PRON	PRP	Case-Acc|PronType-Prs	0	root	_	_
+3	पर	पर	ADP	PSP	AdpType-Post	2	case	_	_
+4	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	2	cop	_	_
+5	क्या	क्या	PRON	WQ	PronType-Int	0	obl	_	_
+6	।	।	PUNCT	SYM		5	punct	_	_
+
+1	[incomprehensible]	[incomprehensible]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	वो	वह	X	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs|Repair-Matrix_Tag	3	reparandum	_	_
+2	उस	वह	X	DEM	Case-Acc|Number-Sing|Person-3|PronType-Dem|Disfluency-Matrix_Tag	3	dep	_	_
+3	उस	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	0	nmod	_	_
+4	का	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing	3	case	_	_
+5	घर	घर	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+6	[pause]	[pause]	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	7	dep	_	_
+7	सनीवेल	सनीवेल	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	0	obl	_	_
+8	में	में	ADP	PSP	AdpType-Post	7	case	_	_
+9	ही	ही	PART	RP		7	dep	_	_
+10	तो	तो	PART	RP		7	dep	_	_
+11	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	7	cop	_	_
+12	।	।	PUNCT	SYM		7	punct	_	_
+
+1	ओह	ओह	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	वो	वह	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	6	nsubj	_	_
+2	उस	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	6	obl	_	_
+3	के	का	ADP	PSP	AdpType-Post	2	case	_	_
+4	साथ	साथ	ADP	NST	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Person-3	2	case	_	_
+5	काम	काम	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	6	obj	_	_
+6	करती	कर	VERB	VM	Aspect-Imp|Gender-Fem|Number-Sing|Person-3|VerbForm-Part|Voice-Act	0	root	_	_
+7	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	6	aux	_	_
+8	सन	सन	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	6	obl	_	_
+9	के	का	ADP	PSP	AdpType-Post	8	case	_	_
+10	संग	संग	ADP	NST	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Person-3	8	case	_	_
+11	।	।	PUNCT	SYM		6	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	ह्म	ह्म	INTJ	VM	Mood-Sub|Number-Sing|VerbForm-Fin|Voice-Act	1	dep	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|Hesitation-Matrix_Tag	0	dep	_	_
+2	[incomprehensible]	[incomprehensible]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	root	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ओह	ओह	INTJ	NNP	Case-Nom|Gender-Fem|Number-Sing|Person-3	0	dep	_	_
+2	इसीलिए	इसीलिए	PRON	PRP	PronType-Prs	1	obl	_	_
+3	वो	वह	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	1	nsubj	_	_
+4	यहाँ	यहाँ	PRON	PRP	Case-Nom|PronType-Prs	1	obl	_	_
+5	आया	आ	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|Person-3|VerbForm-Part|Voice-Act	1	root	_	_
+6	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	5	aux	_	_
+7	।	।	PUNCT	SYM		1	punct	_	_
+
+1	म_आइ_समथिंग_लाइक_दैट	म_आइ_समथिंग_लाइक_दैट	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag|Hesitation-'म'|NestedTag-True|Repair-'आइ'	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	बट_आइ_मीन_लेट_हिम_एक्स्प्लेन_इट_टू_यू_ओके	बट_आइ_मीन_लेट_हिम_एक्स्प्लेन_इट_टू_यू_ओके	X	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	ह्म	ह्म	INTJ	VM	Mood-Sub|Number-Sing|VerbForm-Fin|Voice-Act	1	dep	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ओके	ओके	INTJ	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	0	root	_	_
+2	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	dep	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	डोंट_क्वोट_मी_ऑन_दैट	डोंट_क्वोट_मी_ऑन_दैट	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	ठीक	ठीक	ADJ	JJ		0	root	_	_
+2	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	1	cop	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	अम	अम	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|Hesitation-Matrix_Tag	2	dep	_	_
+2	हाँ	हाँ	INTJ	PRP	Case-Acc,Gen|Number-Sing|Person-3|Poss-Yes|PronType-Prs	0	dep	_	_
+3	मतलब	मतलब	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+4	वेल_आइ_गेस_एवरीवन_डज़_व्हाट_दे_कैन	वेल_आइ_गेस_एवरीवन_डज़_व्हाट_दे_कैन	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	5	dep	_	_
+5	।	।	PUNCT	SYM		3	punct	_	_
+
+1	काइंड_ऑफ़	काइंड_ऑफ़	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	यप	यप	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	लड़की	लड़की	NOUN	NN	Case-Acc|Gender-Fem|Number-Sing|Person-3	5	obl	_	_
+2	के	का	ADP	PSP	AdpType-Post	1	case	_	_
+3	बिना	बिना	PART	RP		1	case	_	_
+4	काफ़ी	काफ़ी	ADJ	JJ	Case-Nom	5	advmod	_	_
+5	प्रॉब्लम	प्रॉब्लम	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	6	compound	_	_
+6	होती	हो	VERB	VM	Aspect-Imp|Gender-Fem|Number-Sing|Person-3|VerbForm-Part|Voice-Act	0	root	_	_
+7	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	6	aux	_	_
+8	तो	तो	PART	PRP	PronType-Prs	6	dep	_	_
+9	।	।	PUNCT	SYM		6	punct	_	_
+
+1	यप	यप	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	हाथ	हाथ	NOUN	NN	Case-Nom|Gender-Masc|Number-Plur|Person-3	2	nsubj	_	_
+2	दुख	दुख	VERB	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+3	जाते	जा	AUX	VAUX	Aspect-Imp|Gender-Masc|Number-Plur|VerbForm-Part	2	aux	_	_
+4	है	है	AUX	VAUX	Mood-Ind|Number-Plur|Person-3|Tense-Pres|VerbForm-Fin	2	aux	_	_
+5	।	।	PUNCT	SYM		2	punct	_	_
+
+1	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	dep	_	_
+2	मेरा	मैं	PRON	PRP	Case-Acc,Gen|Gender-Masc|Number-Sing|Person-1|Poss-Yes|PronType-Prs	5	nmod	_	_
+3	नाम	नाम	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	5	obj	_	_
+4	मत	मत	PART	NEG	Polarity-Neg|PronType-Neg	5	advmod	_	_
+5	लेना	ले	VERB	VM	Case-Nom|VerbForm-Inf	1	root	_	_
+6	इस	यह	DET	DEM	Case-Acc|Number-Sing|Person-3|PronType-Dem	7	det	_	_
+7	पूरे	पूरा	X	JJ	Case-Acc|Gender-Masc|Number-Sing|Disfluency-Matrix_Tag	8	dep	_	_
+8	पूरे	पूरा	ADJ	JJ	Case-Acc|Gender-Masc|Number-Sing	9	amod	_	_
+9	कन्वर्सेशन	कन्वर्सेशन	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	5	obl	_	_
+10	में	में	ADP	PSP	AdpType-Post	9	case	_	_
+11	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ओह_शिट	ओह_शिट	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	वी_शुडन्ट_बी_टॉकिंग_लाइक_दिस	वी_शुडन्ट_बी_टॉकिंग_लाइक_दिस	X	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	दिस_इस_बीइंग_रिकॉर्डेड_[laughter]	दिस_इस_बीइंग_रिकॉर्डेड_[laughter]	X	JJ	CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	अ	अ	X	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|Hesitation-Matrix_Tag	3	dep	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	dep	_	_
+2	तुम	तुम	PRON	PRP	Case-Nom|Number-Sing|Person-2|PronType-Prs	4	nsubj	_	_
+3	अपना	अपना	PRON	PRP	Case-Nom|Gender-Masc|Number-Sing|PronType-Prs	4	nmod	_	_
+4	नाम	नाम	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	obj	_	_
+5	जितना	जितना	DET	QF	Gender-Masc|Number-Sing	6	det	_	_
+6	बदनाम	बदनाम	ADJ	JJ		1	compound	_	_
+7	कर	कर	VERB	VM	Number-Sing|Person-3|Polite-Form|Voice-Act	1	advcl	_	_
+8	सकते	सक	AUX	VAUX	Aspect-Imp|Gender-Masc|Number-Sing|Polite-Form|VerbForm-Part	7	aux	_	_
+9	हो	हो	AUX	VAUX		7	aux	_	_
+10	कर	कर	VERB	VAUX		7	root	_	_
+11	लो	ले	AUX	VAUX	Mood-Sub|Number-Sing|Person-3|VerbForm-Fin	10	aux	_	_
+12	।	।	PUNCT	SYM		1	punct	_	_
+
+1	मेरा_नाम	मेरा_नाम	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|Repair-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	और	और	CCONJ	CCC		0	det	_	_
+2	क्या	क्या	PRON	WQ	PronType-Int	1	root	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	एनिवे_आर_यू_आर_यू_[laughter]_आर_यू_प्लैनिंग_टू	एनिवे_आर_यू_आर_यू_[laughter]_आर_यू_प्लैनिंग_टू	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag|NestedTag-True|Repair-'आर_यू_आर_यू'	4	reparandum	_	_
+2	अह	अह	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|Hesitation-Matrix_Tag	3	dep	_	_
+3	आयोवा	आयोवा	PROPN	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	4	compound	_	_
+4	सिटी	सिटी	NOUN	NNC	Case-Nom|Gender-Fem|Number-Sing|Person-3	5	compound	_	_
+5	ट्रिप	ट्रिप	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	7	obj	_	_
+6	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	7	advmod	_	_
+7	लगा	लगा	VERB	VM	Gender-Masc|Number-Sing|Voice-Act	0	root	_	_
+8	रहा	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	7	aux	_	_
+9	1	1	NUM	QC	NumType-Card	10	nummod	_	_
+10	।	।	PUNCT	SYM		7	punct	_	_
+
+1	अरे	अरा	INTJ	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	dep	_	_
+2	लगा	लगा	VERB	VM	VerbForm-Inf	1	advcl	_	_
+3	के	का	AUX	PSP	AdpType-Post	2	aux	_	_
+4	भी	भी	PART	RP		2	dep	_	_
+5	क्या	क्या	PRON	WQ	PronType-Int	1	obj	_	_
+6	करेंगे	कर	VERB	VM	Gender-Masc|Mood-Ind|Number-Plur|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	1	root	_	_
+7	।	।	PUNCT	SYM		1	punct	_	_
+
+1	यौर_यौर_बॉस_शुड_बी_देर	यौर_यौर_बॉस_शुड_बी_देर	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag|Disfluency-'यौर'|NestedTag-True	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	याह	याह	INTJ	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	0	dep	_	_
+2	वो	वह	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	1	root	_	_
+3	तो	तो	PART	RP		2	dep	_	_
+4	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	1	cop	_	_
+5	।	।	PUNCT	SYM		1	punct	_	_
+
+1	वही	वह	PRON	DEM	Case-Nom|Number-Sing|Person-3|PronType-Dem	2	dep	_	_
+2	यार	यार	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	4	vocative	_	_
+3	अम	अम	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|Hesitation-Matrix_Tag	4	dep	_	_
+4	जाएँगे	जा	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Polite-Form|Tense-Fut|VerbForm-Fin|Voice-Act	0	root	_	_
+5	आयोवा	आयोवा	PROPN	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	6	compound	_	_
+6	सिटी	सिटी	PROPN	NNP	Case-Nom|Gender-Fem|Number-Sing|Person-3	4	obl	_	_
+7	।	।	PUNCT	SYM		4	punct	_	_
+
+1	थोड़ा	थोड़ा	ADJ	PRP	Case-Nom|Gender-Masc|Number-Sing|Person-3|PronType-Prs	2	amod	_	_
+2	काम	काम	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+3	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	2	cop	_	_
+4	।	।	PUNCT	SYM		2	punct	_	_
+
+1	काम	काम	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	भी	भी	PART	RP		1	dep	_	_
+3	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	1	cop	_	_
+4	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ओ	ओ	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	याह	याह	INTJ	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	0	dep	_	_
+2	वो	वह	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	1	dep	_	_
+3	थोड़ा	थोड़ा	ADJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	amod	_	_
+4	सा	सा	PART	RP	Case-Nom|Gender-Masc|Number-Sing	1	dep	_	_
+5	पेपर	पेपर	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	6	obj	_	_
+6	वेपर	वेपर	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|Echo-Ech	1	compound	_	_
+7	लिख	लिख	X	VM	Disfluency-Matrix_Tag	1	dep	_	_
+8	लिखना	लिख	VERB	VAUX	Case-Nom|VerbForm-Inf	1	root	_	_
+9	उन	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	1	obl	_	_
+10	के	का	ADP	PSP	AdpType-Post	9	case	_	_
+11	साथ	साथ	ADP	NST	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Person-3	9	case	_	_
+12	।	।	PUNCT	SYM		1	punct	_	_
+
+1	छापना	छाप	VERB	VM	Gender-Masc|VerbForm-Inf|Voice-Act	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	अह	अह	X	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3|Hesitation-Matrix_Tag	2	dep	_	_
+2	कभी	कभी	PRON	PRP	PronType-Prs	3	obl	_	_
+3	जाऊँगा	जाऊ	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	0	root	_	_
+4	वहाँ	वहाँ	PRON	PRP	Case-Nom|PronType-Prs	3	obl	_	_
+5	पे	पे	ADP	RP		4	case	_	_
+6	।	।	PUNCT	SYM		3	punct	_	_
+
+1	अच्छ	अच्छ	ADJ	JJ	Case-Nom	0	dep	_	_
+2	अच्छ	अच्छ	ADJ	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	dep	_	_
+3	अच्छा	अच्छा	ADJ	JJ	Gender-Masc|Number-Sing	1	root	_	_
+4	।	।	PUNCT	SYM		1	punct	_	_
+
+1	1	1	NUM	QCC	NumType-Card	2	compound	_	_
+2	2	2	NUM	QC	NumType-Card	3	nummod	_	_
+3	दिन	दिन	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	6	nmod	_	_
+4	की	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Fem|Number-Sing	3	case	_	_
+5	छुट्टी	छुट्टी	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	6	obj	_	_
+6	ले	ले	VERB	VM		0	advcl	_	_
+7	कर	कर	AUX	VAUX		6	aux	_	_
+8	4	4	NUM	QC	NumType-Card	9	nummod	_	_
+9	दिन	दिन	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	6	obl	_	_
+10	के	का	ADP	PSP	AdpType-Post	9	case	_	_
+11	लिए	लिए	ADP	PSP	AdpType-Post	9	case	_	_
+12	जाऊँगा	जाऊ	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	6	root	_	_
+13	।	।	PUNCT	SYM		6	punct	_	_
+
+1	ओए	ओए	INTJ	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	dep	_	_
+2	तुम्हारा_दुश	तुम्हारा_दुश	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|Repair-Matrix_Tag	1	reparandum	_	_
+3	तुम्हारे	तुम	PRON	PRP	Case-Acc,Gen|Number-Sing|Person-2|Poss-Yes|PronType-Prs	1	nmod	_	_
+4	दुश्मन	दुश्मन	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	1	nmod	_	_
+5	की	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Fem|Number-Sing	4	case	_	_
+6	शादी	शादी	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	1	compound	_	_
+7	हो	हो	VERB	VM	Number-Sing|Voice-Act	1	root	_	_
+8	गई	जा	AUX	VAUX	Aspect-Perf|Gender-Fem|Number-Sing|VerbForm-Part	7	aux	_	_
+9	।	।	PUNCT	SYM		1	punct	_	_
+
+1	वो	वह	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	3	obj	_	_
+2	तो	तो	PART	RP		1	dep	_	_
+3	बताया	बता	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act	0	root	_	_
+4	था	था	AUX	VAUX	Gender-Masc|Mood-Ind|Number-Sing|Tense-Past|VerbForm-Fin	3	aux	_	_
+5	तुम्हें	तुम	PRON	PRP	Case-Acc,Dat|Number-Sing|Person-1|PronType-Prs	3	iobj	_	_
+6	ना	ना	PART	WQ	PronType-Int	5	dep	_	_
+7	।	।	PUNCT	SYM		3	punct	_	_
+
+1	दुश्मन	दुश्मन	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	nsubj	_	_
+2	कौन	कौन	PRON	WQ	PronType-Int	0	root	_	_
+3	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	2	cop	_	_
+4	मेरा	मैं	PRON	PRP	Case-Acc,Gen|Gender-Masc|Number-Sing|Person-1|Poss-Yes|PronType-Prs	0	nmod	_	_
+5	।	।	PUNCT	SYM		4	punct	_	_
+
+1	अबे	अबे	INTJ	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	dep	_	_
+2	[anonymized]	[anonymized]	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	root	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	अरे	अरा	INTJ	PRP	PronType-Prs	0	dep	_	_
+2	वो	वह	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	1	nsubj	_	_
+3	मेरा	मैं	PRON	PRP	Case-Acc,Gen|Gender-Masc|Number-Sing|Person-1|Poss-Yes|PronType-Prs	0	nmod	_	_
+4	दुश्मन	दुश्मन	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+5	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	6	advmod	_	_
+6	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	4	cop	_	_
+7	।	।	PUNCT	SYM		4	punct	_	_
+
+1	अम	अम	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|Hesitation-Matrix_Tag	2	dep	_	_
+2	अंजान	अंजान	ADJ	JJ		0	root	_	_
+3	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	2	cop	_	_
+4	।	।	PUNCT	SYM		2	punct	_	_
+
+1	अच्छा	अच्छा	ADJ	JJ	Case-Nom|Gender-Masc|Number-Sing	0	dep	_	_
+2	अंजान	अंजान	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	root	_	_
+3	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	2	cop	_	_
+4	।	।	PUNCT	SYM		1	punct	_	_
+
+1	उस	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	5	nmod	_	_
+2	की	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Fem|Number-Sing	1	case	_	_
+3	[incomprehensible]	[incomprehensible]	X	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	5	obj	_	_
+4	तो	तो	PART	RP		3	dep	_	_
+5	बताया	बता	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act	0	root	_	_
+6	था	था	AUX	VAUX	Gender-Masc|Mood-Ind|Number-Sing|Tense-Past|VerbForm-Fin	5	aux	_	_
+7	तुम्हें	तुम	PRON	PRP	Case-Acc,Dat|Number-Sing|Person-1|PronType-Prs	5	iobj	_	_
+8	शायद	शायद	ADV	RB		5	advmod	_	_
+9	राइट	राइट	ADJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	5	dep	_	_
+10	।	।	PUNCT	SYM		5	punct	_	_
+
+1	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	उस	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	4	nmod	_	_
+2	की	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Fem|Number-Sing	1	case	_	_
+3	शादी	शादी	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	4	compound	_	_
+4	हो	हो	VERB	VM	Number-Sing|Voice-Act	0	root	_	_
+5	गई	जा	AUX	VAUX	Aspect-Perf|Gender-Fem|Number-Sing|VerbForm-Part	4	aux	_	_
+6	।	।	PUNCT	SYM		4	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	वो	वह	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	8	nsubj	_	_
+2	अपनी	अपना	PRON	PRP	Case-Acc|Gender-Fem|PronType-Prs	3	nmod	_	_
+3	बीवी	बीवी	NOUN	NN	Case-Acc|Gender-Fem|Number-Sing|Person-3	8	obl	_	_
+4	के	का	ADP	PSP	AdpType-Post	3	case	_	_
+5	संग	संग	ADP	NST	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Person-3	3	case	_	_
+6	यहाँ	यहाँ	PRON	PRP	Case-Acc|PronType-Prs	8	obl	_	_
+7	पर	पर	ADP	PSP	AdpType-Post	6	case	_	_
+8	घूमने	घूम	VERB	VM	Case-Acc|VerbForm-Inf	0	advcl	_	_
+9	आया	आ	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act	8	root	_	_
+10	था	था	AUX	VAUX	Gender-Masc|Mood-Ind|Number-Sing|Tense-Past|VerbForm-Fin	9	aux	_	_
+11	।	।	PUNCT	SYM		8	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	PronType-Int	0	root	_	_
+2	हाँ	हाँ	INTJ	VM	Mood-Sub|Number-Sing|VerbForm-Fin|Voice-Act	1	dep	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	PronType-Int	0	root	_	_
+2	हाँ	हाँ	INTJ	VM	Mood-Sub|Number-Sing|VerbForm-Fin|Voice-Act	1	dep	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	उस	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	0	nmod	_	_
+2	की	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Fem|Number-Sing	1	case	_	_
+3	बीवी	बीवी	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	0	nsubj	_	_
+4	क्या	क्या	X	WQ	PronType-Int|Repair-Matrix_Tag	5	reparandum	_	_
+5	उसी	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	0	root	_	_
+6	की	का	ADP	PSP	AdpType-Post|Case-Acc|Gender-Fem	5	case	_	_
+7	तरह	तरह	ADP	PSP	Case-Acc|Gender-Fem	5	case	_	_
+8	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	5	cop	_	_
+9	क्या	क्या	PRON	WQ	PronType-Int	0	obl	_	_
+10	।	।	PUNCT	SYM		9	punct	_	_
+
+1	ढीठ	ढीठ	ADJ	JJ	Case-Nom	0	amod	_	_
+2	टाइप	टाइप	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	root	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ढीठ	ढीठ	ADJ	JJ	Case-Nom	0	amod	_	_
+2	टाइप	टाइप	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	root	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	मतलब	मतलब	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	हैं	है	INTJ	VM	Mood-Ind|Number-Plur|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ढीठ	ढीठ	ADJ	JJ	Case-Nom	0	amod	_	_
+2	टाइप	टाइप	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	root	_	_
+3	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	2	cop	_	_
+4	क्या	क्या	PRON	WQ	PronType-Int	1	obl	_	_
+5	वो	वह	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	1	nsubj	_	_
+6	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	dep	_	_
+7	।	।	PUNCT	SYM		1	punct	_	_
+
+1	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	dep	_	_
+2	भई	भई	NOUN	VM		1	vocative	_	_
+3	ये	यह	DET	DEM	Case-Nom|Number-Plur|Person-3|PronType-Dem	4	det	_	_
+4	सब	सब	PRON	PRPC	Case-Nom|Number-Plur|Person-3|PronType-Prs	1	det	_	_
+5	तुम्हारे	तुम	PRON	PRP	Case-Acc,Gen|Gender-Masc|Number-Sing|Person-1|Poss-Yes|PronType-Prs	6	nmod	_	_
+6	एडजेक्टिव	एडजेक्टिव	NOUN	NN	Case-Nom|Gender-Masc|Number-Plur|Person-3	1	obj	_	_
+7	हमें	हम	PRON	PRP	Case-Acc,Dat|Number-Plur|Person-1|PronType-Prs	11	nsubj	_	_
+8	समझ	समझ	NOUN	NN	Case-Acc|Gender-Fem|Number-Sing|Person-3	11	compound	_	_
+9	में	में	ADP	PSP	AdpType-Post	8	case	_	_
+10	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	11	advmod	_	_
+11	आते	आ	VERB	VM	Aspect-Imp|Gender-Masc|Number-Plur|Person-3|VerbForm-Part|Voice-Act	1	root	_	_
+12	हैं	है	AUX	VAUX	Mood-Ind|Number-Plur|Person-3|Tense-Pres|VerbForm-Fin	11	aux	_	_
+13	।	।	PUNCT	SYM		1	punct	_	_
+
+1	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	dep	_	_
+2	ढीठ	ढीठ	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	0	nmod	_	_
+3	का	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing	2	case	_	_
+4	मतलब	मतलब	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	obj	_	_
+5	पता	पता	ADJ	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+6	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	7	advmod	_	_
+7	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	5	cop	_	_
+8	।	।	PUNCT	SYM		5	punct	_	_
+
+1	मालूम	मालूम	ADJ	JJ		0	root	_	_
+2	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	1	cop	_	_
+3	बट_आइ_डोंट_आइ_नेवर_हैव_हर्ड_इट_यूज़्ड_इन_अमेरिका	बट_आइ_डोंट_आइ_नेवर_हैव_हर्ड_इट_यूज़्ड_इन_अमेरिका	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag|NestedTag-True|Repair-'आइ_डोंट'	1	conj	_	_
+4	।	।	PUNCT	SYM		1	punct	_	_
+
+1	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	dep	_	_
+2	इंडियन	इंडियन	PROPN	JJ	Case-Nom	3	compound	_	_
+3	नेम	नेम	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	root	_	_
+4	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	3	cop	_	_
+5	ढीठ	ढीठ	NOUN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	obj	_	_
+6	।	।	PUNCT	SYM		1	punct	_	_
+
+1	अम	अम	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|Hesitation-Matrix_Tag	2	dep	_	_
+2	[incomprehensible]	[incomprehensible]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	3	root	_	_
+3	।	।	PUNCT	SYM		0	punct	_	_
+
+1	अम	अम	X	JJ	Case-Nom|Hesitation-Matrix_Tag	2	dep	_	_
+2	मस्त	मस्त	ADJ	JJ		0	root	_	_
+3	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	2	cop	_	_
+4	और	और	CCONJ	CC		2	cc	_	_
+5	क्या	क्या	PRON	WQ	PronType-Int	2	conj	_	_
+6	।	।	PUNCT	SYM		2	punct	_	_
+
+1	आइ_मीन_शीस_अम_देर्स_अ_बिग_एज_गैप_दो	आइ_मीन_शीस_अम_देर्स_अ_बिग_एज_गैप_दो	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag|Hesitation-'अम'|NestedTag-True|Repair-'आइ_मीन_शीस'	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ओह	ओह	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	वो	वह	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	7	nsubj	_	_
+2	शायद	शायद	ADV	RB		7	advmod	_	_
+3	24	24	NUM	QCC	NumType-Card	4	compound	_	_
+4	25	25	NUM	QC	NumType-Card	5	nummod	_	_
+5	साल	साल	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	7	obj	_	_
+6	की	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Fem|Number-Sing	5	case	_	_
+7	होगी	हो	VERB	VM	Gender-Fem|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	0	root	_	_
+8	।	।	PUNCT	SYM		7	punct	_	_
+
+1	और	और	CCONJ	CC		0	cc	_	_
+2	ये	यह	PRON	PRP	Case-Nom|Number-Plur|Person-3|PronType-Prs	0	nsubj	_	_
+3	कितना	कितना	PRON	WQ	Case-Nom|Gender-Masc|Number-Sing|PronType-Int	0	root	_	_
+4	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	3	cop	_	_
+5	।	।	PUNCT	SYM		3	punct	_	_
+
+1	ये	यह	PRON	PRP	Case-Nom|Number-Plur|Person-3|PronType-Prs	4	nsubj	_	_
+2	तो	तो	PART	RP		1	dep	_	_
+3	बुड्ढ़ा	बुड्ढ़ा	ADJ	JJ		4	compound	_	_
+4	हो	हो	VERB	VM	Gender-Masc|Number-Sing|Person-3|Voice-Act	0	root	_	_
+5	गया	जा	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	4	aux	_	_
+6	होगा	हो	AUX	VAUX	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin	4	aux	_	_
+7	अब	अब	PRON	PRP	Case-Nom|PronType-Prs	4	obl	_	_
+8	तो	तो	PART	RP		7	dep	_	_
+9	यार	यार	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	4	vocative	_	_
+10	।	।	PUNCT	SYM		4	punct	_	_
+
+1	33	33	NUM	QCC	NumType-Card	2	compound	_	_
+2	34	34	NUM	QC	NumType-Card	3	nummod	_	_
+3	साल	साल	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	6	nsubj	_	_
+4	का	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing	3	case	_	_
+5	तो	तो	PART	RP		3	dep	_	_
+6	होगा	हो	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	0	root	_	_
+7	ही	ही	PART	RP		6	dep	_	_
+8	।	।	PUNCT	SYM		6	punct	_	_
+
+1	वाउ	वाउ	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	उतना	उतना	ADJ	QF	Gender-Masc|Number-Sing	0	root	_	_
+2	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	1	cop	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	तेत	तेत	X	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs|Repair-Matrix_Tag	2	reparandum	_	_
+2	कम	कम	ADJ	QF	PronType-Ind	5	amod	_	_
+3	से	से	ADP	RP		2	case	_	_
+4	कम	कम	ADJ	QF	PronType-Ind|Echo-Rdp	5	compound	_	_
+5	32	32	NUM	QCC	NumType-Card	6	compound	_	_
+6	33	33	NUM	QC	Case-Acc|NumType-Card	9	nsubj	_	_
+7	का	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing	6	case	_	_
+8	तो	तो	PART	RP		6	dep	_	_
+9	होना	हो	VERB	VM	Gender-Masc|VerbForm-Inf|Voice-Act	0	root	_	_
+10	ही	ही	PART	RP		9	dep	_	_
+11	चाहिए	चाहिए	AUX	VAUX		9	aux	_	_
+12	।	।	PUNCT	SYM		9	punct	_	_
+
+1	हम	हम	PRON	PRP	Case-Nom|Number-Plur|Person-1|PronType-Prs	5	nsubj	_	_
+2	खुद	खुद	PRON	PRP	Case-Nom|PronType-Prs	5	nmod	_	_
+3	31	31	NUM	QC	Case-Acc|NumType-Card	5	obl	_	_
+4	के	का	ADP	PSP	AdpType-Post|Gender-Masc|Number-Plur	3	case	_	_
+5	होने	हो	VERB	VM	Gender-Masc|Number-Plur|Person-3|VerbForm-Inf|Voice-Act	0	root	_	_
+6	वाले	वाला	AUX	VAUX	Gender-Masc|Number-Plur	5	aux	_	_
+7	हैं	है	AUX	VAUX	Mood-Ind|Number-Plur|Person-3|Tense-Pres|VerbForm-Fin	5	aux	_	_
+8	।	।	PUNCT	SYM		5	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	ह्म	ह्म	INTJ	VM	Mood-Sub|Number-Sing|VerbForm-Fin|Voice-Act	1	dep	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	तो	तो	PART	CC		2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	और	और	DET	CC		2	det	_	_
+2	क्या	क्या	PRON	WQ	PronType-Int	0	obj	_	_
+3	बता	बता	VERB	VM	Gender-Masc|Number-Sing|Person-3|Voice-Act	2	root	_	_
+4	रहा	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	3	aux	_	_
+5	अम	अम	X	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Hesitation-Matrix_Tag	3	dep	_	_
+6	।	।	PUNCT	SYM		2	punct	_	_
+
+1	तो	तो	PART	CC		5	dep	_	_
+2	तुम्हारा	तुम्हारा	PRON	PRP	Case-Acc,Gen|Gender-Masc|Number-Sing|Person-1|Poss-Yes|PronType-Prs	5	nmod	_	_
+3	बच्चा	बच्चा	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	5	nsubj	_	_
+4	कब	कब	PRON	WQ	PronType-Int	5	obl	_	_
+5	होने	हो	VERB	VM	Gender-Masc|Number-Sing|Person-3|VerbForm-Inf|Voice-Act	0	root	_	_
+6	वाला	वाला	AUX	VAUX	Gender-Masc|Number-Sing|Person-3	5	aux	_	_
+7	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	5	aux	_	_
+8	।	।	PUNCT	SYM		5	punct	_	_
+
+1	ट्राए	ट्राए	VERB	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	compound	_	_
+2	तो	तो	PART	RP		1	dep	_	_
+3	रोज	रोज	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	obl	_	_
+4	करते	कर	VERB	VM	Aspect-Imp|Gender-Masc|Number-Plur|Person-3|VerbForm-Part|Voice-Act	1	root	_	_
+5	हैं	है	AUX	VAUX	Mood-Ind|Number-Plur|Person-3|Tense-Pres|VerbForm-Fin	4	aux	_	_
+6	।	।	PUNCT	SYM		1	punct	_	_
+
+1	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	अम	अम	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|Hesitation-Matrix_Tag	3	dep	_	_
+2	और	और	DET	CC		3	det	_	_
+3	क्या	क्या	PRON	WQ	PronType-Int	0	obj	_	_
+4	बताएँ	बता	VERB	VM	Mood-Sub|Number-Sing|Person-3|VerbForm-Fin|Voice-Act	3	root	_	_
+5	।	।	PUNCT	SYM		3	punct	_	_
+
+1	ए_आ	ए_आ	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|Hesitation-Matrix_Tag	3	dep	_	_
+2	हर	हर	DET	QF	PronType-Ind	3	det	_	_
+3	रोज	रोज	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	5	obl	_	_
+4	ट्राए	ट्राए	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	5	compound	_	_
+5	करने	कर	VERB	VM	Case-Acc|VerbForm-Inf	0	advcl	_	_
+6	से	से	ADP	PSP	AdpType-Post	5	case	_	_
+7	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	5	advmod	_	_
+8	होगा	हो	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	5	root	_	_
+9	समझे	समझ	VERB	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	8	conj	_	_
+10	।	।	PUNCT	SYM		5	punct	_	_
+
+1	थोड़ा	थोड़ा	ADJ	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	3	amod	_	_
+2	सा	सा	PART	RP	Case-Nom|Gender-Masc|Number-Sing	1	dep	_	_
+3	गैप	गैप	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	4	compound	_	_
+4	दिया	दे	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|Person-3|VerbForm-Part|Voice-Act	0	root	_	_
+5	करो	कर	AUX	VAUX	Mood-Sub|Number-Sing|Person-3|VerbForm-Fin	4	aux	_	_
+6	।	।	PUNCT	SYM		4	punct	_	_
+
+1	[incomprehensible]	[incomprehensible]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	ओए	ओए	INTJ	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	dep	_	_
+2	ओए	ओए	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	dep	_	_
+3	ये	यह	DET	DEM	Case-Nom|Number-Plur|Person-3|PronType-Dem	4	nsubj	_	_
+4	रिकॉर्डिंग	रिकॉर्डिंग	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	1	compound	_	_
+5	हो	हो	VERB	VM	Gender-Fem|Number-Sing|Person-3|Voice-Act	1	root	_	_
+6	रही	रह	AUX	VAUX	Aspect-Perf|Gender-Fem|Number-Sing|VerbForm-Part	5	aux	_	_
+7	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	5	aux	_	_
+8	।	।	PUNCT	SYM		1	punct	_	_
+
+1	बाद	बाद	ADV	NST	AdpType-Post|Case-Acc|Gender-Masc|Number-Sing|Person-3	5	obl	_	_
+2	में	में	ADP	PSP	AdpType-Post	1	case	_	_
+3	बा	बा	X	QC	NumType-Card|Disfluency-Matrix_Tag	4	dep	_	_
+4	बात	बात	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	5	compound	_	_
+5	करना	कर	VERB	VM	Gender-Masc|VerbForm-Inf|Voice-Act	0	root	_	_
+6	।	।	PUNCT	SYM		5	punct	_	_
+
+1	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	अ	अ	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|Hesitation-Matrix_Tag	2	dep	_	_
+2	और_मैं_क्या	और_मैं_क्या	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|Repair-Matrix_Tag	5	reparandum	_	_
+3	और_एनिवन	और_एनिवन	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|Repair-Matrix_Tag	4	reparandum	_	_
+4	अह	अह	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|Hesitation-Matrix_Tag	5	dep	_	_
+5	आयोवा	आयोवा	PROPN	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	6	compound	_	_
+6	सिटी	सिटी	PROPN	NNP	Case-Acc|Gender-Fem|Number-Sing|Person-3	0	nmod	_	_
+7	के	का	ADP	PSP	AdpType-Post|Case-Acc|Gender-Masc|Number-Plur	6	case	_	_
+8	बंदों	बंदा	NOUN	NN	Case-Acc|Gender-Masc|Number-Plur|Person-3	10	obj	_	_
+9	से	से	ADP	PSP	AdpType-Post	8	case	_	_
+10	मिलते	मिल	VERB	VM	Aspect-Imp|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act	6	root	_	_
+11	हो	हो	AUX	VAUX		10	aux	_	_
+12	कि	कि	SCONJ	CC		0	mark	_	_
+13	वहाँ	वहाँ	PRON	PRP	Case-Acc|PronType-Prs	20	obl	_	_
+14	पर	पर	ADP	PSP	AdpType-Post	13	case	_	_
+15	ये	यह	DET	DEM	Case-Nom|Number-Plur|Person-3|PronType-Dem	16	det	_	_
+16	लोग	लोग	NOUN	NN	Case-Nom|Gender-Masc|Number-Plur|Person-3	20	advcl	_	_
+17	हैं	है	AUX	VM	Mood-Ind|Number-Plur|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	16	cop	_	_
+18	ना	ना	PART	WQ	PronType-Prs	16	dep	_	_
+19	क्या	क्या	DET	WQ	PronType-Int	20	det	_	_
+20	नाम	नाम	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	conj	_	_
+21	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	20	cop	_	_
+22	उस	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	0	nmod	_	_
+23	का	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing	22	case	_	_
+24	[anonymized]	[anonymized]	PROPN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	nmod	_	_
+25	।	।	PUNCT	SYM		24	punct	_	_
+
+1	[anonymized]	[anonymized]	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	0	obj	_	_
+2	से	से	ADP	PSP	AdpType-Post	1	case	_	_
+3	मिलता	मिल	VERB	VM	Aspect-Imp|Gender-Masc|Number-Sing|Person-3|VerbForm-Part|Voice-Act	1	root	_	_
+4	हूँ	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-1|Tense-Pres|VerbForm-Fin	3	aux	_	_
+5	कभी	कभी	PRON	PRP	PronType-Prs	3	obl	_	_
+6	कभी	कभी	PRON	PRP	PronType-Prs|Echo-Rdp	3	compound	_	_
+7	।	।	PUNCT	SYM		1	punct	_	_
+
+1	और	और	DET	CC		2	det	_	_
+2	कौन	कौन	PRON	WQ	PronType-Int	0	root	_	_
+3	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	2	cop	_	_
+4	।	।	PUNCT	SYM		2	punct	_	_
+
+1	वो	वह	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	2	root	_	_
+2	था	था	AUX	VM	Gender-Masc|Mood-Ind|Number-Sing|Tense-Past|VerbForm-Fin|Voice-Act	0	cop	_	_
+3	एक	एक	NUM	QC	NumType-Card	2	nummod	_	_
+4	[anonymized]	[anonymized]	PROPN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	nmod	_	_
+5	।	।	PUNCT	SYM		2	punct	_	_
+
+1	और	और	CCONJ	CCC		0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	आशित	आशित	PROPN	JJ		2	root	_	_
+2	[anonymized]	[anonymized]	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	conj	_	_
+3	।	।	PUNCT	SYM		2	punct	_	_
+
+1	उस	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	5	obj	_	_
+2	से	से	ADP	PSP	AdpType-Post	1	case	_	_
+3	तो	तो	PART	RP		1	dep	_	_
+4	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	5	advmod	_	_
+5	मिला	मिल	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|Person-3|VerbForm-Part|Voice-Act	0	root	_	_
+6	मैं	मैं	PRON	PRP	Case-Nom|Number-Sing|Person-1|PronType-Prs	5	nsubj	_	_
+7	।	।	PUNCT	SYM		5	punct	_	_
+
+1	और	और	DET	CC		2	det	_	_
+2	कौन	कौन	PRON	WQ	PronType-Int	0	root	_	_
+3	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	2	cop	_	_
+4	।	।	PUNCT	SYM		2	punct	_	_
+
+1	अरे	अरा	INTJ	PRP	Case-Nom|PronType-Prs	0	dep	_	_
+2	वो	वह	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	1	nsubj	_	_
+3	हुआ	हो	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|Person-3|VerbForm-Part|Voice-Act	1	root	_	_
+4	करता	कर	AUX	VAUX	Aspect-Imp|Gender-Masc|Number-Sing|VerbForm-Part	3	aux	_	_
+5	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	3	aux	_	_
+6	ना	ना	PART	CC		3	dep	_	_
+7	।	।	PUNCT	SYM		1	punct	_	_
+
+1	कौन	कौन	PRON	WQ	PronType-Int	0	root	_	_
+2	[anonymized]	[anonymized]	PROPN	VM	Mood-Sub|VerbForm-Fin|Voice-Act	1	conj	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	क्या	क्या	PRON	WQ	PronType-Int	0	det	_	_
+2	नाम	नाम	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	3	root	_	_
+3	था	था	AUX	VM	Gender-Masc|Mood-Ind|Number-Sing|Tense-Past|VerbForm-Fin|Voice-Act	1	cop	_	_
+4	उस	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	0	nmod	_	_
+5	का	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing	4	case	_	_
+6	।	।	PUNCT	SYM		4	punct	_	_
+
+1	बिनोज	बिनोज	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ओह	ओह	INTJ	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	dep	_	_
+2	बिनोज	बिनोज	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+3	।	।	PUNCT	SYM		2	punct	_	_
+
+1	उस	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	3	obj	_	_
+2	को	को	ADP	PSP	AdpType-Post	1	case	_	_
+3	कॉल	कॉल	VERB	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	0	compound	_	_
+4	किया	कर	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act	3	root	_	_
+5	मैं	मैं	PRON	PRP	Case-Nom|Number-Sing|Person-1|PronType-Prs	0	nsubj	_	_
+6	ने	ने	ADP	PSP	AdpType-Post	5	case	_	_
+7	[pause]	[pause]	X	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	9	dep	_	_
+8	बहुत	बहुत	DET	QF	PronType-Ind	9	det	_	_
+9	पहले	पहले	ADJ	NST	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Person-3	0	obl	_	_
+10	।	।	PUNCT	SYM		9	punct	_	_
+
+1	उस	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	4	nmod	_	_
+2	का	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing	1	case	_	_
+3	बच्चा	बच्चा	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	4	nsubj	_	_
+4	हो	हो	VERB	VM	Number-Sing|Voice-Act	0	root	_	_
+5	गया	जा	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	4	aux	_	_
+6	।	।	PUNCT	SYM		4	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	और	और	CCONJ	CC		0	cc	_	_
+2	[pause]	[pause]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	3	dep	_	_
+3	थोड़ा	थोड़ा	ADV	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	7	advmod	_	_
+4	सा	सा	PART	RP	Case-Nom|Gender-Masc|Number-Sing	3	dep	_	_
+5	बिज़ी	बिज़ी	ADJ	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	7	root	_	_
+6	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	5	cop	_	_
+7	बच्चे	बच्चा	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	0	obl	_	_
+8	के	का	ADP	PSP	AdpType-Post	7	case	_	_
+9	साथ	साथ	ADP	NST	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Person-3	7	case	_	_
+10	।	।	PUNCT	SYM		7	punct	_	_
+
+1	अभी	अभी	PRON	PRP	Case-Nom|PronType-Prs	3	obl	_	_
+2	तो	तो	PART	RP		1	dep	_	_
+3	मिला	मिल	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act	0	root	_	_
+4	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	3	advmod	_	_
+5	उस	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	3	obj	_	_
+6	से	से	ADP	PSP	AdpType-Post	5	case	_	_
+7	।	।	PUNCT	SYM		3	punct	_	_
+
+1	मिलना	मिल	VERB	VM	Gender-Masc|VerbForm-Inf|Voice-Act	0	root	_	_
+2	चाहिए	चाहिए	AUX	VAUX		1	aux	_	_
+3	एक्चुअली	एक्चुअली	ADV	NN	Case-Nom|CodeSwitch-Matrix_Tag	1	advmod	_	_
+4	[incomprehensible]	[incomprehensible]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	dep	_	_
+5	।	।	PUNCT	SYM		1	punct	_	_
+
+1	बि	बि	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|Disfluency-Matrix_Tag	2	dep	_	_
+2	बिनोज	बिनोज	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	9	nsubj	_	_
+3	ने	ने	ADP	PSP	AdpType-Post	2	case	_	_
+4	तो	तो	PART	RP		2	dep	_	_
+5	उस	वह	DET	DEM	Case-Acc|Number-Sing|Person-3|PronType-Dem	6	det	_	_
+6	लड़की	लड़की	NOUN	NN	Case-Acc|Gender-Fem|Number-Sing|Person-3	9	obj	_	_
+7	से	से	ADP	PSP	AdpType-Post	6	case	_	_
+8	शादी	शादी	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	9	compound	_	_
+9	कर	कर	VERB	VM	Gender-Fem|Number-Sing|Voice-Act	0	root	_	_
+10	ली	ले	AUX	VAUX	Aspect-Perf|Gender-Fem|Number-Sing|VerbForm-Part	9	aux	_	_
+11	थी	था	AUX	VAUX	Gender-Fem|Mood-Ind|Number-Sing|Tense-Past|VerbForm-Fin	9	aux	_	_
+12	ना	ना	PART	PRP	PronType-Prs	9	dep	_	_
+13	।	।	PUNCT	SYM		9	punct	_	_
+
+1	शैनन	शैनन	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	root	_	_
+2	याह	याह	INTJ	VM	Gender-Masc|Number-Sing|VerbForm-Fin|Voice-Act|CodeSwitch-Matrix_Tag	0	dep	_	_
+3	।	।	PUNCT	SYM		2	punct	_	_
+
+1	शैनन	शैनन	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	से	से	ADP	PSP	AdpType-Post	1	case	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	और	और	CCONJ	CCC		0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	और	और	CCONJ	CC		8	cc	_	_
+2	अभिजीत	अभिजीत	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	7	nsubj	_	_
+3	कोई	कोई	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	5	det	_	_
+4	और	और	DET	QF	PronType-Ind	5	det	_	_
+5	मोटी	मोटा	ADJ	JJ	Case-Acc|Gender-Fem|Number-Sing	7	obj	_	_
+6	से	से	ADP	PSP	AdpType-Post	5	case	_	_
+7	शादी	शादी	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	8	compound	_	_
+8	कर	कर	VERB	VM	Number-Sing|Voice-Act	0	root	_	_
+9	लिया	ले	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	8	aux	_	_
+10	।	।	PUNCT	SYM		8	punct	_	_
+
+1	लेकिन	लेकिन	X	CC	Disfluency-Matrix_Tag	11	dep	_	_
+2	लेकिन	लेकिन	CCONJ	CC		11	cc	_	_
+3	मतलब	मतलब	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	11	dep	_	_
+4	ये_तो	ये_तो	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|Repair-Matrix_Tag	5	reparandum	_	_
+5	शैनन	शैनन	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	10	nsubj	_	_
+6	तो	तो	PART	RP		5	dep	_	_
+7	अभिजीत	अभिजीत	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	10	nmod	_	_
+8	की	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Fem|Number-Sing	7	case	_	_
+9	भी	भी	PART	RP		7	dep	_	_
+10	पत्नी	पत्नी	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	11	obj	_	_
+11	रह	रह	VERB	VM	Number-Sing	0	root	_	_
+12	चुकी	चुक	AUX	VAUX	Aspect-Perf|Gender-Fem|Number-Sing|VerbForm-Part	11	aux	_	_
+13	कुछ	कुछ	DET	QF	PronType-Ind	14	det	_	_
+14	समय	समय	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	11	obl	_	_
+15	के	का	ADP	PSP	AdpType-Post	14	case	_	_
+16	लिए	लिए	ADP	PSP	AdpType-Post	14	case	_	_
+17	ना	ना	PART	WQ	PronType-Int	14	dep	_	_
+18	।	।	PUNCT	SYM		11	punct	_	_
+
+1	हैं	है	INTJ	VM	Mood-Ind|Number-Plur|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	याह	याह	INTJ	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	0	root	_	_
+2	हाँ	हाँ	INTJ	INJ		1	dep	_	_
+3	हाँ	हाँ	INTJ	VM	Mood-Sub|Number-Sing|Person-3|VerbForm-Fin|Voice-Act	1	dep	_	_
+4	।	।	PUNCT	SYM		1	punct	_	_
+
+1	बड़ा	बड़ा	ADJ	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	4	advmod	_	_
+2	ही	ही	PART	RP		1	dep	_	_
+3	कॉम्प्लिकेटेड	कॉम्प्लिकेटेड	ADJ	JJ	Case-Nom	4	amod	_	_
+4	मेस	मेस	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+5	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	4	cop	_	_
+6	।	।	PUNCT	SYM		4	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	dep	_	_
+2	अभी	अभी	PRON	PRP	Case-Nom|PronType-Prs	0	obl	_	_
+3	कॉम्प्लिकेटेड	कॉम्प्लिकेटेड	ADJ	JJ	Case-Nom	0	amod	_	_
+4	कुछ	कुछ	PRON	PRP	Case-Nom|Person-3|PronType-Prs	0	root	_	_
+5	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	6	advmod	_	_
+6	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	4	cop	_	_
+7	।	।	PUNCT	SYM		4	punct	_	_
+
+1	सिम्पल	सिम्पल	NOUN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	1	cop	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	वो	वह	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	nsubj	_	_
+2	बिनोज	बिनोज	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	0	nmod	_	_
+3	की	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Fem|Number-Sing	2	case	_	_
+4	बीवी	बीवी	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	0	root	_	_
+5	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	4	cop	_	_
+6	और	और	CCONJ	CC		0	cc	_	_
+7	बच्चे	बच्चा	NOUN	NN	Case-Nom|Gender-Masc|Number-Plur|Person-3	0	conj	_	_
+8	हैं	है	AUX	VM	Mood-Ind|Number-Plur|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	7	cop	_	_
+9	।	।	PUNCT	SYM		7	punct	_	_
+
+1	बस	बस	PART	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	[incomprehensible]	[incomprehensible]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	अच्छा	अच्छा	ADJ	JJ	Case-Nom|Gender-Masc|Number-Sing	0	dep	_	_
+2	अब	अब	PRON	PRP	Case-Nom|PronType-Prs	1	obl	_	_
+3	कुछ	कुछ	PRON	PRP	Case-Nom|Person-3|PronType-Prs	1	det	_	_
+4	और	और	DET	QF	PronType-Ind	5	det	_	_
+5	पंगा	पंगा	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	root	_	_
+6	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	5	advmod	_	_
+7	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	5	cop	_	_
+8	।	।	PUNCT	SYM		1	punct	_	_
+
+1	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	और	और	DET	CC		0	det	_	_
+2	कुछ	कुछ	PRON	PRP	Case-Nom|Person-3|PronType-Prs	0	root	_	_
+3	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	4	advmod	_	_
+4	।	।	PUNCT	SYM		2	punct	_	_
+
+1	और	और	CCONJ	CC		9	cc	_	_
+2	वहाँ	वहाँ	PRON	PRP	Case-Nom|PronType-Prs	9	obl	_	_
+3	कौ	कौ	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|Repair-Matrix_Tag	4	reparandum	_	_
+4	ऐसा	ऐसा	DET	PRP	Case-Nom|Gender-Masc|Number-Sing|PronType-Prs	5	det	_	_
+5	कौन	कौन	PRON	WQ	PronType-Int	9	root	_	_
+6	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	5	cop	_	_
+7	जिसे	जो	PRON	PRP	Case-Acc,Dat|Number-Sing|Person-3|PronType-Prs	9	obj	_	_
+8	हम	हम	PRON	PRP	Case-Nom|Number-Plur|Person-1|PronType-Prs	9	nsubj	_	_
+9	जानते	जान	VERB	VM	Aspect-Imp|Gender-Masc|Number-Plur|VerbForm-Part|Voice-Act	0	acl:relcl	_	_
+10	हों	है	AUX	VAUX	Number-Plur	9	aux	_	_
+11	।	।	PUNCT	SYM		9	punct	_	_
+
+1	और	और	CCONJ	CC		6	cc	_	_
+2	सब	सब	PRON	PRP	Case-Acc|Number-Plur|Person-3|PronType-Prs	6	nmod	_	_
+3	का	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing	2	case	_	_
+4	नाम	नाम	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	6	obj	_	_
+5	बदनाम	बदनाम	ADJ	JJ		6	compound	_	_
+6	करोगे	करो	VERB	VM	Mood-Sub|Number-Sing|Person-3|VerbForm-Fin|Voice-Act	0	root	_	_
+7	क्या	क्या	PRON	WQ	PronType-Int	6	obl	_	_
+8	।	।	PUNCT	SYM		6	punct	_	_
+
+1	अभी	अभी	PRON	PRP	Case-Nom|PronType-Prs	5	obl	_	_
+2	अपने	अपना	PRON	PRP	Case-Acc|Gender-Masc|PronType-Prs	3	nmod	_	_
+3	रिकॉर्डिंग	रिकॉर्डिंग	NOUN	NN	Case-Acc|Gender-Fem|Number-Sing|Person-3	5	obl	_	_
+4	में	में	ADP	PSP	AdpType-Post	3	case	_	_
+5	भेज	भेज	VERB	VM	Number-Sing	0	root	_	_
+6	रहे	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	5	aux	_	_
+7	हो	हो	AUX	VAUX		5	aux	_	_
+8	पूरा	पूरा	ADJ	JJ	Case-Acc|Gender-Masc|Number-Sing	5	amod	_	_
+9	यूएस	यूएस	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	5	obl	_	_
+10	में	में	ADP	PSP	AdpType-Post	9	case	_	_
+11	।	।	PUNCT	SYM		5	punct	_	_
+
+1	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	0	dep	_	_
+2	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	0	dep	_	_
+3	ऐसे	ऐसा	PRON	PRP	Case-Nom|Gender-Masc|Number-Plur|PronType-Prs	0	root	_	_
+4	कुछ	कुछ	DET	QF	PronType-Ind	0	det	_	_
+5	।	।	PUNCT	SYM		4	punct	_	_
+
+1	मालूम	मालूम	ADJ	JJ		0	root	_	_
+2	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	1	advmod	_	_
+3	क्या	क्या	PRON	WQ	PronType-Int	1	obj	_	_
+4	करेंगे	कर	VERB	VM	Gender-Masc|Mood-Ind|Number-Plur|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	1	obj	_	_
+5	।	।	PUNCT	SYM		1	punct	_	_
+
+1	अबे	अबे	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	dep	_	_
+2	15	15	NUM	QC	NumType-Card	3	nummod	_	_
+3	मिनट	मिनट	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	obj	_	_
+4	बोला	बोल	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act	1	root	_	_
+5	।	।	PUNCT	SYM		1	punct	_	_
+
+1	15	15	NUM	QC	NumType-Card	2	nummod	_	_
+2	मिनट	मिनट	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	3	nsubj	_	_
+3	हो	हो	VERB	VM	Gender-Masc|Number-Sing|Person-3|Voice-Pass	0	root	_	_
+4	गया	जा	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	3	aux	_	_
+5	होगा	हो	AUX	VAUX	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin	3	aux	_	_
+6	।	।	PUNCT	SYM		3	punct	_	_
+
+1	वो	वह	DET	DEM	Case-Nom|Number-Plur|Person-3|PronType-Dem	2	det	_	_
+2	कम्प्यूटर	कम्प्यूटर	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	5	nsubj	_	_
+3	अपने	अपना	PRON	PRPC	Case-Nom|Gender-Masc|PronType-Prs	5	compound	_	_
+4	आप	आप	PRON	PRP	Case-Nom|Person-2|Polite-Form|PronType-Prs	5	nsubj	_	_
+5	बताएगा	बता	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	0	advcl	_	_
+6	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	5	dep	_	_
+7	तो	तो	SCONJ	CC		14	mark	_	_
+8	हम	हम	X	PRP	Case-Nom|Number-Plur|Person-1|PronType-Prs|Disfluency-Matrix_Tag	9	dep	_	_
+9	हम	हम	PRON	PRP	Case-Nom|Number-Plur|Person-1|PronType-Prs	13	nsubj	_	_
+10	तो	तो	PART	RP		9	dep	_	_
+11	घंटे	घंटा	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	13	obl	_	_
+12	भर	भर	PART	RP		11	dep	_	_
+13	बात	बात	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	14	compound	_	_
+14	करेंगे	कर	VERB	VM	Gender-Masc|Mood-Ind|Number-Plur|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	5	root	_	_
+15	।	।	PUNCT	SYM		5	punct	_	_
+
+1	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	[noise]	[noise]	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	dep	_	_
+2	सिन्स_दे_आर_पेयिंग_फ़ॉर_इट	सिन्स_दे_आर_पेयिंग_फ़ॉर_इट	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	3	root	_	_
+3	।	।	PUNCT	SYM		0	punct	_	_
+
+1	सो	सो	ADV	VM	Voice-Act|CodeSwitch-Matrix_Tag	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	इस	यह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	3	obj	_	_
+2	से	से	ADP	PSP	AdpType-Post	1	case	_	_
+3	मिला	मिल	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act	0	root	_	_
+4	मैं	मैं	PRON	PRP	Case-Nom|Number-Sing|Person-1|PronType-Prs	0	nsubj	_	_
+5	अम	अम	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|Hesitation-Matrix_Tag	7	dep	_	_
+6	[pause]	[pause]	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	7	dep	_	_
+7	[anonymized]	[anonymized]	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	conj	_	_
+8	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	7	cop	_	_
+9	यहाँ	यहाँ	PRON	PRP	Case-Acc|PronType-Prs	0	obl	_	_
+10	पर	पर	ADP	PSP	AdpType-Post	9	case	_	_
+11	।	।	PUNCT	SYM		9	punct	_	_
+
+1	[anonymized]	[anonymized]	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	पता	पता	ADJ	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	1	advmod	_	_
+3	तुम्हें	तुम	PRON	PRP	Case-Acc,Dat|Number-Sing|Person-1|PronType-Prs	4	nsubj	_	_
+4	याद	याद	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	1	obj	_	_
+5	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	4	cop	_	_
+6	कि	कि	SCONJ	CC		8	cc	_	_
+7	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	8	conj	_	_
+8	।	।	PUNCT	SYM		1	punct	_	_
+
+1	और	और	CCONJ	CCC		0	root	_	_
+2	अह	अह	X	VM	Voice-Act|Hesitation-Matrix_Tag	1	dep	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	[anonymized]	[anonymized]	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	क्या	क्या	X	WQ	PronType-Int|Repair-Matrix_Tag	1	reparandum	_	_
+3	किस	कौन	PRON	WQ	PronType-Int	1	dep	_	_
+4	।	।	PUNCT	SYM		1	punct	_	_
+
+1	किस	कौन	X	WQ	Case-Acc|PronType-Int|Disfluency-Matrix_Tag	2	dep	_	_
+2	किस	कौन	DET	WQ	Case-Acc|PronType-Int	3	det	_	_
+3	डिपार्टमेंट	डिपार्टमेंट	NOUN	NN	Case-Acc|Gender-Fem|Number-Sing|Person-3	0	root	_	_
+4	का	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing	3	case	_	_
+5	था	था	AUX	VM	Gender-Masc|Mood-Ind|Number-Sing|Tense-Past|VerbForm-Fin|Voice-Act	3	cop	_	_
+6	।	।	PUNCT	SYM		3	punct	_	_
+
+1	[anonymized]	[anonymized]	PROPN	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	3	nsubj	_	_
+2	इंडस्ट्रियल	इंडस्ट्रियल	NOUN	NNPC	Case-Acc	3	compound	_	_
+3	इंजीनियरिंग	इंजीनियरिंग	NOUN	NN	Case-Acc|Gender-Fem|Number-Sing|Person-3	0	root	_	_
+4	का	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing	3	case	_	_
+5	था	था	AUX	VM	Gender-Masc|Mood-Ind|Number-Sing|Tense-Past|VerbForm-Fin|Voice-Act	3	cop	_	_
+6	।	।	PUNCT	SYM		3	punct	_	_
+
+1	पता	पता	ADJ	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	1	advmod	_	_
+3	तुम्हें	तुम	PRON	PRP	Case-Acc,Dat|Number-Sing|Person-1|PronType-Prs	4	nsubj	_	_
+4	याद	याद	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	1	obj	_	_
+5	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	4	cop	_	_
+6	कि	कि	SCONJ	CC		8	cc	_	_
+7	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	8	conj	_	_
+8	।	।	PUNCT	SYM		1	punct	_	_
+
+1	और	और	DET	CC		2	det	_	_
+2	कौन	कौन	PRON	WQ	PronType-Int	0	root	_	_
+3	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	2	cop	_	_
+4	यहाँ	यहाँ	PRON	PRP	Case-Acc|PronType-Prs	2	obl	_	_
+5	पर	पर	ADP	PSP	AdpType-Post	4	case	_	_
+6	।	।	PUNCT	SYM		2	punct	_	_
+
+1	और	और	DET	CC		3	det	_	_
+2	बहुत	बहुत	DET	QF	PronType-Ind	3	det	_	_
+3	लोग	लोग	NOUN	NN	Case-Nom|Gender-Masc|Number-Plur|Person-3	0	root	_	_
+4	हैं	है	AUX	VM	Mood-Ind|Number-Plur|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	3	cop	_	_
+5	एक्चुअली	एक्चुअली	ADV	NNPC	Case-Acc|CodeSwitch-Matrix_Tag	6	advmod	_	_
+6	आयोवा	आयोवा	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	0	obl	_	_
+7	से	से	ADP	PSP	AdpType-Post	6	case	_	_
+8	।	।	PUNCT	SYM		6	punct	_	_
+
+1	तुम्हें	तुम	PRON	PRP	Case-Acc,Dat|Number-Plur|Person-1|PronType-Prs	4	nsubj	_	_
+2	पता	पता	ADJ	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	4	root	_	_
+3	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	4	advmod	_	_
+4	[incomprehensible]	[incomprehensible]	X	VM	Gender-Masc|Number-Sing|Person-3|VerbForm-Fin|Voice-Act	0	dep	_	_
+5	।	।	PUNCT	SYM		4	punct	_	_
+
+1	अरे	अरे	INTJ	INJ		0	dep	_	_
+2	तुम्हारे	तुम	PRON	PRP	Case-Acc,Gen|Number-Sing|Person-2|Poss-Yes|PronType-Prs	1	nmod	_	_
+3	वहाँ	वहाँ	PRON	PRP	Case-Nom|PronType-Prs	6	obl	_	_
+4	तो	तो	PART	RP		3	dep	_	_
+5	भूकंप	भूकंप	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	6	nsubj	_	_
+6	आए	आ	VERB	VM	Aspect-Perf|Gender-Masc|Number-Plur|Person-3|VerbForm-Part|Voice-Act	2	root	_	_
+7	करते	कर	AUX	VAUX	Aspect-Imp|Gender-Masc|Number-Plur|VerbForm-Part	6	aux	_	_
+8	हैं	है	AUX	VAUX	Mood-Ind|Number-Plur|Person-3|Tense-Pres|VerbForm-Fin	6	aux	_	_
+9	तमाम	तमाम	DET	PRP	Case-Nom|PronType-Prs	0	det	_	_
+10	सारे	सारा	DET	QF	Case-Nom|Gender-Masc|Number-Plur	12	det	_	_
+11	ना	ना	PART	NEG		10	dep	_	_
+12	।	।	PUNCT	SYM		9	punct	_	_
+
+1	तो	तो	PART	CC		3	dep	_	_
+2	क्या	क्या	PRON	WQ	PronType-Int	3	nsubj	_	_
+3	हुआ	हो	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act	0	root	_	_
+4	।	।	PUNCT	SYM		3	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	तुम्हारी	तुम्हारी	PRON	PRP	Case-Acc,Gen|Gender-Fem|Number-Sing|Person-1|Poss-Yes|PronType-Prs	6	nmod	_	_
+2	कार	कार	NOUN	NN	Case-Acc|Gender-Fem|Number-Sing|Person-3	6	nmod	_	_
+3	का	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing	2	case	_	_
+4	बल्ब	बल्ब	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	6	nsubj	_	_
+5	ही	ही	PART	RP		4	dep	_	_
+6	निकल	निकल	VERB	VM	Case-Acc	0	advcl	_	_
+7	के	का	AUX	PSP	AdpType-Post	6	aux	_	_
+8	गिर	गिर	VERB	VM	Number-Sing|Voice-Act	6	root	_	_
+9	गया	जा	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	8	aux	_	_
+10	।	।	PUNCT	SYM		6	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	कार	कार	X	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3|Repair-Matrix_Tag	2	reparandum	_	_
+2	चलाते	चला	VERB	VM	Aspect-Imp|Gender-Masc|Number-Sing|VerbForm-Part	0	advcl	_	_
+3	चले	चल	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act	2	advcl	_	_
+4	जा	जा	AUX	VM	Gender-Masc|Number-Sing|Person-3|Voice-Act	3	aux	_	_
+5	रहे	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Plur|VerbForm-Part	3	aux	_	_
+6	थे	था	AUX	VAUX	Gender-Masc|Mood-Ind|Number-Plur|Tense-Past|VerbForm-Fin	3	aux	_	_
+7	कार	कार	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	3	obj	_	_
+8	कि	कि	SCONJ	CC		12	mark	_	_
+9	उस	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	12	nmod	_	_
+10	का	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing	9	case	_	_
+11	बल्ब	बल्ब	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	12	nsubj	_	_
+12	निकल	निकल	VERB	VM	Case-Acc	3	advcl	_	_
+13	के	का	AUX	PSP	AdpType-Post	12	aux	_	_
+14	गिर	गिर	VERB	VM	Number-Sing|Voice-Act	2	root	_	_
+15	गया	जा	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	14	aux	_	_
+16	।	।	PUNCT	SYM		2	punct	_	_
+
+1	ठीक	ठीक	ADJ	JJ		0	root	_	_
+2	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	1	cop	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	वो	वह	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	3	obj	_	_
+2	इंश्योरेंस	इंश्योरेंस	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	3	nsubj	_	_
+3	कवर	कवर	VERB	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	compound	_	_
+4	कर	कर	VERB	VM	Number-Sing|Person-3|Voice-Act	3	root	_	_
+5	लेगा	ले	AUX	VAUX	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin	4	aux	_	_
+6	।	।	PUNCT	SYM		3	punct	_	_
+
+1	तुम्हारे	तुम	PRON	PRP	Case-Acc,Gen|Number-Sing|Person-1|Poss-Yes|PronType-Prs	4	nmod	_	_
+2	जैसे	जैसा	ADP	PSP	AdpType-Post|Case-Nom|Gender-Masc|Number-Plur	1	case	_	_
+3	उतना	उतना	DET	QF	Case-Nom|Gender-Masc|Number-Sing	4	det	_	_
+4	ठंड	ठंड	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	7	nsubj	_	_
+5	तो	तो	PART	RP		4	dep	_	_
+6	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	7	advmod	_	_
+7	रहेगा	रह	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	0	root	_	_
+8	यहाँ	यहाँ	PRON	PRP	Case-Acc|PronType-Prs	7	obl	_	_
+9	पर	पर	ADP	PSP	AdpType-Post	8	case	_	_
+10	।	।	PUNCT	SYM		7	punct	_	_
+
+1	[incomprehensible]	[incomprehensible]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	याह	याह	INTJ	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	0	dep	_	_
+2	स्नो	स्नो	NOUN	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	3	root	_	_
+3	स्लीट	स्लीट	NOUN	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	conj	_	_
+4	आइस	आइस	NOUN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	conj	_	_
+5	।	।	PUNCT	SYM		1	punct	_	_
+
+1	कैलिफ़ोर्निया	कैलिफ़ोर्निया	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	में	में	ADP	PSP	AdpType-Post	1	case	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	अम	अम	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|Hesitation-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	एनीवे	एनीवे	ADV	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	6	advmod	_	_
+2	तुम	तुम	PRON	PRP	Case-Nom|Number-Sing|Person-2|PronType-Prs	6	nsubj	_	_
+3	मतलब_डिड	मतलब_डिड	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-'डिड'|NestedTag-True|Repair-Matrix_Tag	4	reparandum	_	_
+4	अह	अह	X	INJ	Hesitation-Matrix_Tag	5	dep	_	_
+5	कहीं	कहीं	PRON	PRP	Case-Nom|PronType-Prs	6	obl	_	_
+6	घूमने	घूम	VERB	VM	Case-Acc|VerbForm-Inf	0	root	_	_
+7	गए	जा	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	6	aux	_	_
+8	हो	हो	AUX	VAUX		7	aux	_	_
+9	कैलिफ़ोर्निया	कैलिफ़ोर्निया	NOUN	NN	Case-Acc|Gender-Fem|Number-Sing|Person-3	7	obl	_	_
+10	में	में	ADP	PSP	AdpType-Post	9	case	_	_
+11	कि	कि	SCONJ	CC		16	cc	_	_
+12	अभी	अभी	PRON	PRP	Case-Nom|PronType-Prs	16	obl	_	_
+13	काम	काम	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	16	obj	_	_
+14	ही	ही	PART	RP		13	dep	_	_
+15	पे	पे	ADP	RB		13	case	_	_
+16	लगे	लग	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act	7	conj	_	_
+17	रहते	रह	AUX	VAUX	Aspect-Imp|Gender-Masc|Number-Sing|VerbForm-Part	16	aux	_	_
+18	हो	हो	AUX	VAUX		16	aux	_	_
+19	।	।	PUNCT	SYM		6	punct	_	_
+
+1	अह	अह	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|Hesitation-Matrix_Tag	2	dep	_	_
+2	योसेमिटी	योसेमिटी	PROPN	NNP	Case-Nom|Gender-Fem|Number-Sing|Person-3	3	obj	_	_
+3	गए	जा	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|Person-3|VerbForm-Part|Voice-Act	0	root	_	_
+4	थे	था	AUX	VAUX	Gender-Masc|Mood-Ind|Number-Plur|Tense-Past|VerbForm-Fin	3	aux	_	_
+5	।	।	PUNCT	SYM		3	punct	_	_
+
+1	अह	अह	X	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3|Hesitation-Matrix_Tag	3	dep	_	_
+2	और	और	CCONJ	CC		3	root	_	_
+3	।	।	PUNCT	SYM		0	punct	_	_
+
+1	तुम	तुम	PRON	PRP	Case-Nom|Number-Sing|Person-2|PronType-Prs	4	nsubj	_	_
+2	तो	तो	PART	RP		1	dep	_	_
+3	बैकपैकिंग	बैकपैकिंग	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	4	compound	_	_
+4	करते	कर	VERB	VM	Aspect-Imp|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act	0	obj	_	_
+5	हो	हो	AUX	VAUX		4	aux	_	_
+6	ना	ना	PART	CC		4	dep	_	_
+7	तुम	तुम	PRON	INJ		4	nsubj	_	_
+8	बोल	बोल	VERB	VM	Gender-Masc|Number-Sing|Person-3|Polite-Form|Voice-Act	4	root	_	_
+9	रहे	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|Polite-Form|VerbForm-Part	8	aux	_	_
+10	थे	था	AUX	VAUX	Gender-Masc|Mood-Ind|Number-Sing|Polite-Form|Tense-Past|VerbForm-Fin	8	aux	_	_
+11	।	।	PUNCT	SYM		4	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	बैकपैकिंग	बैकपैकिंग	NOUN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	वगैरह	वगैरह	PART	VM	Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act	1	dep	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	हाइकिंग	हाइकिंग	NOUN	NN	Case-Acc|Gender-Fem|Number-Sing|Person-3	4	obl	_	_
+2	के	का	ADP	PSP	AdpType-Post	1	case	_	_
+3	लिए	लिए	ADP	PSP	AdpType-Post	1	case	_	_
+4	जाता	जा	VERB	VM	Aspect-Imp|Gender-Masc|Number-Sing|Person-3|VerbForm-Part|Voice-Act	0	root	_	_
+5	हूँ	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-1|Tense-Pres|VerbForm-Fin	4	aux	_	_
+6	।	।	PUNCT	SYM		4	punct	_	_
+
+1	बाइकिंग	बाइकिंग	NOUN	NNC	Case-Nom|Gender-Fem|Number-Sing|Person-3	2	obl	_	_
+2	हाइकिंग	हाइकिंग	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3|Echo-Ech	6	conj	_	_
+3	सब	सब	PRON	PRP	Case-Acc|Number-Plur|Person-3|PronType-Prs	6	conj	_	_
+4	के	का	ADP	PSP	AdpType-Post	3	case	_	_
+5	लिए	लिए	ADP	PSP	AdpType-Post	3	case	_	_
+6	जाता	जा	VERB	VM	Aspect-Imp|Gender-Masc|Number-Sing|Person-3|VerbForm-Part|Voice-Act	0	root	_	_
+7	हूँ	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-1|Tense-Pres|VerbForm-Fin	6	aux	_	_
+8	।	।	PUNCT	SYM		6	punct	_	_
+
+1	योसेमिटी	योसेमिटी	PROPN	NNPC	Case-Nom|Gender-Fem|Number-Sing|Person-3	2	compound	_	_
+2	पार्क	पार्क	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+3	।	।	PUNCT	SYM		2	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	कैसा	कैसा	PRON	WQ	PronType-Int	0	root	_	_
+2	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	1	cop	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	बहुत	बहुत	ADV	INTF	AdvType-Deg	2	advmod	_	_
+2	अच्छा	अच्छा	ADJ	JJ	Gender-Masc|Number-Sing	0	root	_	_
+3	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	2	cop	_	_
+4	।	।	PUNCT	SYM		2	punct	_	_
+
+1	बहुत	बहुत	ADV	INTF	AdvType-Deg	2	advmod	_	_
+2	सुंदर	सुन्दर	ADJ	JJ		0	root	_	_
+3	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	2	cop	_	_
+4	।	।	PUNCT	SYM		2	punct	_	_
+
+1	और	और	CCONJ	CC		0	cc	_	_
+2	ये	यह	DET	DEM	Case-Nom|Number-Plur|Person-3|PronType-Dem	4	det	_	_
+3	ग्रैंड	ग्रैंड	PROPN	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	4	compound	_	_
+4	कैनियन	कैनियन	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+5	।	।	PUNCT	SYM		4	punct	_	_
+
+1	ग्रैंड	ग्रैंड	PROPN	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	compound	_	_
+2	कैनियन	कैनियन	PROPN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	4	obl	_	_
+3	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	4	advmod	_	_
+4	गया	जा	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act	0	root	_	_
+5	।	।	PUNCT	SYM		4	punct	_	_
+
+1	वो	वह	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	5	dep	_	_
+2	यश	यश	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	5	obl	_	_
+3	के	का	ADP	PSP	AdpType-Post	2	case	_	_
+4	साथ	साथ	ADP	NST	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Person-3	2	case	_	_
+5	जाऊँगा	जाऊ	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	0	root	_	_
+6	।	।	PUNCT	SYM		5	punct	_	_
+
+1	जब	जब	PRON	PRP	Case-Nom|PronType-Prs	3	obl	_	_
+2	वो	वह	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	3	nsubj	_	_
+3	आएगा	आ	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	0	root	_	_
+4	यहाँ	यहाँ	PRON	PRP	Case-Acc|PronType-Prs	3	obl	_	_
+5	पर	पर	ADP	PSP	AdpType-Post	4	case	_	_
+6	।	।	PUNCT	SYM		3	punct	_	_
+
+1	तो	तो	PART	CC		10	dep	_	_
+2	मतलब	मतलब	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	10	dep	_	_
+3	कुछ	कुछ	DET	QF	PronType-Ind	4	det	_	_
+4	दिन	दिन	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	10	nmod	_	_
+5	की	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Fem|Number-Sing	4	case	_	_
+6	छुट्टी	छुट्टी	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	10	obj	_	_
+7	उस	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	10	obl	_	_
+8	के	का	ADP	PSP	AdpType-Post	7	case	_	_
+9	संग	संग	ADP	NST	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Person-3	7	case	_	_
+10	बिताओगे	बिता	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	0	root	_	_
+11	ज़रूर	ज़रूर	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	10	advmod	_	_
+12	हाँ	हाँ	INTJ	VM	Mood-Ind|Number-Sing|Person-3|VerbForm-Fin|Voice-Act	10	dep	_	_
+13	।	।	PUNCT	SYM		10	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	अच्छा	अच्छा	ADJ	JJ	Gender-Masc|Number-Sing	0	root	_	_
+2	अच्छा	अच्छा	ADJ	JJ	Gender-Masc|Number-Sing	1	dep	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	हाँ_लेकिन_यहाँ_मतलब	हाँ_लेकिन_यहाँ_मतलब	X	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|Repair-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	अह	अह	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|Hesitation-Matrix_Tag	2	dep	_	_
+2	ओह_आइम_श्योर_ही_वुड_गो_टू_बॉस्टन_ऑल्सो_ड्राइविंग	ओह_आइम_श्योर_ही_वुड_गो_टू_बॉस्टन_ऑल्सो_ड्राइविंग	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	3	root	_	_
+3	।	।	PUNCT	SYM		0	punct	_	_
+
+1	वो	वह	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	dep	_	_
+2	उस	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	0	obj	_	_
+3	का	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing	2	case	_	_
+4	पता	पता	ADJ	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+5	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	0	advmod	_	_
+6	उस	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	0	nmod	_	_
+7	का	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing	6	case	_	_
+8	दिमाग	दिमाग	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	nsubj	_	_
+9	ठीक	ठीक	ADJ	JJ		0	conj	_	_
+10	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	9	cop	_	_
+11	या	या	CCONJ	CC		13	cc	_	_
+12	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	13	conj	_	_
+13	।	।	PUNCT	SYM		9	punct	_	_
+
+1	पता	पता	ADJ	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	1	advmod	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	मैं	मैं	X	PRP	Case-Nom|Number-Sing|Person-1|PronType-Prs|Repair-Matrix_Tag	2	reparandum	_	_
+2	उस	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	5	iobj	_	_
+3	को	को	ADP	PSP	AdpType-Post	2	case	_	_
+4	ईमेल	ईमेल	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	5	obj	_	_
+5	भेज	भेज	VERB	VM		0	advcl	_	_
+6	कर	कर	AUX	VAUX		5	aux	_	_
+7	पूछना	पूछ	VERB	VM	Gender-Masc|Number-Sing|Person-3|VerbForm-Inf|Voice-Act	5	root	_	_
+8	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	7	aux	_	_
+9	उस	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	7	nmod	_	_
+10	का	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing	9	case	_	_
+11	प्लान	प्लान	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	7	obj	_	_
+12	क्या	क्या	PRON	WQ	PronType-Int	7	det	_	_
+13	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	7	cop	_	_
+14	।	।	PUNCT	SYM		5	punct	_	_
+
+1	पूरा	पूरा	ADJ	JJ	Case-Nom|Gender-Masc|Number-Sing	0	advmod	_	_
+2	ड्राइव	ड्राइव	VERB	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	compound	_	_
+3	करेगा	कर	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	1	advcl	_	_
+4	तो	तो	SCONJ	CC		7	mark	_	_
+5	उस_का	वह	X	PRP	Case-Acc,Gen|Gender-Masc|Number-Sing|Person-3|Poss-Yes|PronType-Prs|Repair-Matrix_Tag	7	reparandum	_	_
+6	अह	अह	X	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3|Hesitation-Matrix_Tag	7	dep	_	_
+7	मर	मर	VERB	VM	Number-Sing|Person-3|Voice-Act	3	root	_	_
+8	जाएगा	जा	AUX	VAUX	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin	7	aux	_	_
+9	बे	बे	INTJ	SYM		1	dep	_	_
+10	वो	वह	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	1	nsubj	_	_
+11	।	।	PUNCT	SYM		1	punct	_	_
+
+1	वो	वह	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	root	_	_
+2	भी	भी	PART	RP		1	dep	_	_
+3	विंटर	विंटर	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	0	obl	_	_
+4	में	में	ADP	PSP	AdpType-Post	3	case	_	_
+5	अकेले	अकेला	ADJ	JJ	Case-Acc|Gender-Masc|Number-Sing	0	advmod	_	_
+6	।	।	PUNCT	SYM		5	punct	_	_
+
+1	हाँ	हाँ	INTJ	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	dep	_	_
+2	काफ़ी_लम_बहुत	काफ़ी_लम_बहुत	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|Repair-Matrix_Tag	3	reparandum	_	_
+3	पूरा	पूरा	ADJ	JJ	Case-Nom|Gender-Masc|Number-Sing	1	amod	_	_
+4	यूएसए	यूएसए	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	5	obj	_	_
+5	घूम	घूम	VERB	VM	Number-Sing|Person-3|Voice-Act	1	acl	_	_
+6	लेगा	ले	AUX	VAUX	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin	5	aux	_	_
+7	इस	यह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	0	nmod	_	_
+8	का	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing	7	case	_	_
+9	मतलब	मतलब	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+10	ना	ना	PART	NEG		0	dep	_	_
+11	।	।	PUNCT	SYM		10	punct	_	_
+
+1	अगर	अगर	SCONJ	CC		4	mark	_	_
+2	तुम्हारे	तुम	PRON	PRP	Case-Acc,Gen|Number-Sing|Person-2|Poss-Yes|PronType-Prs	4	obl	_	_
+3	उधर	उधर	ADP	NST	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Person-3	2	case	_	_
+4	आया	आ	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act	0	root	_	_
+5	और	और	CCONJ	CC		9	cc	_	_
+6	पूरा	पूरा	ADJ	JJ	Case-Nom|Gender-Masc|Number-Sing	7	amod	_	_
+7	बॉस्टन	बॉस्टन	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	9	obl	_	_
+8	तक	तक	ADP	PSP	AdpType-Post	7	case	_	_
+9	चला	चल	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act	4	conj	_	_
+10	गया	जा	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	9	aux	_	_
+11	।	।	PUNCT	SYM		4	punct	_	_
+
+1	हाँ	हाँ	INTJ	INJ		0	root	_	_
+2	[incomprehensible]	[incomprehensible]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	dep	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	तब	तब	PRON	PRP	Case-Nom|PronType-Prs	5	obl	_	_
+2	तो	तो	PART	RP		1	dep	_	_
+3	पूरा	पूरा	ADJ	JJ	Case-Nom|Gender-Masc|Number-Sing	4	amod	_	_
+4	यूएस	यूएस	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	5	obj	_	_
+5	घूम	घूम	VERB	VM	Number-Sing|Voice-Act	0	root	_	_
+6	लिया	ले	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	5	aux	_	_
+7	और	और	CCONJ	CC		0	cc	_	_
+8	वो	वह	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	conj	_	_
+9	भी	भी	PART	RP		8	dep	_	_
+10	विंटर	विंटर	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	0	obl	_	_
+11	में	में	ADP	PSP	AdpType-Post	10	case	_	_
+12	।	।	PUNCT	SYM		10	punct	_	_
+
+1	क्रॉस	क्रॉस	NOUN	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	compound	_	_
+2	कंट्री	कंट्री	NOUN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	nsubj	_	_
+3	हो	हो	VERB	VM	Number-Sing|Voice-Act	2	root	_	_
+4	गया	जा	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	3	aux	_	_
+5	।	।	PUNCT	SYM		2	punct	_	_
+
+1	अम	अम	X	JJ	Case-Nom|Hesitation-Matrix_Tag	2	dep	_	_
+2	हालत	हालत	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	5	nsubj	_	_
+3	खराब	खराब	ADJ	JJ	Case-Nom	4	compound	_	_
+4	हो_गया_है	हो_गया_है	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|Repair-Matrix_Tag	5	reparandum	_	_
+5	हो	हो	VERB	VM	Number-Sing|Person-3|Voice-Act	0	root	_	_
+6	जाएगा	जा	AUX	VAUX	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin	5	aux	_	_
+7	उस	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	5	nmod	_	_
+8	का	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing	7	case	_	_
+9	।	।	PUNCT	SYM		5	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	और	और	CCONJ	CC		5	cc	_	_
+2	तुम्हारा	तुम्हारा	PRON	PRP	Case-Acc,Gen|Gender-Masc|Number-Sing|Person-1|Poss-Yes|PronType-Prs	5	nmod	_	_
+3	ड्य	ड्य	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|Repair-Matrix_Tag	4	reparandum	_	_
+4	इंडिया	इंडिया	PROPN	NNP	Case-Nom|Gender-Fem|Number-Sing|Person-3	5	obl	_	_
+5	जाने	जा	VERB	VM	Case-Acc|Number-Sing|VerbForm-Inf	0	nmod	_	_
+6	का	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing	5	case	_	_
+7	क्या	क्या	DET	WQ	PronType-Int	8	det	_	_
+8	प्लान	प्लान	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	5	root	_	_
+9	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	8	cop	_	_
+10	अब	अब	PRON	PRP	Case-Nom|PronType-Prs	5	obl	_	_
+11	।	।	PUNCT	SYM		5	punct	_	_
+
+1	अभी	अभी	PRON	PRP	Case-Nom|PronType-Prs	3	obl	_	_
+2	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	3	advmod	_	_
+3	जा	जा	VERB	VM	Number-Sing|Person-3|Voice-Act	0	root	_	_
+4	रहे	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	3	aux	_	_
+5	।	।	PUNCT	SYM		3	punct	_	_
+
+1	इस	यह	DET	DEM	Case-Acc|Number-Sing|Person-3|PronType-Dem	2	det	_	_
+2	साल	साल	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	4	obl	_	_
+3	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	4	advmod	_	_
+4	जा	जा	VERB	VM	Number-Sing|Voice-Act	0	obj	_	_
+5	रहे	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	4	aux	_	_
+6	लगता	लग	VERB	VM	Aspect-Imp|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act	4	root	_	_
+7	।	।	PUNCT	SYM		4	punct	_	_
+
+1	पता	पता	ADJ	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	1	advmod	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	जाऊँगा	जाऊ	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	0	obj	_	_
+2	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	1	advmod	_	_
+3	जाऊँगा	जा	VERB	VAUX	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin	1	conj	_	_
+4	पता	पता	ADJ	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	root	_	_
+5	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	4	advmod	_	_
+6	।	।	PUNCT	SYM		1	punct	_	_
+
+1	फ़ैमिली	फ़ैमिली	NOUN	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	nmod	_	_
+2	वैमिली	वैमिली	NOUN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3|Echo-Ech	0	compound	_	_
+3	के	का	ADP	PSP	AdpType-Post|Case-Acc|Gender-Masc|Number-Sing	2	case	_	_
+4	मेंबर	मेंबर	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	2	obj	_	_
+5	को	को	ADP	PSP	AdpType-Post	4	case	_	_
+6	बुलाने	बुला	VERB	VM	Case-Acc|Number-Sing|VerbForm-Inf	2	nmod	_	_
+7	के	का	ADP	PSP	AdpType-Post|Case-Acc|Gender-Masc|Number-Sing	6	case	_	_
+8	मूड	मूड	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	2	obl	_	_
+9	में	में	ADP	PSP	AdpType-Post	8	case	_	_
+10	हो	हो	VERB	VM	Voice-Act	2	root	_	_
+11	क्या	क्या	PRON	WQ	PronType-Int	2	obl	_	_
+12	।	।	PUNCT	SYM		2	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	एक्चुअली	एक्चुअली	ADV	NNC	Case-Nom|CodeSwitch-Matrix_Tag	3	advmod	_	_
+2	[pause]	[pause]	X	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	3	dep	_	_
+3	सोच	सोच	VERB	VM	Gender-Masc|Number-Sing|Person-3|Voice-Act	0	root	_	_
+4	रहा	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	3	aux	_	_
+5	हूँ	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-1|Tense-Pres|VerbForm-Fin	3	aux	_	_
+6	।	।	PUNCT	SYM		3	punct	_	_
+
+1	क्योंकि	क्योंकि	SCONJ	CC		6	mark	_	_
+2	अह	अह	X	INJ	Hesitation-Matrix_Tag	3	dep	_	_
+3	मेरी	मैं	PRON	PRP	Case-Acc,Gen|Gender-Fem|Number-Sing|Person-1|Poss-Yes|PronType-Prs	6	nmod	_	_
+4	मम्मी	मम्मी	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	6	nsubj	_	_
+5	ऑस्ट्रेलिया	ऑस्ट्रेलिया	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	6	obj	_	_
+6	जाएगी	जा	VERB	VM	Gender-Fem|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	0	advcl	_	_
+7	तो	तो	SCONJ	CC		10	mark	_	_
+8	वहाँ	वहाँ	PRON	PRP	Case-Acc|PronType-Prs	10	obl	_	_
+9	से	से	ADP	PSP	AdpType-Post	8	case	_	_
+10	ले	ले	VERB	VM		6	advcl	_	_
+11	आने	आ	AUX	VAUX	Case-Acc|VerbForm-Inf	10	aux	_	_
+12	के	का	ADP	PSP	AdpType-Post	10	case	_	_
+13	लिए	लिए	ADP	PSP	AdpType-Post	10	case	_	_
+14	सोच	सोच	VERB	VM	Gender-Masc|Number-Sing|Person-3|Voice-Act	6	root	_	_
+15	रहा	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	14	aux	_	_
+16	हूँ	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-1|Tense-Pres|VerbForm-Fin	14	aux	_	_
+17	।	।	PUNCT	SYM		6	punct	_	_
+
+1	पेरेंट्स	पेरेंट्स	NOUN	NNP	Case-Nom|Gender-Masc|Number-Plur|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	तुम्हारी	तुम्हारी	PRON	PRP	Case-Acc,Gen|Gender-Fem|Number-Sing|Person-1|Poss-Yes|PronType-Prs	6	nmod	_	_
+2	अम्मा	अम्मा	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	4	nsubj	_	_
+3	जी	जी	PART	NNPC	Case-Nom|Gender-Fem|Number-Sing|Person-3	4	dep	_	_
+4	ऑस्ट्रेलिया	ऑस्ट्रेलिया	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	6	obj	_	_
+5	क्यों	क्यों	PRON	WQ	PronType-Int	6	obl	_	_
+6	जा	जा	VERB	VM	Gender-Fem|Number-Sing|Person-3|Polite-Form|Voice-Act	0	root	_	_
+7	रही	रह	AUX	VAUX	Aspect-Perf|Gender-Fem|Number-Sing|VerbForm-Part	6	aux	_	_
+8	हैं	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Polite-Form|Tense-Pres|VerbForm-Fin	6	aux	_	_
+9	।	।	PUNCT	SYM		6	punct	_	_
+
+1	वो	वह	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	dep	_	_
+2	अम्मा	अम्मा	NOUN	NN	Case-Acc|Gender-Fem|Number-Sing|Person-3	6	nmod	_	_
+3	जी	जी	PART	RP		2	dep	_	_
+4	की	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Fem|Number-Sing	2	case	_	_
+5	बड़ी	बड़ी	ADJ	JJ	Case-Nom	6	amod	_	_
+6	बहन	बहन	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	0	root	_	_
+7	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	6	cop	_	_
+8	वहाँ	वहाँ	PRON	PRP	Case-Acc|PronType-Prs	0	obl	_	_
+9	पर	पर	ADP	PSP	AdpType-Post	8	case	_	_
+10	।	।	PUNCT	SYM		8	punct	_	_
+
+1	आह	आह	INTJ	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	0	dep	_	_
+2	तो	तो	PART	RP		1	dep	_	_
+3	तुम्हारे	तुम	PRON	PRP	Case-Acc,Gen|Gender-Masc|Number-Sing|Person-2|Poss-Yes|PronType-Prs	1	nmod	_	_
+4	पिता	पिता	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+5	जी	जी	PART	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	4	dep	_	_
+6	भी	भी	PART	RP		4	dep	_	_
+7	कि	कि	SCONJ	CC		0	cc	_	_
+8	अम्मा	अम्मा	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	0	conj	_	_
+9	जी	जी	PART	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	8	dep	_	_
+10	अकेले	अकेला	ADJ	JJ	Case-Acc|Gender-Masc|Number-Sing	0	advmod	_	_
+11	।	।	PUNCT	SYM		10	punct	_	_
+
+1	उन	वह	PRON	PRP	Case-Acc|Number-Plur|Person-3|PronType-Prs	4	obl	_	_
+2	के	का	ADP	PSP	AdpType-Post	1	case	_	_
+3	साथ	साथ	ADP	NST	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Person-3	1	case	_	_
+4	जा	जा	VERB	VM	Number-Sing|Person-3|Voice-Act	0	root	_	_
+5	रहे	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	4	aux	_	_
+6	।	।	PUNCT	SYM		4	punct	_	_
+
+1	अम्मा	अम्मा	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	0	root	_	_
+2	जी	जी	PART	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	dep	_	_
+3	अकेले	अकेला	ADJ	JJ	Case-Nom|Gender-Masc|Number-Sing	4	advmod	_	_
+4	प्राबब्ली	प्राबब्ली	ADV	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	0	advmod	_	_
+5	।	।	PUNCT	SYM		4	punct	_	_
+
+1	पता	पता	ADJ	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	1	advmod	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	अच्छा	अच्छा	ADJ	JJ	Gender-Masc|Number-Sing	0	root	_	_
+2	अच्छा	अच्छा	ADJ	JJ	Gender-Masc|Number-Sing	1	dep	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	तो	तो	PART	CC		2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	पिता	पिता	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	4	nsubj	_	_
+2	जी	जी	PART	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	dep	_	_
+3	भी	भी	PART	RP		1	dep	_	_
+4	जाएँगे	जा	VERB	VM	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Polite-Form|Tense-Fut|VerbForm-Fin|Voice-Act	0	root	_	_
+5	।	।	PUNCT	SYM		4	punct	_	_
+
+1	हो	हो	X	VM	Gender-Masc|Number-Sing|Person-3|Voice-Act|Disfluency-Matrix_Tag	0	dep	_	_
+2	हो	हो	VERB	VAUX		1	root	_	_
+3	सकता	सक	AUX	VAUX	Aspect-Imp|Gender-Masc|Number-Sing|VerbForm-Part	2	aux	_	_
+4	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	2	aux	_	_
+5	पता	पता	ADJ	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	conj	_	_
+6	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	5	advmod	_	_
+7	।	।	PUNCT	SYM		1	punct	_	_
+
+1	कोई	कोई	DET	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	2	det	_	_
+2	प्लान	प्लान	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+3	ठीक	ठीक	ADJ	RB		0	obl	_	_
+4	से	से	PART	RP		3	dep	_	_
+5	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	6	advmod	_	_
+6	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	3	cop	_	_
+7	अभी	अभी	PRON	PRP	Case-Nom|PronType-Prs	0	obl	_	_
+8	।	।	PUNCT	SYM		7	punct	_	_
+
+1	तो	तो	PART	CC		7	dep	_	_
+2	इंडिया	इंडिया	PROPN	NNP	Case-Acc|Gender-Fem|Number-Sing|Person-3	7	obl	_	_
+3	से	से	ADP	PSP	AdpType-Post	2	case	_	_
+4	तो	तो	PART	RP		2	dep	_	_
+5	डायरेक्ट	डायरेक्ट	ADJ	NNC	Case-Nom|Gender-Masc|Number-Sing|Person-3	6	amod	_	_
+6	फ़्लाइट	फ्लाइट	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	7	nsubj	_	_
+7	होंगी	हो	VERB	VM	Gender-Fem|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin|Voice-Act	0	root	_	_
+8	ऑस्ट्रेलिया	ऑस्ट्रेलिया	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	7	obl	_	_
+9	तक	तक	ADP	PSP	AdpType-Post	8	case	_	_
+10	की	कर	ADP	VM	Aspect-Perf|Gender-Fem|Number-Sing|VerbForm-Part|Voice-Act	7	case	_	_
+11	शायद	शायद	ADV	RB		7	advmod	_	_
+12	।	।	PUNCT	SYM		7	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|Hesitation-Matrix_Tag	0	dep	_	_
+2	सिंगापोर_वाया	सिंगापोर_वाया	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	1	root	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	तो	तो	PART	CC		0	dep	_	_
+2	डायरेक्ट	डायरेक्ट	ADJ	NNC	Case-Nom|Gender-Masc|Number-Sing|Person-3	3	amod	_	_
+3	फ़्लाइट	फ्लाइट	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	0	root	_	_
+4	वहाँ	वहाँ	PRON	PRP	Case-Acc|PronType-Prs	0	obl	_	_
+5	तक	तक	ADP	PSP	AdpType-Post	4	case	_	_
+6	की	कर	ADP	VM	Aspect-Perf|Gender-Fem|Number-Sing|Person-3|VerbForm-Part|Voice-Act	4	case	_	_
+7	भी	भी	PART	RP		4	dep	_	_
+8	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	9	advmod	_	_
+9	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	4	cop	_	_
+10	।	।	PUNCT	SYM		4	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	डायरेक्ट	डायरेक्ट	ADJ	NNC	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	amod	_	_
+2	फ़्लाइट	फ्लाइट	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	4	obj	_	_
+3	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	4	advmod	_	_
+4	देते	दे	VERB	VM	Aspect-Imp|Gender-Masc|Number-Plur|Person-3|VerbForm-Part|Voice-Act	0	root	_	_
+5	हैं	है	AUX	VAUX	Mood-Ind|Number-Plur|Person-3|Tense-Pres|VerbForm-Fin	4	aux	_	_
+6	।	।	PUNCT	SYM		4	punct	_	_
+
+1	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	0	root	_	_
+2	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	0	dep	_	_
+3	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	4	dep	_	_
+4	।	।	PUNCT	SYM		2	punct	_	_
+
+1	और	और	CCONJ	CC		8	cc	_	_
+2	अह	अह	X	INJ	Hesitation-Matrix_Tag	4	dep	_	_
+3	तो	तो	PART	RP		2	dep	_	_
+4	तुम्हारे	तुम	PRON	PRP	Case-Acc,Gen|Number-Sing|Person-2|Poss-Yes|PronType-Prs	8	nmod	_	_
+5	कानपुर	कानपुर	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	8	obl	_	_
+6	में	में	ADP	PSP	AdpType-Post	5	case	_	_
+7	क्या	क्या	PRON	WQ	PronType-Int	8	obj	_	_
+8	किया	कर	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Pass	0	root	_	_
+9	बे	बे	INTJ	VAUX	Gender-Masc|Number-Sing|VerbForm-Fin	8	dep	_	_
+10	।	।	PUNCT	SYM		8	punct	_	_
+
+1	वो	वह	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	4	dep	_	_
+2	4	4	NUM	QC	NumType-Card	3	nummod	_	_
+3	महीने	महीना	NOUN	NN	Case-Nom|Gender-Masc|Number-Plur|Person-3	4	obl	_	_
+4	गए	जा	VERB	VM	Aspect-Perf|Gender-Masc|Number-Plur|VerbForm-Part|Voice-Act	0	root	_	_
+5	थे	था	AUX	VAUX	Gender-Masc|Mood-Ind|Number-Plur|Tense-Past|VerbForm-Fin	4	aux	_	_
+6	ना	ना	PART	PRP	PronType-Prs	4	dep	_	_
+7	।	।	PUNCT	SYM		4	punct	_	_
+
+1	तुम	तुम	PRON	PRP	Case-Acc,Gen|Number-Sing|Person-1|PronType-Prs	4	obj	_	_
+2	से	से	ADP	PSP	AdpType-Post	1	case	_	_
+3	कब	कब	PRON	WQ	PronType-Int	4	obl	_	_
+4	बात	बात	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	0	compound	_	_
+5	हुई	हो	VERB	VM	Aspect-Perf|Gender-Fem|Number-Sing|Person-3|VerbForm-Part|Voice-Act	4	root	_	_
+6	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	5	aux	_	_
+7	।	।	PUNCT	SYM		4	punct	_	_
+
+1	उस	वह	X	DEM	Case-Acc|Number-Sing|Person-3|PronType-Dem|Repair-Matrix_Tag	2	reparandum	_	_
+2	लौट	लौट	NOUN	NN	Case-Acc|Gender-Fem|Number-Sing|Person-3	6	advcl	_	_
+3	के	का	ADP	PSP	AdpType-Post	2	case	_	_
+4	तो	तो	PART	RP		2	dep	_	_
+5	बात	बात	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	6	compound	_	_
+6	हो	हो	VERB	VM	Gender-Fem|Number-Sing|Voice-Act	0	root	_	_
+7	चुकी	चुक	AUX	VAUX	Aspect-Perf|Gender-Fem|Number-Sing|VerbForm-Part	6	aux	_	_
+8	तुम	तुम	PRON	PRP	Case-Acc,Gen|Number-Sing|Person-3|PronType-Prs	6	obj	_	_
+9	से	से	ADP	PSP	AdpType-Post	8	case	_	_
+10	शायद	शायद	ADV	RB		6	advmod	_	_
+11	।	।	PUNCT	SYM		6	punct	_	_
+
+1	1	1	NUM	QC	NumType-Card	2	nummod	_	_
+2	बार	बार	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	3	obl	_	_
+3	हुई	हो	VERB	VM	Aspect-Perf|Gender-Fem|Number-Sing|Person-3|VerbForm-Part|Voice-Act	0	root	_	_
+4	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	3	aux	_	_
+5	।	।	PUNCT	SYM		3	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	तो	तो	PART	CC		4	dep	_	_
+2	आराम	आराम	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	4	obl	_	_
+3	से	से	ADP	PSP	AdpType-Post	2	case	_	_
+4	पढ़ाया	पढ़ाया	VERB	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+5	आइआइटी	आइआइटी	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	4	compound	_	_
+6	कानपुर	कानपुर	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	4	obl	_	_
+7	में	में	ADP	PSP	AdpType-Post	6	case	_	_
+8	।	।	PUNCT	SYM		4	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	अह	अह	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|Hesitation-Matrix_Tag	2	dep	_	_
+2	फ़ाइनल	फ़ाइनल	ADJ	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	3	amod	_	_
+3	ईयर	ईयर	NOUN	NNC	Case-Nom|Gender-Masc|Number-Sing|Person-3	4	compound	_	_
+4	स्टूडेंट्स	स्टूडेंट	NOUN	NNP	Case-Nom|Gender-Masc|Number-Plur|Person-3	0	root	_	_
+5	थे	था	AUX	VM	Gender-Masc|Mood-Ind|Number-Plur|Tense-Past|VerbForm-Fin|Voice-Act	4	cop	_	_
+6	ज़्यादातर	ज़्यादातर	ADV	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	advmod	_	_
+7	।	।	PUNCT	SYM		6	punct	_	_
+
+1	और	और	CCONJ	CC		0	cc	_	_
+2	मास्टर्स	मास्टर	NOUN	NNP	Case-Nom|Gender-Masc|Number-Plur|Person-3	0	root	_	_
+3	।	।	PUNCT	SYM		2	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ऐंड_[incomprehensible]	ऐंड_[incomprehensible]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	क्या	क्या	PRON	WQ	PronType-Int	0	obj	_	_
+2	पढ़ाया	पढ़ाया	VERB	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	root	_	_
+3	उन	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	0	iobj	_	_
+4	को	को	ADP	PSP	AdpType-Post	3	case	_	_
+5	।	।	PUNCT	SYM		3	punct	_	_
+
+1	बताया	बता	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act	0	root	_	_
+2	ना	ना	PART	CC		1	dep	_	_
+3	टॉपिक्स_इन_डिस्ट्रिब्यूटेड_सिस्टम्ज़	टॉपिक्स_इन_डिस्ट्रिब्यूटेड_सिस्टम्ज़	PROPN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	1	obj	_	_
+4	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ओह	ओह	INTJ	NNPC	Case-Nom|Gender-Fem|Number-Sing|Person-3	2	dep	_	_
+2	[incomprehensible]	[incomprehensible]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+3	।	।	PUNCT	SYM		2	punct	_	_
+
+1	हाँ	हाँ	INTJ	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	dep	_	_
+2	रिसर्च	रिसर्च	NOUN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	root	_	_
+3	उस	वह	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	0	obl	_	_
+4	में	में	ADP	PSP	AdpType-Post	3	case	_	_
+5	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	3	cop	_	_
+6	।	।	PUNCT	SYM		3	punct	_	_
+
+1	खोला	खोल	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act	0	root	_	_
+2	उस	वह	DET	DEM	Case-Acc|Number-Sing|Person-3|PronType-Dem	3	obl	_	_
+3	पे	पे	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	case	_	_
+4	।	।	PUNCT	SYM		1	punct	_	_
+
+1	दे_लाइक्ट_द_कोर्स	दे_लाइक्ट_द_कोर्स	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	पसंद	पसंद	ADJ	JJ		0	compound	_	_
+2	आया	आ	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act	1	root	_	_
+3	कोर्स	कोर्स	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	obj	_	_
+4	।	।	PUNCT	SYM		1	punct	_	_
+
+1	[incomprehensible]	[incomprehensible]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	आइ_होप_दे_हैव_लर्टं_समथिंग	आइ_होप_दे_हैव_लर्टं_समथिंग	X	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	आर_यू_श्योर	आर_यू_श्योर	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	ओह_आइम_श्योर_[incomprehensible]	ओह_आइम_श्योर_[incomprehensible]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	केवल	केवल	ADV	RP		0	advmod	_	_
+2	ए	ए	NOUN	NNC	Case-Nom	3	compound	_	_
+3	ग्रेड	ग्रेड	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	obj	_	_
+4	लाने	ला	VERB	VM	Case-Acc|VerbForm-Inf	1	advcl	_	_
+5	के	का	ADP	PSP	AdpType-Post	4	case	_	_
+6	लिए	लिए	ADP	PSP	AdpType-Post	4	case	_	_
+7	बोल	बोल	VERB	VM	Gender-Masc|Number-Sing|Person-3|Voice-Pass	4	root	_	_
+8	दिया	दे	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	7	aux	_	_
+9	होगा	हो	AUX	VAUX	Gender-Masc|Mood-Ind|Number-Sing|Person-3|Tense-Fut|VerbForm-Fin	7	aux	_	_
+10	तुम्हें	तुम	PRON	PRP	Case-Acc,Dat|Number-Sing|Person-1|PronType-Prs	7	obj	_	_
+11	।	।	PUNCT	SYM		1	punct	_	_
+
+1	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	0	dep	_	_
+2	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	0	dep	_	_
+3	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	0	dep	_	_
+4	ऐसा	ऐसा	PRON	PRP	Case-Nom|Gender-Masc|Number-Sing|PronType-Prs	0	root	_	_
+5	।	।	PUNCT	SYM		4	punct	_	_
+
+1	ए	ए	NOUN	NNPC	Case-Nom|Number-Sing|Person-3	2	compound	_	_
+2	ग्रेड	ग्रेड	NOUN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	nsubj	_	_
+3	कितने	कितना	DET	QF	Case-Nom|Gender-Masc|Number-Sing	4	det	_	_
+4	आए	आ	VERB	VM	Aspect-Perf|Gender-Masc|Number-Plur|VerbForm-Part|Voice-Act	2	root	_	_
+5	।	।	PUNCT	SYM		2	punct	_	_
+
+1	देखो	देखो	VERB	INJ		0	root	_	_
+2	[pause]	[pause]	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	3	dep	_	_
+3	आइ_थिंक_आइ_हैड_29_स्टूडेंट्स	आइ_थिंक_आइ_हैड_29_स्टूडेंट्स	X	NNP	Case-Nom|Gender-Masc|Number-Plur|Person-3|CodeSwitch-Matrix_Tag	1	obj	_	_
+4	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ऐंड_यू_गेव_29_एज़	ऐंड_यू_गेव_29_एज़	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	0	root	_	_
+2	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	0	dep	_	_
+3	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	4	dep	_	_
+4	।	।	PUNCT	SYM		2	punct	_	_
+
+1	15	15	NUM	NNPC	Case-Nom|Number-Sing|Person-3	2	nummod	_	_
+2	ए	ए	NOUN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+3	।	।	PUNCT	SYM		2	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	15	15	NUM	NNPC	Case-Nom|Number-Sing|Person-3	2	nummod	_	_
+2	ए	ए	NOUN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+3	।	।	PUNCT	SYM		2	punct	_	_
+
+1	50	50	NUM	QC	NumType-Card	2	nummod	_	_
+2	पर्सेंट	पर्सेंट	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	5	iobj	_	_
+3	को	को	ADP	PSP	AdpType-Post	2	case	_	_
+4	ए	ए	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	5	obj	_	_
+5	दे	दे	VERB	VM	Number-Sing|Voice-Act	0	root	_	_
+6	दिया	दे	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	5	aux	_	_
+7	।	।	PUNCT	SYM		5	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	9	9	NUM	NNPC	Case-Nom|Number-Sing|Person-3	2	nummod	_	_
+2	बी	बी	NOUN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+3	और	और	CCONJ	CC		5	cc	_	_
+4	7	7	NUM	QC	NumType-Card	5	nummod	_	_
+5	सी	सा	NOUN	RP		2	conj	_	_
+6	।	।	PUNCT	SYM		2	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	हाँ	हाँ	INTJ	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	0	dep	_	_
+2	50	50	NUM	QC	NumType-Card	3	nummod	_	_
+3	पर्सेंट	पर्सेंट	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	7	nmod	_	_
+4	से	से	ADP	PSP	AdpType-Post	3	case	_	_
+5	ज़्यादा	ज़्यादा	ADP	NST	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Person-3	3	case	_	_
+6	ही	ही	PART	RP		3	dep	_	_
+7	ए	ए	NOUN	VM	Gender-Masc|Number-Plur|Person-3|Voice-Act	1	obj	_	_
+8	देते	दे	VERB	VM	Aspect-Imp|Gender-Masc|Number-Plur|Person-3|VerbForm-Part|Voice-Act	1	root	_	_
+9	हैं	है	AUX	VAUX	Mood-Ind|Number-Plur|Person-3|Tense-Pres|VerbForm-Fin	8	aux	_	_
+10	वहाँ	वहाँ	PRON	PRP	Case-Acc|PronType-Prs	1	obl	_	_
+11	पर	पर	ADP	PSP	AdpType-Post	10	case	_	_
+12	तो	तो	PART	RP		10	dep	_	_
+13	।	।	PUNCT	SYM		1	punct	_	_
+
+1	अच्छा	अच्छा	ADJ	JJ	Gender-Masc|Number-Sing	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	मतलब_फ़ाइनल_कोर	मतलब_फ़ाइनल_कोर	X	JJ	Case-Nom|Repair-Matrix_Tag	2	reparandum	_	_
+2	मतलब	मतलब	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+3	अ	अ	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|Hesitation-Matrix_Tag	4	dep	_	_
+4	फ़ाइनल	फ़ाइनल	ADJ	NNPC	Case-Nom|Number-Sing|Person-3	5	amod	_	_
+5	ईयर	ईयर	NOUN	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	6	compound	_	_
+6	कोर्सेस	कोर्सेस	NOUN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	0	nmod	_	_
+7	में	में	ADP	PSP	AdpType-Post	6	case	_	_
+8	।	।	PUNCT	SYM		6	punct	_	_
+
+1	ओह_दिस_इस_फ़ाइनल_ईयर_कोर्स_राइट	ओह_दिस_इस_फ़ाइनल_ईयर_कोर्स_राइट	X	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	[incomprehensible]	[incomprehensible]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	4	dep	_	_
+2	लड़के	लड़के	ADP	PSP	AdpType-Post	1	nsubj	_	_
+3	कुल	कुल	DET	QF	PronType-Ind	4	det	_	_
+4	29	29	NUM	QC	NumType-Card	5	root	_	_
+5	थे	था	AUX	VM	Gender-Masc|Mood-Ind|Number-Plur|Tense-Past|VerbForm-Fin|Voice-Act	0	cop	_	_
+6	।	।	PUNCT	SYM		5	punct	_	_
+
+1	कितने	कितना	X	QF	Case-Acc|Gender-Masc|Number-Sing|Repair-Matrix_Tag	2	reparandum	_	_
+2	कितनो	कितनो	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	4	obj	_	_
+3	को	को	ADP	PSP	AdpType-Post	2	case	_	_
+4	घसीटोगे	घसीटोगा	VERB	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+5	भई	भई	NOUN	VM	Number-Sing|VerbForm-Fin|Voice-Act	4	vocative	_	_
+6	।	।	PUNCT	SYM		4	punct	_	_
+
+1	कितनो	कितनो	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	4	obj	_	_
+2	को	को	ADP	PSP	AdpType-Post	1	case	_	_
+3	फ़ेल	फ़ेल	ADJ	JJ		4	compound	_	_
+4	करोगे	करो	VERB	VM	Mood-Sub|Number-Sing|Person-3|VerbForm-Fin|Voice-Act	0	root	_	_
+5	।	।	PUNCT	SYM		4	punct	_	_
+
+1	फ़ेल	फ़ेल	ADJ	JJ		0	compound	_	_
+2	किसी	कोई	PRON	PRP	Case-Acc|Number-Sing|Person-3|PronType-Prs	1	obj	_	_
+3	को	को	ADP	PSP	AdpType-Post	2	case	_	_
+4	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	2	advmod	_	_
+5	किया	कर	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act	1	root	_	_
+6	क्योंकि	क्योंकि	SCONJ	CC		0	mark	_	_
+7	आइ_डिडंट_वॉंट_टू_गो_थ्रू_द_होल_हैसल	आइ_डिडंट_वॉंट_टू_गो_थ्रू_द_होल_हैसल	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	8	advcl	_	_
+8	।	।	PUNCT	SYM		6	punct	_	_
+
+1	अम	अम	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|Hesitation-Matrix_Tag	2	dep	_	_
+2	वैसे	वैसे	PRON	PRP	Case-Nom|Gender-Masc|Number-Sing|PronType-Prs	4	advmod	_	_
+3	फ़ेल	फ़ेल	ADJ	JJ		4	compound	_	_
+4	करने	कर	VERB	VM	Case-Acc|VerbForm-Inf	0	advcl	_	_
+5	लायक	लायक	ADP	PSP	AdpType-Post	4	case	_	_
+6	थे	था	VERB	VM	Gender-Masc|Mood-Ind|Number-Plur|Tense-Past|VerbForm-Fin|Voice-Act	4	root	_	_
+7	भी	भी	PART	RP		6	dep	_	_
+8	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	6	advmod	_	_
+9	।	।	PUNCT	SYM		4	punct	_	_
+
+1	कुछ	कुछ	X	QF	PronType-Ind|Repair-Matrix_Tag	2	reparandum	_	_
+2	जिन्होंने	जो	PRON	PRP	Case-Acc,Erg|Number-Sing|Person-3|Polite-Form|PronType-Prs	5	nsubj	_	_
+3	ज़्यादा	ज़्यादा	ADJ	JJ	Case-Nom	4	advmod	_	_
+4	मेहनत	मेहनत	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	5	compound	_	_
+5	की	कर	VERB	VM	Aspect-Perf|Gender-Fem|Number-Sing|VerbForm-Part|Voice-Act	0	root	_	_
+6	ऑर_गॉट_लकी_गॉट_एज़	ऑर_गॉट_लकी_गॉट_एज़	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	5	dep	_	_
+7	।	।	PUNCT	SYM		5	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	ह्म	ह्म	INTJ	VM	Mood-Sub|Number-Sing|VerbForm-Fin|Voice-Act	1	dep	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	जिन्होंने_मतलब	जिन्होंने_मतलब	X	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|Repair-Matrix_Tag	4	reparandum	_	_
+2	1	1	NUM	NNPC	Case-Nom|Number-Sing|Person-3	3	compound	_	_
+3	आद	आद	NUM	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	4	nummod	_	_
+4	एग्ज़ैम	एग्ज़ैम	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	0	obl	_	_
+5	में	में	ADP	PSP	AdpType-Post	4	case	_	_
+6	फ़ेल	फ़ेल	ADJ	JJ		4	compound	_	_
+7	हो	हो	VERB	VM	Number-Sing|Voice-Act	4	root	_	_
+8	गया	जा	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	7	aux	_	_
+9	गॉट_बीज़	गॉट_बीज़	X	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	10	dep	_	_
+10	।	।	PUNCT	SYM		4	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	ह्म	ह्म	INTJ	VM	Mood-Sub|Number-Sing|VerbForm-Fin|Voice-Act	1	dep	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	और	और	CCONJ	CCC		0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	जिन्होंने	जो	PRON	PRP	Case-Acc,Erg|Number-Sing|Person-3|Polite-Form|PronType-Prs	0	nsubj	_	_
+2	कंसिस्टेंट्ली_[pause]_डिडंट_ट्राए_टू_पिक_अप_दे_गॉट_सीज़	कंसिस्टेंट्ली_[pause]_डिडंट_ट्राए_टू_पिक_अप_दे_गॉट_सीज़	X	JJ	CodeSwitch-Matrix_Tag	3	root	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	सीज़	सीज़	NOUN	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	compound	_	_
+2	ज़्यादातर	ज़्यादातर	ADV	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	advmod	_	_
+3	जो	जो	PRON	PRP	Case-Nom|Number-Plur|Person-3|PronType-Prs	2	root	_	_
+4	थे	था	AUX	VM	Gender-Masc|Mood-Ind|Number-Plur|Tense-Past|VerbForm-Fin|Voice-Act	2	cop	_	_
+5	वो	वह	PRON	SYM		2	dep	_	_
+6	।	।	PUNCT	SYM		2	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	ह्म	ह्म	INTJ	VM	Mood-Sub|Number-Sing|VerbForm-Fin|Voice-Act	1	dep	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	शायद	शायद	ADV	RB		0	advmod	_	_
+2	एक्चुअली_देर_इस_नो_रूल	एक्चुअली_देर_इस_नो_रूल	X	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	3	root	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	अम	अम	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|Hesitation-Matrix_Tag	2	dep	_	_
+2	मतलब	मतलब	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	13	dep	_	_
+3	एमएस_और_पीएचडी	एमएस_और_पीएचडी	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|Repair-Matrix_Tag	4	reparandum	_	_
+4	एमएस	एमएस	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	11	obl	_	_
+5	और	और	CCONJ	CC		11	cc	_	_
+6	बीटेक	बीटेक	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	11	conj	_	_
+7	में	में	ADP	PSP	AdpType-Post	6	case	_	_
+8	ईक्वली	ईक्वल	X	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act|CodeSwitch-'ईक्वली'|NestedTag-True|Repair-Matrix_Tag	10	reparandum	_	_
+9	जो	जो	DET	DEM	Case-Nom|Number-Sing|Person-3|PronType-Dem	10	det	_	_
+10	डिस्ट्रिब्यूशन	डिस्ट्रिब्यूशन	NOUN	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	11	nsubj	_	_
+11	ऑल्मोस्ट	ऑल्मोस्ट	ADJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	12	advmod	_	_
+12	ईक्वल	ईक्वल	ADJ	JJ		13	compound	_	_
+13	रहा	रह	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act	0	root	_	_
+14	।	।	PUNCT	SYM		13	punct	_	_
+
+1	मतलब	मतलब	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	dep	_	_
+2	प्रोपोर्शनेटली	प्रोपोर्शनेटली	ADV	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	0	root	_	_
+3	।	।	PUNCT	SYM		2	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	ह्म	ह्म	INTJ	VM	Mood-Sub|Number-Sing|VerbForm-Fin|Voice-Act	1	dep	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	तो_कोई	तो_कोई	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|Repair-Matrix_Tag	2	reparandum	_	_
+2	ऐज़_देर_वॉस_नो_स्पेशल_एज_दैट_बीटेक_हैड_ऑर_एनीथिंग	ऐज़_देर_वॉस_नो_स्पेशल_एज_दैट_बीटेक_हैड_ऑर_एनीथिंग	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag|NestedTag-True|Repair-'ऐज़'	3	root	_	_
+3	।	।	PUNCT	SYM		0	punct	_	_
+
+1	अब	अब	PRON	PRP	Case-Nom|PronType-Prs	0	obl	_	_
+2	मोस्ट_ऑफ_माइ_स्टूडेंट्स_आर_कमिंग_इन_यौर_कैलिफ़ोर्निया_एरिया_फ़ॉर_कंटिन्यूइंग_देर_पीएचडीज़	मोस्ट_ऑफ_माइ_स्टूडेंट्स_आर_कमिंग_इन_यौर_कैलिफ़ोर्निया_एरिया_फ़ॉर_कंटिन्यूइंग_देर_पीएचडीज़	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	3	root	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ओह	ओह	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	dep	_	_
+2	कानपुर	कानपुर	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	1	root	_	_
+3	से	से	ADP	PSP	AdpType-Post	2	case	_	_
+4	।	।	PUNCT	SYM		1	punct	_	_
+
+1	[incomprehensible]	[incomprehensible]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	2	dep	_	_
+2	जॉइनिंग	जॉइनिंग	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	3	root	_	_
+3	हाँ	हाँ	INTJ	VM	Mood-Sub|Number-Sing|Person-3|VerbForm-Fin|Voice-Act	0	dep	_	_
+4	।	।	PUNCT	SYM		3	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	मतलब	मतलब	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	6	dep	_	_
+2	काफ़ी	काफ़ी	ADJ	JJ	Case-Nom	3	amod	_	_
+3	लोग	लोग	NOUN	NN	Case-Nom|Gender-Masc|Number-Plur|Person-3	6	nsubj	_	_
+4	तो	तो	PART	RP		3	dep	_	_
+5	बर्क्ली	बर्क्ली	PROPN	JJ		6	obj	_	_
+6	जा	जा	VERB	VM	Gender-Masc|Number-Plur|Person-3|Voice-Act	0	root	_	_
+7	रहे	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Plur|VerbForm-Part	6	aux	_	_
+8	हैं	है	AUX	VAUX	Mood-Ind|Number-Plur|Person-3|Tense-Pres|VerbForm-Fin	6	aux	_	_
+9	।	।	PUNCT	SYM		6	punct	_	_
+
+1	बर्क्ली	बर्क्ली	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	nsubj	_	_
+2	तुम्हारा	तुम्हारा	PRON	PRP	Case-Acc,Gen|Gender-Masc|Number-Sing|Person-1|Poss-Yes|PronType-Prs	0	obl	_	_
+3	कितनी	कितना	DET	QF	Case-Nom|Gender-Fem|Number-Sing	5	det	_	_
+4	दूर	दूर	ADP	NST	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Person-3	3	root	_	_
+5	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	2	cop	_	_
+6	।	।	PUNCT	SYM		2	punct	_	_
+
+1	ज़्यादा	ज़्यादा	ADJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	advmod	_	_
+2	दूर	दूर	ADV	NST	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing|Person-3	1	root	_	_
+3	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	1	advmod	_	_
+4	है	है	AUX	VM	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin|Voice-Act	1	cop	_	_
+5	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ब_2_घं	ब_2_घं	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|Repair-Matrix_Tag	3	reparandum	_	_
+2	1	1	NUM	QC	NumType-Card	3	nummod	_	_
+3	घंटा	घंटा	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	4	root	_	_
+4	[incomprehensible]	[incomprehensible]	X	VM	Aspect-Perf|Gender-Masc|Number-Sing|Person-3|VerbForm-Part|Voice-Act	0	dep	_	_
+5	।	।	PUNCT	SYM		4	punct	_	_
+
+1	बर्क्ली	बर्क्ली	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	कुछ	कुछ	DET	QF	PronType-Ind	3	det	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	3	3	NUM	QC	NumType-Card	2	nummod	_	_
+2	लोग	लोग	NOUN	NN	Case-Nom|Gender-Masc|Number-Plur|Person-3	4	nsubj	_	_
+3	स्टैनफ़ोर्ड	स्टैनफ़ोर्ड	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	4	obj	_	_
+4	जा	जा	VERB	VM	Gender-Masc|Number-Plur|Person-3|Voice-Act	0	root	_	_
+5	रहे	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Plur|VerbForm-Part	4	aux	_	_
+6	हैं	है	AUX	VAUX	Mood-Ind|Number-Plur|Person-3|Tense-Pres|VerbForm-Fin	4	aux	_	_
+7	।	।	PUNCT	SYM		4	punct	_	_
+
+1	1	1	NUM	QC	NumType-Card	2	nsubj	_	_
+2	बर्क्ली	बर्क्ली	PROPN	VM	Aspect-Perf|Gender-Masc|Number-Sing|Person-3|VerbForm-Part|Voice-Act	0	obj	_	_
+3	जा	जा	VERB	VM	Gender-Masc|Number-Sing|Person-3|Voice-Act	2	root	_	_
+4	रहा	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	3	aux	_	_
+5	है	है	AUX	VAUX	Mood-Ind|Number-Sing|Person-3|Tense-Pres|VerbForm-Fin	3	aux	_	_
+6	।	।	PUNCT	SYM		2	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	ह्म	ह्म	INTJ	VM	Mood-Sub|Number-Sing|VerbForm-Fin|Voice-Act	1	dep	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	1	1	NUM	NNPC	Case-Nom|Number-Sing|Person-3	2	compound	_	_
+2	आद	आद	NUM	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3	3	nsubj	_	_
+3	ऑस्टिन	ऑस्टिन	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	obj	_	_
+4	जा	जा	VERB	VM	Gender-Masc|Number-Plur|Person-3|Voice-Act	3	root	_	_
+5	रहे	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Plur|VerbForm-Part	4	aux	_	_
+6	हैं	है	AUX	VAUX	Mood-Ind|Number-Plur|Person-3|Tense-Pres|VerbForm-Fin	4	aux	_	_
+7	।	।	PUNCT	SYM		3	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	कुछ	कुछ	DET	QF	PronType-Ind	2	det	_	_
+2	लोग	लोग	NOUN	NN	Case-Nom|Gender-Masc|Number-Plur|Person-3	3	nsubj	_	_
+3	अरबाना	अरबा	PROPN	VM	Gender-Masc|Number-Plur|Person-3|VerbForm-Inf|Voice-Act	0	obj	_	_
+4	जा	जा	VERB	VAUX		3	root	_	_
+5	रहे	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Plur|VerbForm-Part	4	aux	_	_
+6	हैं	है	AUX	VAUX	Mood-Ind|Number-Plur|Person-3|Tense-Pres|VerbForm-Fin	4	aux	_	_
+7	।	।	PUNCT	SYM		3	punct	_	_
+
+1	और	और	CCONJ	CC		4	cc	_	_
+2	तुम	तुम	PRON	PRP	Case-Nom|Number-Sing|Person-2|PronType-Prs	4	nsubj	_	_
+3	आयोवा	आयोवा	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	4	obj	_	_
+4	आए	आ	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|Person-3|VerbForm-Part|Voice-Act	0	root	_	_
+5	।	।	PUNCT	SYM		4	punct	_	_
+
+1	और	और	CCONJ	CC		6	cc	_	_
+2	हम	हम	PRON	PRP	Case-Nom|Number-Plur|Person-1|PronType-Prs	6	nsubj	_	_
+3	आयोवा	आयोवा	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	6	root	_	_
+4	घर	घर	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	6	obl	_	_
+5	से	से	ADP	PSP	AdpType-Post	4	case	_	_
+6	भागते	भाग	VERB	VM	Aspect-Imp|Gender-Masc|Number-Plur|VerbForm-Part|Voice-Act	0	advcl	_	_
+7	हुए	हो	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Plur|VerbForm-Part	6	aux	_	_
+8	।	।	PUNCT	SYM		6	punct	_	_
+
+1	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	क्या	क्या	PRON	WQ	PronType-Int	0	obj	_	_
+2	बताएँ	बता	VERB	VM	Mood-Sub|VerbForm-Fin|Voice-Act	1	root	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	वैल_एक्चुअली_इट_डिस्ट्रिब्यूट्स_ईक्वली_आइ_गेस	वैल_एक्चुअली_इट_डिस्ट्रिब्यूट्स_ईक्वली_आइ_गेस	X	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	याह	याह	INTJ	VM	Number-Sing|VerbForm-Fin|Voice-Act|CodeSwitch-Matrix_Tag	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	याह	याह	INTJ	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	0	root	_	_
+2	[laughter]	[laughter]	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	1	dep	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	तो	तो	PART	CC		2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	इ	इ	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|Hesitation-Matrix_Tag	2	dep	_	_
+2	आयोवा	आयोवा	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	5	obj	_	_
+3	कोई	कोई	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	5	nsubj	_	_
+4	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	5	advmod	_	_
+5	जा	जा	VERB	VM	Number-Sing|Voice-Act	0	root	_	_
+6	रहा	रह	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	5	aux	_	_
+7	हमारे	हम	PRON	PRP	Case-Acc,Gen|Gender-Masc|Number-Plur|Person-1|Poss-Yes|PronType-Prs	5	nmod	_	_
+8	यहाँ	यहाँ	PRON	PRP	Case-Acc|PronType-Prs	5	obl	_	_
+9	से	से	ADP	PSP	AdpType-Post	8	case	_	_
+10	इस	यह	DET	DEM	Case-Acc|Number-Sing|Person-3|PronType-Dem	11	det	_	_
+11	बार	बार	NOUN	NN	Case-Nom|Gender-Fem|Number-Sing|Person-3	5	obl	_	_
+12	।	।	PUNCT	SYM		5	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	स्कॉलरशिप	स्कॉलरशिप	NOUN	NN	Case-Acc|Gender-Fem|Number-Sing|Person-3	5	nmod	_	_
+2	का	का	ADP	PSP	AdpType-Post|Case-Nom|Gender-Masc|Number-Sing	1	case	_	_
+3	सीन	सीन	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	5	nsubj	_	_
+4	अच्छा	अच्छा	ADJ	JJ	Gender-Masc|Number-Sing	5	compound	_	_
+5	हो	हो	VERB	VM	Gender-Masc|Number-Sing|Voice-Act	0	root	_	_
+6	गया	जा	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	5	aux	_	_
+7	वैसे	वैसे	PRON	VAUX	Mood-Ind|Number-Sing|Tense-Pres|VerbForm-Fin	5	advmod	_	_
+8	।	।	PUNCT	SYM		5	punct	_	_
+
+1	आयोवा	आयोवा	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	में	में	ADP	PSP	AdpType-Post	1	case	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	0	dep	_	_
+2	य_अ	य_अ	X	NNPC	Case-Nom|Gender-Masc|Number-Sing|Person-3|Hesitation-Matrix_Tag	3	dep	_	_
+3	आइआइटी	आइआइटी	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	compound	_	_
+4	कानपुर	कानपुर	PROPN	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+5	में	में	ADP	PSP	AdpType-Post	4	case	_	_
+6	।	।	PUNCT	SYM		4	punct	_	_
+
+1	दे_गेट_बेटर_स्कॉल्स_नाउ	दे_गेट_बेटर_स्कॉल्स_नाउ	X	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3|CodeSwitch-Matrix_Tag	2	root	_	_
+2	।	।	PUNCT	SYM		0	punct	_	_
+
+1	हाँ	हाँ	INTJ	WQ	PronType-Int	0	root	_	_
+2	हाँ	हाँ	INTJ	VM	Mood-Sub|Number-Sing|VerbForm-Fin|Voice-Act	1	dep	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	हमारा	हम	PRON	PRP	Case-Acc,Gen|Gender-Masc|Number-Plur|Person-1|Poss-Yes|PronType-Prs	6	nmod	_	_
+2	समय	समय	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	6	obl	_	_
+3	में	में	ADP	PSP	AdpType-Post	2	case	_	_
+4	बर्क्ली	बर्क्ली	PROPN	JJ	Case-Nom	6	obj	_	_
+5	कोई	कोई	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	6	nsubj	_	_
+6	गया	जा	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act	0	root	_	_
+7	ही	ही	PART	RP		6	dep	_	_
+8	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	6	advmod	_	_
+9	था	था	AUX	VAUX	Gender-Masc|Mood-Ind|Number-Sing|Tense-Past|VerbForm-Fin	6	aux	_	_
+10	।	।	PUNCT	SYM		6	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	1	1	NUM	NNPC	Case-Nom|Number-Sing|Person-3	2	nummod	_	_
+2	बंदे	बंदा	NOUN	NN	Case-Acc|Gender-Masc|Number-Sing|Person-3	4	nsubj	_	_
+3	को	को	ADP	PSP	AdpType-Post	2	case	_	_
+4	मिली	मिल	VERB	VM	Aspect-Perf|Gender-Fem|Number-Sing|VerbForm-Part|Voice-Act	0	root	_	_
+5	थी	था	AUX	VAUX	Gender-Fem|Mood-Ind|Number-Sing|Tense-Past|VerbForm-Fin	4	aux	_	_
+6	स्टैनफोर्ड	स्टैनफोर्ड	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	4	obj	_	_
+7	।	।	PUNCT	SYM		4	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	ह्म	ह्म	INTJ	VM	Mood-Sub|Number-Sing|VerbForm-Fin|Voice-Act	1	dep	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ए_अह	ए_अह	X	NNP	Case-Acc|Gender-Masc|Number-Sing|Person-3|Hesitation-Matrix_Tag	3	dep	_	_
+2	[pause]	[pause]	X	PSP	AdpType-Post	3	dep	_	_
+3	कोई	कोई	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	6	nsubj	_	_
+4	अरबाना	अरबाना	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	6	obj	_	_
+5	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	6	advmod	_	_
+6	गया	जा	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act	0	root	_	_
+7	था	था	AUX	VAUX	Gender-Masc|Mood-Ind|Number-Sing|Tense-Past|VerbForm-Fin	6	aux	_	_
+8	।	।	PUNCT	SYM		6	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	कुछ	कुछ	DET	QF	PronType-Ind	2	det	_	_
+2	लोग	लोग	NOUN	NN	Case-Nom|Gender-Masc|Number-Plur|Person-3	3	nsubj	_	_
+3	गए	जा	VERB	VM	Aspect-Perf|Gender-Masc|Number-Plur|VerbForm-Part|Voice-Act	0	root	_	_
+4	थे	था	AUX	VAUX	Gender-Masc|Mood-Ind|Number-Plur|Tense-Past|VerbForm-Fin	3	aux	_	_
+5	।	।	PUNCT	SYM		3	punct	_	_
+
+1	1_कॉर्नेल	1_कॉर्नेल	X	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3|Repair-Matrix_Tag	6	reparandum	_	_
+2	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	6	dep	_	_
+3	कॉर्नेल	कॉर्नेल	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	6	obj	_	_
+4	भी	भी	PART	RP		3	dep	_	_
+5	नहीं	नहीं	PART	NEG	Polarity-Neg|PronType-Neg	6	advmod	_	_
+6	गया	जा	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Act	0	root	_	_
+7	था	था	AUX	VAUX	Gender-Masc|Mood-Ind|Number-Sing|Tense-Past|VerbForm-Fin	6	aux	_	_
+8	कोई	कोई	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	6	nsubj	_	_
+9	।	।	PUNCT	SYM		6	punct	_	_
+
+1	यूपेन	यूपेन	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	3	compound	_	_
+2	टाइप	टाइप	NOUN	NN	Case-Nom|Gender-Masc|Number-Sing|Person-3	3	nmod	_	_
+3	जगह	जगह	VERB	VM	Gender-Masc|Number-Sing|Voice-Act	0	obj	_	_
+4	गए	जा	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|Person-3|Polite-Form|VerbForm-Part|Voice-Act	3	root	_	_
+5	थे	था	AUX	VAUX	Gender-Masc|Mood-Ind|Number-Plur|Polite-Form|Tense-Past|VerbForm-Fin	4	aux	_	_
+6	।	।	PUNCT	SYM		3	punct	_	_
+
+1	युपेन	युपेन	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	3	obj	_	_
+2	कोई	कोई	PRON	PRP	Case-Nom|Number-Sing|Person-3|PronType-Prs	3	nsubj	_	_
+3	चला	चल	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Pass	0	root	_	_
+4	गया	जा	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	3	aux	_	_
+5	।	।	PUNCT	SYM		3	punct	_	_
+
+1	या	या	CCONJ	CC		3	cc	_	_
+2	मैडिसन	मैडिसन	PROPN	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	3	obj	_	_
+3	चला	चल	VERB	VM	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part|Voice-Pass	0	root	_	_
+4	गया	जा	AUX	VAUX	Aspect-Perf|Gender-Masc|Number-Sing|VerbForm-Part	3	aux	_	_
+5	।	।	PUNCT	SYM		3	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	ह्म	ह्म	INTJ	VM	Mood-Sub|Number-Sing|VerbForm-Fin|Voice-Act	1	dep	_	_
+3	।	।	PUNCT	SYM		1	punct	_	_
+
+1	ह्म	ह्म	INTJ	NNP	Case-Nom|Gender-Masc|Number-Sing|Person-3	0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+
+1	और	और	CCONJ	CCC		0	root	_	_
+2	।	।	PUNCT	SYM		1	punct	_	_
+

@@ -116,12 +116,14 @@ def parse_dp(dp_file, wts_file, surp_file, k, ofile, num_sent=None):
 				for line in fr.readlines()+['\n']:
 					split_line = line.split()
 					if len(split_line) == 10:
-						word = get_word_from_conllu(split_line)
-						# print word['form'],
-						sentence.append(word)
+						if split_line[0] != "#":
+							word = get_word_from_conllu(split_line)
+							# print word['form'],
+							sentence.append(word)
 					else:
 						if sentence_index % 5 == 0:	print("Sent %s"%sentence_index)
 						if sentence_index >= 0:
+							print(sentence)
 							parser = DependencyParser(sentence)
 							parse = parser.best_parse(maxent,k)
 							for key in parse_stats:

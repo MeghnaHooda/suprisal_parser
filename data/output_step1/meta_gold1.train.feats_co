@@ -1,0 +1,6 @@
+False
+combined_all_features_without_gnp
+SHIFT, None
+REDUCE, None
+RIGHT_ARC, 'dep'
+LEFT_ARC, 'dep'

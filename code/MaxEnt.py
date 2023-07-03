@@ -5,7 +5,7 @@ class MaxEnt:
 	def __init__(self, weights_file, n):
 		self.n = n
 		self.weights = {}
-		with open(weights_file, 'r') as f:
+		with open(weights_file, 'r', encoding="utf8") as f:
 			for line in f.readlines():
 				words = line.strip().split()
 				self.weights[words[0]] = [float(x) for x in words[1:]]

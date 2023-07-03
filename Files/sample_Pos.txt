@@ -1,21 +1,48 @@
-1	कृषि	कृषि	PROPN	NNPC	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	_	_	_
-2	कानून	कानून	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	_	_	_
-3	वापस	वापस	ADJ	JJ	_	2	_	_	_
-4	होने	हो	VERB	VM	Case=Acc|VerbForm=Inf	3	_	_	_
-5	पर	पर	ADP	PSP	AdpType=Post	4	_	_	_
-6	कांग्रेस	कांग्रेस	PROPN	NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	_	_	_
-7	सांसद	सांसद	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	_	_	_
-8	दीपेंद्र	दीपेंद्र	PROPN	NNPC	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	_	_	_
-9	सिंह	सिंह	PROPN	NNPC	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	_	_	_
-10	हुड्डा	हुड्डा	PROPN	NNP	Case=Acc|Number=Sing|Person=3	9	_	_	_
-11	ने	ने	ADP	PSP	AdpType=Post	10	_	_	_
-12	टिकरी	टिकरी	PROPN	NNPC	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	_	_	_
-13	बॉर्डर	बॉर्डर	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	_	_	_
-14	पर	पर	ADP	PSP	AdpType=Post	13	_	_	_
-15	किसानों	किसान	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	14	_	_	_
-16	के	का	ADP	PSP	AdpType=Post	15	_	_	_
-17	साथ	साथ	ADP	NST	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	16	_	_	_
-18	मनाया	मना	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	17	_	_	_
-19	जश्न	जश्न	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	18	_	_	_
-20	|	|	PUNCT	SYM	_	19	_	_	_
+# sent_id = 1
+# begin_time = 00:00:00.793
+# end_time = 00:00:03.000
+# duration = 00:00:02.207
+# speaker_id = Sp1
+# contains_overlap = False
+# Sentence = ओए तुम सुन रहे थे ना ।
+1	ओए	ओए	INTJ	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	dep	_	_
+2	तुम	तुम	PRON	INJ	_	3	nsubj	_	_
+3	सुन	सुन	VERB	VM	Gender=Masc|Number=Sing|Person=3|Polite=Form|Voice=Act	0	root	_	_
+4	रहे	रह	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	3	aux	_	_
+5	थे	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Past|VerbForm=Fin	3	aux	_	_
+6	ना	ना	PART	CC	_	3	dep	_	_
+7	।	।	PUNCT	SYM	_	3	punct	_	_
 
+# sent_id = 2
+# begin_time = 00:00:02.130
+# end_time = 00:00:14.623
+# duration = 00:00:12.493
+# speaker_id = Sp2
+# contains_overlap = False
+# Sentence = हाँ सुन रहा था ।
+1	हाँ	हाँ	INTJ	WQ	Case=Nom|PronType=Int	2	dep	_	_
+2	सुन	सुन	VERB	VM	Gender=Masc|Number=Sing|Voice=Act	0	root	_	_
+3	रहा	रह	AUX	VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	2	aux	_	_
+4	था	था	AUX	VAUX	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	2	aux	_	_
+5	।	।	PUNCT	SYM	_	2	punct	_	_
+
+# sent_id = 3
+# begin_time = 00:00:02.130
+# end_time = 00:00:14.623
+# duration = 00:00:12.493
+# speaker_id = Sp2
+# contains_overlap = True
+# Sentence = अब क्या अपना सब रिकॉर्ड हो के हर जगह जाएगा क्या [laughter] ।
+1	अब	अब	PRON	PRP	Case=Nom|PronType=Prs	10	obl	_	_
+2	क्या	क्या	X	WQ	PronType=Int	3	reparandum	_	Repair=Matrix_Tag
+3	अपना	अपना	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	4	det	_	_
+4	सब	सब	PRON	PRPC	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+5	रिकॉर्ड	रिकॉर्ड	NOUN	UNK	Foreign=Yes	6	compound	_	_
+6	हो	हो	VERB	VM	_	10	advcl	_	_
+7	के	कर	AUX	VAUX	_	6	aux	_	_
+8	हर	हर	DET	QF	PronType=Ind	9	det	_	_
+9	जगह	जगह	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	obl	_	_
+10	जाएगा	जा	VERB	VM	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+11	क्या	क्या	PRON	WQ	PronType=Int	10	obl	_	_
+12	[laughter]	[laughter]	X	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	dep	_	_
+13	।	।	PUNCT	SYM	_	10	punct	_	_
