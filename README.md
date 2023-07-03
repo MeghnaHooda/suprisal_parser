@@ -9,11 +9,11 @@ python2 : sudo apt install python2
 numpy :   sudo apt install python-numpy
 
 ## Files:
-ArcEager.py:		Implements the Arc Eager algorithm (can be replaced by any other incremental dependency parse algorithm)
-DependenyParse.py: 	The main function implemented here is best_parse which calulates likelihoods and surprisal
-file_utilities.py:	Implements mundane functions for file  handling
-maxent.py:			Implements prediction using megam weights. Can be replaced by any standard model for prediction
-file_tasks.py (optional): Contains functions to do intermediate file processing. Not needed if you have data in the right form
+-ArcEager.py:		Implements the Arc Eager algorithm (can be replaced by any other incremental dependency parse algorithm)
+-DependenyParse.py: 	The main function implemented here is best_parse which calulates likelihoods and surprisal
+-file_utilities.py:	Implements mundane functions for file  handling
+-maxent.py:			Implements prediction using megam weights. Can be replaced by any standard model for prediction
+-file_tasks.py (optional): Contains functions to do intermediate file processing. Not needed if you have data in the right form
 
 ## To run the parser
 
@@ -21,7 +21,7 @@ first cd to code directory
 
 Commands to find out surprisal values:
 
-Step 1: Train the parser
+Step 1: Train the parser /n
 `./main.py process --dir [PATH WHERE output of step1 is stored] --ifiles [PATH > TRAINING DATA FILE] [PATH > DEVELOPMENT DATA FILE] --ofile [PATH > OUTPUT DATA FILE] --file_type conllu --feature_set combined_all_features_without_gnp`
 
 `./main.py process --dir ../data/output_step1 --ifiles ../data/utf8/hi_hdtb-ud-train.conllu.txt ../data/utf8/hi_hdtb-ud-dev.conllu.txt --ofile gold1.train.feats_co --file_type conllu --feature_set combined_all_features_without_gnp`
