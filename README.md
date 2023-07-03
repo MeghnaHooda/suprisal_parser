@@ -22,10 +22,9 @@ first cd to code directory
 Commands to find out surprisal values:
 
 Step 1: Train the parser
+`./main.py process --dir [PATH WHERE output of step1 is stored] --ifiles [PATH > TRAINING DATA FILE] [PATH > DEVELOPMENT DATA FILE] --ofile [PATH > OUTPUT DATA FILE] --file_type conllu --feature_set combined_all_features_without_gnp`
 
-./main.py process --dir [PATH WHERE output of step1 is stored] --ifiles [PATH > TRAINING DATA FILE] [PATH > DEVELOPMENT DATA FILE] --ofile [PATH > OUTPUT DATA FILE] --file_type conllu --feature_set combined_all_features_without_gnp
-
-./main.py process --dir ../data/output_step1 --ifiles ../data/utf8/hi_hdtb-ud-train.conllu.txt ../data/utf8/hi_hdtb-ud-dev.conllu.txt --ofile gold1.train.feats_co --file_type conllu --feature_set combined_all_features_without_gnp
+`./main.py process --dir ../data/output_step1 --ifiles ../data/utf8/hi_hdtb-ud-train.conllu.txt ../data/utf8/hi_hdtb-ud-dev.conllu.txt --ofile gold1.train.feats_co --file_type conllu --feature_set combined_all_features_without_gnp`
 
 Note: For windows try python main.py proces... instead of ./main.py pro...
 
