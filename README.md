@@ -9,11 +9,11 @@ python2 : sudo apt install python2
 numpy :   sudo apt install python-numpy
 
 ## Files:
-	ArcEager.py:		Implements the Arc Eager algorithm (can be replaced by any other incremental dependency parse algorithm)
-	DependenyParse.py: 	The main function implemented here is best_parse which calulates likelihoods and surprisal
-	file_utilities.py:	Implements mundane functions for file  handling
-	maxent.py:			Implements prediction using megam weights. Can be replaced by any standard model for prediction
-	file_tasks.py (optional): Contains functions to do intermediate file processing. Not needed if you have data in the right form
+ArcEager.py:		Implements the Arc Eager algorithm (can be replaced by any other incremental dependency parse algorithm)
+DependenyParse.py: 	The main function implemented here is best_parse which calulates likelihoods and surprisal
+file_utilities.py:	Implements mundane functions for file  handling
+maxent.py:			Implements prediction using megam weights. Can be replaced by any standard model for prediction
+file_tasks.py (optional): Contains functions to do intermediate file processing. Not needed if you have data in the right form
 
 ## To run the parser
 
