@@ -3,7 +3,6 @@
 An Incremental Dependency Parser intended to get surprisal values
 
 ## Packages required:
-- Package : command to install package
 - zip :     sudo apt install zip
 - python(>3.3) : sudo apt install python
 - numpy :   pip install numpy
